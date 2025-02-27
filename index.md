@@ -13,7 +13,7 @@ reg_text: Registration for BioHackathon Europe 2024 is now closed
 
 [![ELIXIR logo](/img/elixir-logo.svg){: .is-pulled-right .ml-5 .mb-5 width="170"}](https://elixir-europe.org/)
 
-2025 BioHackathon Europe is an annual event that brings together life scientists from around the world. It is organised by [ELIXIR Europe](https://elixir-europe.org/), and offers an intense week of hacking, with over 160 participants working on diverse and exciting projects. **The goal is to create code that addresses challenges in bioinformatics research.** 
+BioHackathon Europe is an annual event that brings together life scientists from around the world. It is organised by [ELIXIR Europe](https://elixir-europe.org/), and offers an intense week of hacking, with over 160 participants working on diverse and exciting projects. **The goal is to create code that addresses challenges in bioinformatics research.** 
 
 This year we are holding the BioHackathon at Campus Belloch near Barcelona (see the [Venue page](/venue/)), with remote access available if you cannot attend in person.
 
