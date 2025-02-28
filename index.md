@@ -42,33 +42,25 @@ The key objective of BioHackathon Europe is to advance the development of an ope
 
 ## Benefits
 ### New developments
-  * Integrate prototypes, proof-of-concept proposals or drafts into production
-  * Kickstart projects
-
-### Existing developments and resources
-  * Test new versions
-  * Gather information for new features
-  * Reach out to new users
-  * Improve documentation and awareness
-  * Receive input from experts in different fields
+  * Advancing new ideas and prototypes into fully functional tools and resources
+  * Enhancing existing bioinformatics resources and testing new features
+  * Engaging with potential users and improving documentation
 
 ### Personal development and community building
-  * Lead projects in one of the biggest BioHackathon events in Europe with international participation
-  * Learn collaboratively with peers
-  * Share interests to organise or grow communities
-  * Meet and make new contacts
-  * Publish pre-prints
+  * Networking with international experts in bioinformatics in one of the biggest BioHackathon events in Europe
+  * Gaining experience in collaborative software development
+  * Learning new skills in coding, data integration and tool development
+  * Publishing outputs such as preprints or white papers based on BioHackathon project outcomes
 
 ## Industry engagement
-People from diverse companies are encouraged to participate and submit project proposals. If you have any questions, for example regarding the scope of the event, contact the ELIXIR Industry and Innovation Officer Despoina Sousoni (<despoina.sousoni@elixir-europe.org>).
+BioHackathon Europe welcomes participants from industry and encourages collaboration between academia and commercial partners. Companies interested in contributing to projects or proposing challenges can get in touch via ELIXIR’s Industry and Innovation office. For more information, contact ELIXIR Industry and Innovation Officer Despoina Sousoni (<despoina.sousoni@elixir-europe.org>).
 
 [View the industry flyer](https://www.google.com/url?q=https://drive.google.com/file/d/1mDaPGDzsffCVHsqVWeiI5OkVYR3XOxaK/view?usp%3Dsharing&sa=D&source=docs&ust=1708618300910606&usg=AOvVaw345L9WOY6g7xj711NVItqr){: .button .is-size-5 .is-inline-block .my-2}
 
->“It was an amazing experience...Two teams embraced our challenge to demonstrate the validity of edge computing. We reached our  goal of connecting with the bioinformatics community and creating awareness for a new technology. No doubt we will participate in the future.”
+>'It was an amazing experience...Two teams embraced our challenge to demonstrate the validity of edge computing. We reached our  goal of connecting with the bioinformatics community and creating awareness for a new technology. No doubt we will participate in the future.'
 >
 >_Natalia Jimenez (Atos)_
 {: .mb-6}
 
 ## Code of Conduct
-The [ELIXIR Code of Conduct](https://elixir-europe.org/events/code-of-conduct) has been created so all participants at ELIXIR events organised and/or funded by the [ELIXIR Hub](https://elixir-europe.org/about-us/who-we-are) can interact with each other in a respectful and safe environment. Participants have avenues to turn to in case they believe there has been a breach to this Code of Conduct.
-
+BioHackathon Europe follows the [ELIXIR Code of Conduct](https://elixir-europe.org/events/code-of-conduct) to ensure a respectful and inclusive environment for all participants. The Code of Conduct applies to both in-person and virtual interactions during the event.
