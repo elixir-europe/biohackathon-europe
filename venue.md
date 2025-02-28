@@ -19,7 +19,7 @@ The Hotel Esplanade Resort & Spa offers a range of amenities for a wonderful sta
  * Fitness facilities: A fully equipped gym for your workout needs
  * Outdoor activities: Opportunities for cycling and hiking around Lake Scharmützelsee
 
-[Venue website](https://www.chateauform.com/en/house/campus-belloch/){: .button .is-size-5 .is-inline-block .mt-2}
+[Venue website](https://www.esplanade-resort.de/){: .button .is-size-5 .is-inline-block .mt-2}
 
 ## Accommodation
 Participants will be accommodated in modern, well-appointed single rooms. Each room features amenities like a work desk, Wi-Fi, refrigerator and TV to ensure a comfortable stay. 
