@@ -1,7 +1,7 @@
 ---
 title: Venue
 subtitle: Hotel Esplanade Resort and Spa, Berlin
-description: The 2024 BioHackathon Europe will be held at Hotel Esplanade Resort and Spa, Bad Saarow.
+description: The 2025 BioHackathon Europe will be held at Hotel Esplanade Resort and Spa, Bad Saarow.
 layout: page
 show_sidebar: false
 hero_image: /img/heroes/hero-venue.webp
