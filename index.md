@@ -1,14 +1,14 @@
 ---
 title: BioHackathon Europe
-subtitle: 4–8 November 2024<br>Barcelona<br><a href="https://twitter.com/hashtag/BioHackEU24" class="is-size-6 ">#BioHackEU24</a></span>
-description: Find out about the 2024 BioHackathon Europe, where hackers get together to make life science research easier.
+subtitle: 3–7 November 2025<br>Berlin<br><a href="https://twitter.com/hashtag/BioHackEU25" class="is-size-6 ">#BioHackEU25</a></span>
+description: Find out about the 2025 BioHackathon Europe, where hackers get together to make life science research easier.
 layout: page
 show_sidebar: false
 hero_image: /img/heroes/hero-2025.webp
 hero_darken: true
 hero_link:
 hero_link_text:
-reg_text: Registration for BioHackathon Europe 2024 is now closed
+reg_text: Registration for BioHackathon Europe 2025 will open in June 
 ---
 
 [![ELIXIR logo](/img/elixir-logo.svg){: .is-pulled-right .ml-5 .mb-5 width="170"}](https://elixir-europe.org/)
