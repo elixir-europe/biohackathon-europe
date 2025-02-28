@@ -1,7 +1,7 @@
 ---
 title: Registration
 subtitle:
-description: When and how you can register for BioHackathon Europe 2024.
+description: When and how you can register for BioHackathon Europe 2025
 layout: page
 show_sidebar: false
 hero_image: /img/heroes/hero-flipchart-hall.webp
@@ -10,21 +10,23 @@ hero_darken: true
 
 ## Participant registration
 
-**Registration for BioHackathon Europe 2024 is now closed.** 
+**Registration for BioHackathon Europe 2025 will open in June** 
 
-Please note that while registration is free, F2F attendees need to cover their own travel, food and accommodation costs. See the [Venue page](/venue/) for food and accommodation prices.
+Participants are welcome to join BioHackathon Europe, either on-site or online, regardless of project submission. It’s free to attend BioHackathon Europe. Attendance is free, but in-person participants must cover their own travel and accommodation costs. For pricing details, visit the Venue page [Venue page](/venue/).
 
-
-BioHackathon Europe has limited space for face-to-face participation. The registration is based on a first-come, first-served basis.
+Registration for BioHackathon Europe 2024 opens in June – more information will follow. Please note that all in-person participants are required to stay for the whole duration of the BioHackathon.
 
 ## Who can register?
-Although the event is organised and funded by [ELIXIR Europe](https://elixir-europe.org), participants from industry and SMEs, and from countries and organisations outside ELIXIR, are welcome to register. 
+Everyone is encouraged to submit project proposals for BioHackathon Europe, irrespective of affiliation. Although ELIXIR Europe organises and funds this event, participants from industry, SMEs and non-ELIXIR countries or organisations are welcome to register. 
 
 If you have any queries about this, please contact <biohackathon-europe@elixir-europe.org>.
 
-## Attendance at the venue
+## Funding 
 
-All participants are required to stay for the whole duration of the meeting.
+BioHackathon Europe is committed to open participation. Each approved project proposal leads may designate up to three participants for on-site attendance, regardless of affiliation. This allocation will be determined during project proposal submission. Since these reserved seats reduce availability for open registration, the following guidelines apply:
+A maximum of three on-site participants per project can be reserved
+ELIXIR may fund up to two of these participants, provided they belong to an ELIXIR Node
+ELIXIR will not provide any additional funding beyond this
 
 ## Code of conduct
 The Biohackathon will adhere to the [ELIXIR code of Conduct](https://elixir-europe.org/events/code-of-conduct).
