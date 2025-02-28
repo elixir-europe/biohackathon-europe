@@ -1,69 +1,70 @@
 ---
 title: Venue
-subtitle: Campus Belloch, Barcelona
-description: The 2024 BioHackathon Europe will be held at Campus Belloch, near Barcelona.
+subtitle: Hotel Esplanade Resort and Spa, Berlin
+description: The 2024 BioHackathon Europe will be held at Hotel Esplanade Resort and Spa, Bad Saarow.
 layout: page
 show_sidebar: false
 hero_image: /img/heroes/hero-venue.webp
 hero_darken: true
 ---
 
-## Campus Belloch
-Campus Belloch is just 30 minutes from Barcelona, yet you will find yourself surrounded by greenery as far as the eye can see, thanks to a 200 hectare estate with a private park for relaxation.
+## Hotel Esplanade Resort and Spa
+We are excited to announce that this year's event will be held at the Hotel Esplanade Resort & Spa in Bad Saarow, Germany. Located on the shores of Lake Scharmützelsee, the hotel offers a serene environment ideal for both relaxation and focused collaboration. This tranquil setting for our gathering is approximately 45 minutes from Berlin.
 
-Surrounded by forests and mountains, it is only natural that the preservation of the environment is of special importance to the Campus. The minimalist architecture of the Campus works in harmony with its surroundings and has been designed with sustainability as a top priority.
+We look forward to welcoming you to Hotel Esplanade for some engaging and productive hacking, and a bit of fun on the side.
 
 ![A lounge in Campus Belloch](/img/venue-lounge.webp){: .column .is-one-third}
 ![A meeting room at Campus Belloch](/img/venue-meeting-room.webp){: .column .is-one-third}
 ![Dishes of food at Campus Belloch](/img/venue-dinner.webp){: .column .is-one-third}
 {: .columns .mt-4}
 
-## Entertainment activities
- * **Outside** you can enjoy tennis, football, basketball, mountain biking and paddle.
- * **Inside** you can enjoy a gym, karaoke, table football, billiards, darts and board games.
+## Amenities and activities
+The Hotel Esplanade Resort & Spa offers a range of amenities for a wonderful stay.
+ * Wellness area: A 3500m² spa with indoor pools, saunas and relaxation zones
+ * Fitness facilities: A fully equipped gym for your workout needs
+ * Outdoor activities: Opportunities for cycling and hiking around Lake Scharmützelsee
 
 [Venue website](https://www.chateauform.com/en/house/campus-belloch/){: .button .is-size-5 .is-inline-block .mt-2}
 
 ## Accommodation
-Accommodation is available in single rooms. All prices include VAT and this cost must be paid by the attendee:
+Participants will be accommodated in modern, well-appointed single rooms. Each room features amenities like a work desk, Wi-Fi, refrigerator and TV to ensure a comfortable stay. 
 
-| Room arrangement    | Price for 4 nights per person |
+## Accommodation cost
+
+| Room arrangement    | Price for four nights per person |
 | -------- | ------- |
-| Single room	  | 658.80 EUR (Including VAT) |
-
-ELIXIR will pay for the catering and drinks, meeting room hire and any social activity during the event. 
+| Single room	  | €772.00 (Including VAT and energy surcharge) | 
 
 ## Booking process
-Your accommodation is automatically booked at the venue, once you have successfully registered for the F2F event.
+Once allocated a place at the face-to-face event, your hotel accommodation will be automatically reserved. However, your reservation will only be confirmed once full payment has been received. We will confirm further details regarding payment and confirmation in due course.
 
 ## Payment
-The accommodation needs to be paid before the event. You will be asked to pay the venue directly by credit card. The venue will email you a payment link and instructions.
+**Self-funded participants:** Accommodation costs must be settled prior to the event. The venue will provide payment instructions, including a secure link for credit card transactions. 
+**Funded participants:** ELIXIR will cover accommodation costs directly, so no payment is required. Please see the What is funded section for details.
+
+## Extra costs
+ELIXIR will cover meeting facilities, social activities, catering and beverages up until two hours after dinner. After this period, the hotel bar will be open for participants who wish to purchase extra drinks. 
 
 ## Cancellation policy
-You can cancel attendance up to one month prior to the event (by 4 October), by contacting us at <biohackathon-europe@elixir-europe.org>. Please note, if you cancel after this date or do not show up at the event you will be responsible for full payment, even if you are on the invite list.
+Cancellations are permitted up until 1 October 2025. Please note, if you cancel after this date or do not show up at the event you will be responsible for full payment, even if your participation is funded by ELIXIR. 
 
 ## Travel
 ### Address
-Parc de Belloch, C-251, Km 5,6, 08430 La Roca del Vallès 08430 Barcelona.
+Seestraße 49, 15526 Bad Saarow, Germany
 
-### By plane
-45 minutes drive from Barcelona-El Prat Airport.
+### From the airport
+The venue is approximately 45-minute’s drive from Berlin Brandenburg Airport (BER)
 
 ### By car
-60 min from Barcelona.
+Bad Saarow is about an hour's drive from central Berlin. Parking is available at the hotel
 
 ### By train
-* 45 minutes from Barcelona-Sants train station to Cardedeu train station.
-* From Barcelona-El Prat Airport, take the train from stop "Aeroport" (at Terminal 2) to Cardedeu.
-* Please check local train times and information on the [Catalonian Government website](https://rodalies.gencat.cat/ca/horaris/).
-* Options for travelling from Cardedeu train station to Campus Belloch: 
-    * walk (40 minutes) 
-    * taxi (10 minutes using Cabify, Free Now or NTaxi) 
-    * bus (25 minutes): 15min walk from station to bus, then a bus ride of 4min (3 stops), then a 5min walk from the bus stop to the venue.
-* Granollers Centre train station: 15mins in a taxi to the venue.
+From Berlin Hauptbahnhof (Central Station), take a regional train to Fürstenwalde (Spree) station. From there, Bad Saarow is accessible via local transport or taxi
 
-### Taxi numbers
-   * Cardedeu train station: +34 938 46 01 01
-   * Granollers train station: +34 938 70 30 28
+### Taxis
+While Uber, Bolt and FreeNow all operate in Berlin, the venue has provided the contact details of a few taxi companies.
+   * Taxi Krüger: +49 1747878080
+   * FW Taxi: +49 1377777
+   * Taxi Kleemann: +49 3361300800 
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2982.2770787316304!2d2.3365468154332802!3d41.62814197924271!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a4c95ee837dc85%3A0x3fc97318fae2bb8a!2sBelloch%20Campus!5e0!3m2!1sen!2suk!4v1677059061828!5m2!1sen!2suk" width="600" height="450" style="border:1;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="mt-3" title="A map showing the location of Campus Belloch"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2570.5545085927624!2d14.046963350682926!3d52.29175952773259!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47078a0258fe21a3%3A0xa6c15d8aff907ccb!2sHotel%20Esplanade%20Resort%20%26%20Spa!5e0!3m2!1sen!2suk!4v1740759371748!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
