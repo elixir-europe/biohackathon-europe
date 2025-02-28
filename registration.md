@@ -24,9 +24,22 @@ If you have any queries about this, please contact <biohackathon-europe@elixir-e
 ## Funding 
 
 BioHackathon Europe is committed to open participation. Each approved project proposal leads may designate up to three participants for on-site attendance, regardless of affiliation. This allocation will be determined during project proposal submission. Since these reserved seats reduce availability for open registration, the following guidelines apply:
-A maximum of three on-site participants per project can be reserved
-ELIXIR may fund up to two of these participants, provided they belong to an ELIXIR Node
-ELIXIR will not provide any additional funding beyond this
+  * A maximum of three on-site participants per project can be reserved
+  * ELIXIR may fund up to two of these participants, provided they belong to an ELIXIR Node
+  * ELIXIR will not provide any additional funding beyond this
+
+## What ELIXIR covers
+
+ELIXIR covers the following costs for funded participants: 
+  * Accommodation: Four nights at the venue (see Venue page for details). ELIXIR pays this directly, so funded participants don’t need to arrange payment
+  * Meals: All meals at the venue for the duration of the event – this applies to all participants, not just funded attendees
+  * Travel: Reimbursement of up to €400 (including VAT) on a claim basis
+
+Accommodation and meal costs at the venue are paid directly by ELIXIR, while travel expenses will be reimbursed after the event. Funded participants will receive an email around July with the deadline for submitting their reimbursement claims.
+
+Important: This funding is strictly for the BioHackathon event and cannot be transferred to another attendee or event.
+Data privacy
+Please see our Data Privacy document for more information.
 
 ## Code of conduct
 The Biohackathon will adhere to the [ELIXIR code of Conduct](https://elixir-europe.org/events/code-of-conduct).
