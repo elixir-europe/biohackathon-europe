@@ -13,11 +13,6 @@ We are excited to announce that this year's event will be held at the Hotel Espl
 
 We look forward to welcoming you to Hotel Esplanade for some engaging and productive hacking, and a bit of fun on the side.
 
-![A lounge in Campus Belloch](/img/venue-lounge.webp){: .column .is-one-third}
-![A meeting room at Campus Belloch](/img/venue-meeting-room.webp){: .column .is-one-third}
-![Dishes of food at Campus Belloch](/img/venue-dinner.webp){: .column .is-one-third}
-{: .columns .mt-4}
-
 ## Amenities and activities
 The Hotel Esplanade Resort & Spa offers a range of amenities for a wonderful stay.
  * Wellness area: A 3500m² spa with indoor pools, saunas and relaxation zones
