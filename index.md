@@ -30,12 +30,10 @@ Maybe just include them (but less intuitive to edit that way).
 {: .columns .stripe .my-6}
 
 ## Scope
-BioHackathon activities are driven by practical sessions where people gather, discuss, and implement ideas during intensive coding sessions. The topics will be aligned to challenges proposed by ELIXIR [Platforms](https://elixir-europe.org/platforms), [Communities](https://elixir-europe.org/communities) and [Focus Groups](https://elixir-europe.org/focus-groups).
+The BioHackathon provides space for collaboration and innovation in computational biology and bioinformatics. Participants engage in intensive, hands-on programming and content-creation activities, data integration and software development. The topics are aligned with the needs of ELIXIR [Platforms](https://elixir-europe.org/platforms), [Communities](https://elixir-europe.org/communities) and [Focus Groups](https://elixir-europe.org/focus-groups), as captured in the ELIXIR Scientific Programme.
 
 ## Goals
-  * Advance the development of an open source infrastructure for data integration, which will accelerate scientific innovation. We focus on areas that support the work of ELIXIR Platforms, Communities and Focus Groups. These include areas such as FAIR, identifiers, metadata standards, ontologies and metadata catalogues.
-  * Engage technical people in the bioinformatics community inside and outside ELIXIR to work together on topics of common interest aligned to ELIXIR activities.
-  * Strengthen the interactions with ELIXIR Platforms, Communities and Focus Groups to establish and reinforce collaborations through hands-on programming activities.
+The key objective of BioHackathon Europe is to advance the development of an open-source service infrastructure to accelerate scientific innovation. We focus on areas that support the work of ELIXIR Platforms, Communities and Focus Groups, covering areas such as FAIR principles, identifiers, metadata standards, ontologies and metadata catalogues by engaging technical experts in the bioinformatics community, both within and beyond ELIXIR, to collaborate on topics of common interest aligned with ELIXIR activities.
   
 ![Three people chatting in front of a laptop](/img/square-tile-table-chat.webp){: .column .is-one-third .my-4}
 ![Tables of hackers in the main hall](/img/square-tile-barcelona-hall.webp){: .column .is-one-third .my-4}
