@@ -4,7 +4,7 @@ subtitle: 4–8 November 2024<br>Barcelona<br><a href="https://twitter.com/hasht
 description: Find out about the 2024 BioHackathon Europe, where hackers get together to make life science research easier.
 layout: page
 show_sidebar: false
-hero_image: /img/heroes/hero-2023-group-shot.webp
+hero_image: /img/heroes/hero-2025.webp
 hero_darken: true
 hero_link:
 hero_link_text:
