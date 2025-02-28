@@ -36,13 +36,6 @@ ELIXIR covers the following costs for funded participants:
 Accommodation and meal costs at the venue are paid directly by ELIXIR, while travel expenses will be reimbursed after the event. Funded participants will receive an email around July with the deadline for submitting their reimbursement claims.
 
 Important: This funding is strictly for the BioHackathon event and cannot be transferred to another attendee or event.
-Data privacy
-Please see our Data Privacy document for more information.
 
-## Code of conduct
-The Biohackathon will adhere to the [ELIXIR code of Conduct](https://elixir-europe.org/events/code-of-conduct).
-
-## Data protection
-The registration form gives you the opportunity to share your contact details with other attendees. If you agree to share your details (name, email, affiliation), these will be kept by the ELIXIR Hub and on EventCase for two months after the event. After this time they will be deleted from both locations. 
-
-If you want the details to be removed earlier, or if you have any queries, please contact us at <biohackathon-europe@elixir-europe.org>.
+## Data privacy
+Please see our [Data Privacy]([https://elixir-europe.org/events/code-of-conduct](https://drive.google.com/file/d/1Fk487FZ4I3QRuXV_HTIbiWX_XiGoDehz/view)) document for more information.
