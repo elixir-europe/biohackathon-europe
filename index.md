@@ -15,9 +15,7 @@ reg_text: Registration for BioHackathon Europe 2025 will open in June
 
 BioHackathon Europe is an annual event that brings together bioinformaticians and computational biologists from around the world. It’s organised by [ELIXIR Europe](https://elixir-europe.org/), and offers an intense week of hacking, with participants working on diverse and exciting projects. BioHackathon is a community-driven event, which provides an opportunity for members of the life sciences community to meet and work together on topics of common interest. **The goal is to create code that addresses challenges in bioinformatics research.** 
 
-This year we are holding the BioHackathon at Hotel Esplanade Resort in Berlin, Germany from 3 to 7 November (see the [Venue page](/venue/)), with remote access available if you cannot attend in person. Registration will open in June 2025 – the exact date will be confirmed before then.
-
-Spaces are limited for face-to-face participation and the registration is based on a first-come, first-served basis. **Registration for the 2024 BioHackathon will open in May.**
+This year we are holding the BioHackathon at Hotel Esplanade Resort in Berlin, Germany from 3 to 7 November (see the [Venue page](/venue/)), with remote access available if you cannot attend in person. **Registration will open in June 2025 – the exact date will be confirmed before then.**
 
 <!---
 Images below wrap in a <p> tag. To-do: include images or find another 
