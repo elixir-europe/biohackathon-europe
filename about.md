@@ -14,8 +14,6 @@ The BioHackathon offers an intense week of hacking, with over 160 international 
 
 The first BioHackathon Europe was held in Paris in 2018, inspired by the long-standing BioHackathons organised in Japan by the National Bioscience Database Center [(NBDC)](https://biosciencedbc.jp/?lng=en) and Database Center for Life Science [(DBCLS)](https://dbcls.rois.ac.jp/index-en.html) since 2008 (see their [BioHackathon website](http://www.biohackathon.org/)).
 
-Please note: YouTube videos load cookies when you start playing them. If you prefer not to accept cookies, please avoid playing the video. For more information, refer to our website privacy statement.
-
 {% include youtube-video.html video="mUzIdQH6zOQ" video_title="A video overview of the BioHackathon" %}
  
 ## Previous BioHackathons
