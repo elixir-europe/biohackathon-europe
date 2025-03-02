@@ -1,7 +1,7 @@
 ---
 title: Committees
 subtitle: 
-description: The members of the BioHackathon Europe Organising and Programme Committees.
+description: The members of the BioHackathon Europe Organising and Programme Committees
 layout: page
 show_sidebar: false
 hero_image: /img/heroes/hero-2021-crowd.webp
