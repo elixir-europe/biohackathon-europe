@@ -12,4 +12,4 @@ hero_darken: true
 <biohackathon-europe@elixir-europe.org>
 
 ## Logistics, travel and accommodation
-Chloè Llewellyn (<events@elixir-europe.org>)
+Chloè Llewellyn: <events@elixir-europe.org>
