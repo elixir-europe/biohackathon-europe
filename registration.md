@@ -30,10 +30,10 @@ BioHackathon Europe is committed to open participation. Each approved project pr
 
 ELIXIR covers the following costs for funded participants: 
   * **Accommodation:** Four nights at the venue (see Venue page for details). ELIXIR pays this directly, so funded participants don’t need to arrange payment
-  * **Meals:** All meals at the venue for the duration of the event – *this applies to all participants, not just funded attendees*
-  * **Travel:** Reimbursement of up to €400 (including VAT) on a claim basis
+  * **Meals:** All meals at the venue from lunch on Monday to lunch on Friday at the event – *this applies to all participants, not just funded attendees*
+  * **Transport to and from the venue:** Reimbursement of up to €400 (including VAT) on a claim basis for transport only (flights, public transport and taxis)
 
-Accommodation and meal costs at the venue are paid directly by ELIXIR, while travel expenses will be reimbursed after the event. Funded participants will receive an email around July with the deadline for submitting their reimbursement claims.
+Accommodation and meal costs at the venue are paid directly by ELIXIR, while reimbursement for transport to and from the venue will be processed after the event. Funded participants will receive an email around July with the deadline for submitting their reimbursement claims. Please note that all expenses for food and refreshments purchased while travelling will not be reimbursed.
 
 Important: This funding is strictly for the BioHackathon event and cannot be transferred to another attendee or event.
 
