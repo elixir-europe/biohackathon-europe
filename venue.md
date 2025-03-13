@@ -35,7 +35,7 @@ Once allocated a place at the face-to-face event, your hotel accommodation will 
 
 ## Payment
 **Self-funded participants:** Accommodation costs must be settled prior to the event. The venue will provide payment instructions, including a secure link for credit card transactions. 
-**Funded participants:** ELIXIR will cover accommodation costs directly, so no payment is required. Please see the What is funded section for details.
+**Funded participants:** ELIXIR will cover accommodation costs directly, so no payment is required. 
 
 ## Extra costs
 ELIXIR will cover meeting facilities, social activities, catering and beverages up until two hours after dinner. After this period, the hotel bar will be open for participants who wish to purchase extra drinks. 
