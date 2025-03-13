@@ -48,7 +48,7 @@ Cancellations are permitted up until 1 October 2025. Please note, if you cancel 
 Seestraße 49, 15526 Bad Saarow, Germany
 
 ### From the airport
-The venue is approximately 45-minute’s drive from Berlin Brandenburg Airport (BER)
+The venue is approximately a 45-minute drive from Berlin Brandenburg Airport (BER)
 
 ### By car
 Bad Saarow is about an hour's drive from central Berlin. Parking is available at the hotel
