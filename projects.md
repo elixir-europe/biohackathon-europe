@@ -14,7 +14,7 @@ hero_darken: true
 > - Commitment to attending  
 > - Collaboration  
 > - Balancing veterans and newcomers  
-> - Alignment with ELIXIR’s 2024–2028 Scientific Programme  
+> - Alignment with ELIXIR’s [2024–2028 Scientific Programme](https://elixir-europe.org/news/programme-2024-28)  
 > - Novelty  
 > - Feasibility  
 > - Vision  
