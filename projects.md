@@ -13,7 +13,7 @@ hero_darken: true
 > Projects will be evaluated based on:  
 > - Commitment to attending  
 > - Collaboration  
-> - Balance between veterans & newcomers  
+> - Balancing veterans and newcomers  
 > - Alignment with ELIXIR’s 2024–2028 Scientific Programme  
 > - Novelty  
 > - Feasibility  
