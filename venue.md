@@ -38,7 +38,7 @@ Once allocated a place at the face-to-face event, your hotel accommodation will 
 **Funded participants:** ELIXIR will cover accommodation costs directly, so no payment is required. 
 
 ## Extra costs
-ELIXIR will cover meeting facilities, social activities, catering and beverages up until two hours after dinner. After this period, the hotel bar will be open for participants who wish to purchase extra drinks. 
+ELIXIR will cover meeting facilities, social activities, catering and beverages up until an hour and a half after dinner. After this period, the hotel bar will be open for participants who wish to purchase extra drinks. 
 
 ## Cancellation policy
 Cancellations are permitted up until 1 October 2025. Please note, if you cancel after this date or do not show up at the event you will be responsible for full payment, even if your participation is funded by ELIXIR. 
