@@ -1,11 +1,16 @@
 ---
 title: Projects
+subtitle: Call for project proposals is now open!
 description: BioHackathon Europe projects
 layout: page
 show_sidebar: false
 hero_image: /img/heroes/hero-2023-hall.webp
 hero_darken: true
 ---
+
+We are opening the project submissions for 2025 on Monday, 17 March! 
+
+[Submit your project](https://app.oxfordabstracts.com/stages/77739/submitter){: .button .is-size-5 .is-inline-block .mt-2 .mb-5}
 
 > ### **Project selection criteria for BioHackathon Europe 2025**  
 > **Deadline for project submission: 14 April 2025**  
