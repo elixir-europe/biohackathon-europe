@@ -15,7 +15,9 @@ $button-border-width: 0;
 // Need to set a height on html and body to
 // enable a sticky footer.
 html {
-  height: 100%;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
 }
 
 // Darken the text, enable flexbox-based sticky footer.
