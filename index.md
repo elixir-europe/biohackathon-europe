@@ -7,7 +7,7 @@ show_sidebar: false
 hero_image: /img/heroes/hero-2025.webp
 hero_darken: true
 hero_link: /projects/
-hero_link_text: Call for project proposals now open
+hero_link_text: Call for project proposals opens Monday, 17 March
 reg_text: Registration for BioHackathon Europe 2025 will open in June 
 ---
 
