@@ -1,11 +1,27 @@
 ---
 title: Projects
-description: The projects that will be worked on during BioHackathon Europe 2024.
+description: BioHackathon Europe projects
 layout: page
 show_sidebar: false
 hero_image: /img/heroes/hero-2023-hall.webp
 hero_darken: true
 ---
+
+> ### **Project selection criteria for BioHackathon Europe 2025**  
+> **Deadline: 14 April 2025**  
+>  
+> Projects will be evaluated based on:  
+> - Commitment to attending  
+> - Collaboration  
+> - Balance between veterans & newcomers  
+> - Alignment with ELIXIR’s 2024–2028 Scientific Programme  
+> - Novelty  
+> - Feasibility  
+> - Vision  
+> - Inclusivity strategy  
+>  
+> **Each project must have three co-leads, and each co-lead can support only one project. A proposal merging step is not planned.**  
+
 
 ## Hacking projects 2024 
 
