@@ -8,7 +8,7 @@ hero_darken: true
 ---
 
 > ### **Project selection criteria for BioHackathon Europe 2025**  
-> **Deadline: 14 April 2025**  
+> **Deadline for project submission: 14 April 2025**  
 >  
 > Projects will be evaluated based on:  
 > - Commitment to attending  
