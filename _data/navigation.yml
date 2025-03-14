@@ -1,7 +1,7 @@
-- name: Registration
-  link: /registration/
 - name: Projects
   link: /projects/
+- name: Registration
+  link: /registration/
 - name: Programme
   link: /programme/
 - name: Venue
