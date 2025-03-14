@@ -1,3 +1,9 @@
+- name: Katharina Heil (Chair)
+  affiliation: ELIXIR Hub
+  link: https://elixir-europe.org/about-us/who-we-are/hub
+- name: Mihail Anton (Co-Chair)
+  affiliation: ELIXIR Hub
+  link: https://elixir-europe.org/about-us/who-we-are/hub
 - name: Alexander Kanitz
   affiliation: ELIXIR Switzerland
   link: https://elixir-europe.org/about-us/who-we-are/nodes/switzerland
@@ -10,9 +16,6 @@
 - name: Daniel Arend
   affiliation: ELIXIR Germany
   link: https://elixir-europe.org/about-us/who-we-are/nodes/germany
-- name: Katharina Heil
-  affiliation: ELIXIR Hub
-  link: https://elixir-europe.org/about-us/who-we-are/hub
 - name: Leyla Jael Castro
   affiliation: ZB MED – Information Centre for Life Sciences
   link: https://www.zbmed.de/en/contact-details/leyla-jael-castro/
@@ -22,9 +25,6 @@
 - name: Michael Crusoe
   affiliation: ELIXIR Germany
   link: https://elixir-europe.org/about-us/who-we-are/nodes/germany
-- name: Mihail Anton
-  affiliation: ELIXIR Hub
-  link: https://elixir-europe.org/about-us/who-we-are/hub
 - name: Mijke Jetten
   affiliation: ELIXIR Netherlands
   link: https://elixir-europe.org/about-us/who-we-are/nodes/netherlands
