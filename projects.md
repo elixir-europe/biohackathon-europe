@@ -8,7 +8,7 @@ hero_image: /img/heroes/hero-2023-hall.webp
 hero_darken: true
 ---
 
-We are opening the project submissions for 2025 on Monday, 17 March! 
+The call for project submissions is now open! 
 
 [Submit your project](https://app.oxfordabstracts.com/stages/77739/submitter){: .button .is-size-5 .is-inline-block .mt-2 .mb-5}
 
