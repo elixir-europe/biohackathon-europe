@@ -8,16 +8,13 @@ hero_image: /img/heroes/hero-2023-hall.webp
 hero_darken: true
 ---
 
-[Submit your project](https://app.oxfordabstracts.com/stages/77739/submitter){: .button .is-size-5 .is-inline-block .mt-2 .mb-5}
-
 > ### **Project selection criteria for BioHackathon Europe 2025**  
-> **Deadline for project submission: 14 April 2025**  
 >  
 > Projects will be evaluated based on:  
 > - Commitment to attending  
 > - Collaboration  
 > - Balancing veterans and newcomers  
-> - Alignment with ELIXIR’s [2024–2028 Scientific Programme](https://elixir-europe.org/news/programme-2024-28)  
+> - Alignment with ELIXIR’s [2024–28 Scientific Programme](https://elixir-europe.org/news/programme-2024-28)  
 > - Novelty  
 > - Feasibility  
 > - Vision  
