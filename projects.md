@@ -1,6 +1,7 @@
 ---
 title: Projects
 subtitle: The call for project proposals is now closed
+Successful projects will be announced at the end of May
 description: BioHackathon Europe projects
 layout: page
 show_sidebar: false
