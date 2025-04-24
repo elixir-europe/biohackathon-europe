@@ -10,7 +10,7 @@ hero_darken: true
 
 > ### **Project selection criteria for BioHackathon Europe 2025**  
 >  
-> Projects will be evaluated based on:  
+> Thank you for submitting your project proposals. The call for proposals is now closed. Projects will be evaluated based on:  
 > - Commitment to attending  
 > - Collaboration  
 > - Balancing veterans and newcomers  
