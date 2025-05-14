@@ -31,7 +31,7 @@ Participants will be accommodated in modern, well-appointed single rooms. Each r
 | Single room	  | €772.00 (Including VAT and energy surcharge) | 
 
 ## Booking process
-Once allocated a place at the face-to-face event, your hotel accommodation will be automatically reserved. However, your reservation will only be confirmed once full payment has been received. We will confirm further details regarding payment and confirmation in due course.
+Once allocated a place at the F2F event, your hotel accommodation will be automatically reserved. However, your reservation will only be confirmed once full payment has been received. We will confirm further details regarding payment and confirmation in due course.
 
 ## Payment
 **Self-funded participants:** Accommodation costs must be settled prior to the event. The venue will provide payment instructions, including a secure link for credit card transactions. 
