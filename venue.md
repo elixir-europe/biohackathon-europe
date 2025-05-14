@@ -31,7 +31,7 @@ Participants will be accommodated in modern, well-appointed single rooms. Each r
 | Single room	  | €772.00 (Including VAT and energy surcharge) | 
 
 ## Booking process
-Once allocated a place at the F2F event, your hotel accommodation will be automatically reserved. However, your reservation will only be confirmed once full payment has been received. We will confirm further details regarding payment and confirmation in due course.
+Once allocated a place at the F2F event, your hotel accommodation will be automatically reserved. However, your reservation will only be confirmed once payment has been received in full. We will confirm further details regarding payment and confirmation in due course.
 
 ## Payment
 **Self-funded participants:** Accommodation costs must be settled prior to the event. The venue will provide payment instructions, including a secure link for credit card transactions. 
@@ -41,7 +41,7 @@ Once allocated a place at the F2F event, your hotel accommodation will be automa
 ELIXIR will cover meeting facilities, social activities, catering and beverages for an hour and a half after dinner. After this period, the hotel bar will be open for participants who wish to purchase extra drinks. 
 
 ## Cancellation policy
-Cancellations are permitted up until 1 October 2025. Please note, if you cancel after this date or do not show up at the event you will be responsible for full payment, even if your participation is funded by ELIXIR. 
+Cancellations are permitted up until 1 October 2025. Please note, if you cancel after this date or do not show up at the event you will be responsible for payment in full, even if your participation is funded by ELIXIR. 
 
 ## Travel
 ### Address
