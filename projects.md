@@ -20,7 +20,7 @@ hero_darken: true
 > - Vision  
 > - Inclusivity strategy  
 >  
-> **Each project must have three co-leads, and each co-lead can support only one project. A proposal merging step is not planned.**  
+> **Each project must have three co-leads, and each co-lead can support only one project. Merging compatible projects after submission and evaluation will not be facilitated, thus requiring collaboration and idea exchange from the idea formation.**  
 
 ## Hacking projects 2025
 
