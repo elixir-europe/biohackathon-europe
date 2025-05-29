@@ -12,7 +12,7 @@ hero_darken: true
 
 **Registration for BioHackathon Europe 2025 will open in June** 
 
-Participants are welcome to join BioHackathon Europe, either on-site or online, regardless of project submission. It’s free to attend BioHackathon Europe. Attendance is free, but in-person participants must cover their own travel and accommodation costs. For pricing details, visit the Venue page [Venue page](/venue/). Please note that all in-person participants are required to stay for the whole duration of the BioHackathon.
+Participants are welcome to join BioHackathon Europe, either on-site or online, regardless of project submission. Attendance is free, but in-person participants must cover their own travel and accommodation costs. For pricing details, visit the Venue page [Venue page](/venue/). Please note that all in-person participants are required to stay for the whole duration of the BioHackathon.
 
 ## Who can register?
 Everyone is encouraged to submit project proposals for BioHackathon Europe, irrespective of affiliation. Although ELIXIR Europe organises and funds this event, participants from industry, SMEs and non-ELIXIR countries or organisations are welcome to register. 
