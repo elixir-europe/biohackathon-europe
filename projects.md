@@ -51,7 +51,7 @@ The titles of the projects selected by the Programme Committee for the 2025 edit
 | Towards repository-scale quality control in proteomics  |
 | Unpacking single-cell LLMs: A FAIR Framework for scalable, shareable single-cell foundation models |	
 | World DOMEination: Conquering ML metadata, one standard at a time	 |
-{: .table .table-striped .my-hover }
+{: .table .is-striped .is-hoverable }
 
 ## Previous BioHackathons
 You can explore previous BioHackathons to get an idea of the types of projects developed. Each project has a GitHub repository with detailed descriptions, code and progress updates.
