@@ -1,26 +1,12 @@
 ---
 title: Projects
-subtitle: Successful projects will be announced at the end of May
+subtitle: Successful projects 2025
 description: BioHackathon Europe projects
 layout: page
 show_sidebar: false
 hero_image: /img/heroes/hero-2023-hall.webp
 hero_darken: true
 ---
-
-> ### **Project selection criteria for BioHackathon Europe 2025**  
->  
-> Thank you for submitting your project proposals. The call for proposals is now closed. Projects will be evaluated based on:  
-> - Commitment to attending  
-> - Collaboration  
-> - Balancing veterans and newcomers  
-> - Alignment with ELIXIR’s [2024–28 Scientific Programme](https://elixir-europe.org/news/programme-2024-28)  
-> - Novelty  
-> - Feasibility  
-> - Vision  
-> - Inclusivity strategy  
->  
-> **Each project must have three co-leads, and each co-lead can support only one project. Merging compatible projects after submission and evaluation will not be facilitated, thus requiring collaboration and idea exchange from the idea formation.**  
 
 ## Hacking projects 2025
 
