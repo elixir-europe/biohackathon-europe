@@ -62,3 +62,8 @@ BioHackathon Europe welcomes participants from industry and encourages collabora
 
 ## Code of Conduct
 BioHackathon Europe follows the [ELIXIR Code of Conduct](https://elixir-europe.org/events/code-of-conduct) to ensure a respectful and inclusive environment for all participants. The Code of Conduct applies to both in-person and virtual interactions during the event.
+
+## Our commitment to gender balance and diversity
+
+ELIXIR is committed to creating an inclusive environment where all participants can thrive, and this is reflected in our approach to the BioHackathon. We actively encourage gender-balanced and diverse representation across all roles. This commitment is grounded in ELIXIR’s wider efforts. ELIXIR’s Scientific Advisory Board calls for nominations that consider balance in skills, expertise and gender. The Heads of Nodes have highlighted the need for more gender-balanced Executive Committee selection. We are also aligned with the STEERS Gender Equality Plan Strategy – supporting institutes in embedding gender equity frameworks – and with ELEAD, which empowers women to take on leadership and managerial roles within ELIXIR.
+
