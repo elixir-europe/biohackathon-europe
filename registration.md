@@ -10,7 +10,9 @@ hero_darken: true
 
 ## Participant registration
 
-**Registration for BioHackathon Europe 2025 will open in June** 
+**Registration for BioHackathon Europe will be open from June 30th to July 15th.** 
+
+Everyone with an interest in joining F2F needs to register their interest to attend during that time period. After that all expressions of interest will be reviewed and accepted F2F attendees will be notified by the end of July. Project co-leads are invited to confirm their registration prior to the end of June via a separate link. Virtual registration is open until right before the event.
 
 Participants are welcome to join BioHackathon Europe, either on-site or online, regardless of project submission. Attendance is free, but in-person participants must cover their own travel and accommodation costs. For pricing details, visit the Venue page [Venue page](/venue/). Please note that all in-person participants are required to stay for the whole duration of the BioHackathon.
 
