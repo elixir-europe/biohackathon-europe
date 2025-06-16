@@ -6,7 +6,7 @@ layout: page
 show_sidebar: false
 hero_image: /img/heroes/hero-2025.webp
 hero_darken: true
-reg_text: Registration for BioHackathon Europe 2025 will open in June 
+reg_text: Registration for BioHackathon Europe will be open from June 30th to July 15th
 ---
 
 [![ELIXIR logo](/img/elixir-logo.svg){: .is-pulled-right .ml-5 .mb-5 width="170"}](https://elixir-europe.org/)
