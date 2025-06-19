@@ -23,14 +23,14 @@ If you have any queries about this, please contact <biohackathon-europe@elixir-e
 
 ## Funding 
 
-BioHackathon Europe is committed to open participation. Each approved project proposal leads may designate up to three participants for on-site attendance, regardless of affiliation. This allocation will be determined during project proposal submission. Since these reserved seats reduce availability for open registration, the following guidelines apply:
-  * A maximum of three on-site participants per project can be reserved
+BioHackathon Europe is committed to open participation. Each approved project proposal leads may designate up to three participants for in-person attendance, regardless of affiliation. This allocation will be determined during project proposal submission. Since these reserved seats reduce availability for open registration, the following guidelines apply:
+  * A maximum of three in-person participants per project can be reserved
   * ELIXIR may fund up to two of these participants, provided they belong to an ELIXIR Node
   * ELIXIR will not provide any additional funding beyond this
 
 ## What ELIXIR covers
 
-The following costs are covered for **all F2F attendeess**: 
+The following costs are covered for **all in-person attendees**: 
   * **Meals:** All meals at the venue from lunch on Monday to lunch on Friday at the event
 
 Additionally, ELIXIR covers the following costs for **funded project co-leads**:
