@@ -1,7 +1,7 @@
 ---
 title: Registration
 subtitle:
-description: When and how you can register for BioHackathon Europe 2025
+description: When and how to register for BioHackathon Europe 2025
 layout: page
 show_sidebar: false
 hero_image: /img/heroes/hero-flipchart-hall.webp
@@ -10,7 +10,7 @@ hero_darken: true
 
 ## Participant registration
 
-**Registration for BioHackathon Europe will be open from 30 June to 15 July.** 
+**Registration will be open from 30 June to 15 July.** 
 
 Everyone with an interest in joining in person needs to register their interest to attend during that time period. After that all expressions of interest will be reviewed and accepted in-person attendees will be notified by the end of July. Project co-leads are invited to confirm their registration prior to the end of June via a separate link. Virtual registration is open until right before the event.
 
