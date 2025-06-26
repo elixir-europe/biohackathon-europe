@@ -20,37 +20,37 @@ The titles of the projects selected by the Programme Committee for the 2025 edit
 
 | Project title |
 |:--------------|
-| [Advancing the ELIXIR Maturity Model for RDM providers with Node-level implementation guidance](https://github.com/elixir-europe/biohackathon-projects-2025/blob/main/1.md)	|
-| Automatic workflow for benchmarking BUSCO genes for phylogenomics |
-| Beyond beacons: Establishing genomic background in European and international biobanks |
-| Bidirectional bridge: GitHub ⇄ Bio.tools |
-| The BioHackCloud |
-| Defining the components of an ELIXIR ML ecosystem |
-| Embedding multimodal data into a vector database to make a blood atlas |
-| Enriching metadata and broadening community inclusion in the ELIXIR Research Software Ecosystem |
-| Evolving FAIR image analysis in Galaxy for cross-domain and AI-ready applications |
-| Expanding the benchmarking landscape for long-read-transcriptomics including novel datasets and pipelines |
-| From sequence to citation	 |
-| Gene recommendation system: Integrating gene features for enhanced research collaboration |
-| Improving package annotation in metabolomics and proteomics via robust, ontology-driven LLM integration |
-| Metabolomics and proteomics file format interoperability fest	 |
-| METRICS – Monitoring of key performance indicators for ELIXIR Services |
-| MiCoReCa (Microbiome Community Resource Catalogue): Towards centralised curation and integration |
-| Minimal information standardisation of phenomic experimental data in animals |
-| Mining the potential of knowledge graphs for metadata on training |
-| MolViewSpec: A presentation layer for structural molecular data |
-| New ELIXIR RIRs: Transparent and automated evaluation for a FAIRer future	 |
-| Opening the TMD: Making it more usable, visible and connected |
-| Scop3PTM Next: Interactive visualisation of PTM data across sequence, structure and interactions |
-| A shape-driven visual interface to integrate heterogeneous biomedical databases into knowledge graphs |
-| Streamlining FAIR metadata for biodiversity genome annotations |
-| Sustainable computing in Galaxy through reuse and energy-aware job scheduling |
-| Tools to develop constraint-based models in R: Adapting existing toolboxes |
-| Towards a more scalable, sustainable and integrated research data management ecosystem |
-| Towards a robust validation service for data and metadata in ARC RO-Crates |
-| Towards repository-scale quality control in proteomics  |
-| Unpacking single-cell LLMs: A FAIR Framework for scalable, shareable single-cell foundation models |	
-| World DOMEination: Conquering ML metadata, one standard at a time	 |
+| [Advancing the ELIXIR Maturity Model for RDM providers with Node-level implementation guidance](https://github.com/elixir-europe/biohackathon-projects-2025/blob/main/2.md)	|
+| [Automatic workflow for benchmarking BUSCO genes for phylogenomics](https://github.com/elixir-europe/biohackathon-projects-2025/blob/main/3.md) |
+| [Beyond beacons: Establishing genomic background in European and international biobanks](https://github.com/elixir-europe/biohackathon-projects-2025/blob/main/4.md) |
+| [Bidirectional bridge: GitHub ⇄ Bio.tools](https://github.com/elixir-europe/biohackathon-projects-2025/blob/main/5.md) |
+| [The BioHackCloud](https://github.com/elixir-europe/biohackathon-projects-2025/blob/main/25.md) |
+| [Defining the components of an ELIXIR ML ecosystem](https://github.com/elixir-europe/biohackathon-projects-2025/blob/main/6.md) |
+| [Embedding multimodal data into a vector database to make a blood atlas](https://github.com/elixir-europe/biohackathon-projects-2025/blob/main/7.md) |
+| [Enriching metadata and broadening community inclusion in the ELIXIR Research Software Ecosystem](https://github.com/elixir-europe/biohackathon-projects-2025/blob/main/8.md) |
+| [Evolving FAIR image analysis in Galaxy for cross-domain and AI-ready applications](https://github.com/elixir-europe/biohackathon-projects-2025/blob/main/9.md) |
+| [Expanding the benchmarking landscape for long-read-transcriptomics including novel datasets and pipelines](https://github.com/elixir-europe/biohackathon-projects-2025/blob/main/10.md) |
+| [From sequence to citation](https://github.com/elixir-europe/biohackathon-projects-2025/blob/main/11.md)	 |
+| [Gene recommendation system: Integrating gene features for enhanced research collaboration](https://github.com/elixir-europe/biohackathon-projects-2025/blob/main/12.md) |
+| [Improving package annotation in metabolomics and proteomics via robust, ontology-driven LLM integration](https://github.com/elixir-europe/biohackathon-projects-2025/blob/main/13.md) |
+| [Metabolomics and proteomics file format interoperability fest](https://github.com/elixir-europe/biohackathon-projects-2025/blob/main/14.md)	 |
+| [METRICS – Monitoring of key performance indicators for ELIXIR Services](https://github.com/elixir-europe/biohackathon-projects-2025/blob/main/15.md) |
+| [MiCoReCa (Microbiome Community Resource Catalogue): Towards centralised curation and integration](https://github.com/elixir-europe/biohackathon-projects-2025/blob/main/16.md) |
+| [Minimal information standardisation of phenomic experimental data in animals](https://github.com/elixir-europe/biohackathon-projects-2025/blob/main/17.md) |
+| [Mining the potential of knowledge graphs for metadata on training](https://github.com/elixir-europe/biohackathon-projects-2025/blob/main/18.md) |
+| [MolViewSpec: A presentation layer for structural molecular data](https://github.com/elixir-europe/biohackathon-projects-2025/blob/main/19.md) |
+| [New ELIXIR RIRs: Transparent and automated evaluation for a FAIRer future](https://github.com/elixir-europe/biohackathon-projects-2025/blob/main/20.md)	 |
+| [Opening the TMD: Making it more usable, visible and connected](https://github.com/elixir-europe/biohackathon-projects-2025/blob/main/21.md) |
+| [Scop3PTM Next: Interactive visualisation of PTM data across sequence, structure and interactions](https://github.com/elixir-europe/biohackathon-projects-2025/blob/main/22.md) |
+| [A shape-driven visual interface to integrate heterogeneous biomedical databases into knowledge graphs](https://github.com/elixir-europe/biohackathon-projects-2025/blob/main/1.md) |
+| [Streamlining FAIR metadata for biodiversity genome annotations](https://github.com/elixir-europe/biohackathon-projects-2025/blob/main/23.md) |
+| [Sustainable computing in Galaxy through reuse and energy-aware job scheduling](https://github.com/elixir-europe/biohackathon-projects-2025/blob/main/24.md) |
+| [Tools to develop constraint-based models in R: Adapting existing toolboxes](https://github.com/elixir-europe/biohackathon-projects-2025/blob/main/26.md) |
+| [Towards a more scalable, sustainable and integrated research data management ecosystem](https://github.com/elixir-europe/biohackathon-projects-2025/blob/main/27.md) |
+| [Towards a robust validation service for data and metadata in ARC RO-Crates](https://github.com/elixir-europe/biohackathon-projects-2025/blob/main/28.md) |
+| [Towards repository-scale quality control in proteomics](https://github.com/elixir-europe/biohackathon-projects-2025/blob/main/29.md)  |
+| [Unpacking single-cell LLMs: A FAIR Framework for scalable, shareable single-cell foundation models](https://github.com/elixir-europe/biohackathon-projects-2025/blob/main/30.md) |	
+| [World DOMEination: Conquering ML metadata, one standard at a time](https://github.com/elixir-europe/biohackathon-projects-2025/blob/main/31.md)	 |
 {: .table .is-striped .is-hoverable }
 
 ## Previous BioHackathons
