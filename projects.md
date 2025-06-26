@@ -20,7 +20,7 @@ The titles of the projects selected by the Programme Committee for the 2025 edit
 
 | Project title |
 |:--------------|
-| [Advancing the ELIXIR Maturity Model for RDM providers with Node-level implementation guidance] (https://github.com/elixir-europe/biohackathon-projects-2025/blob/main/1.md)	|
+| [Advancing the ELIXIR Maturity Model for RDM providers with Node-level implementation guidance](https://github.com/elixir-europe/biohackathon-projects-2025/blob/main/1.md)	|
 | Automatic workflow for benchmarking BUSCO genes for phylogenomics |
 | Beyond beacons: Establishing genomic background in European and international biobanks |
 | Bidirectional bridge: GitHub ⇄ Bio.tools |
