@@ -7,7 +7,7 @@ show_sidebar: false
 hero_image: /img/heroes/hero-2025.webp
 hero_darken: true
 reg_text: >
-  Registration for BioHackathon Europe 2025 is open until 15 July.<br>
+  Registration is open until 15 July.<br>
   Choose between joining us in Berlin or participating virtually:
 
   <div class="buttons is-centered mt-4">
