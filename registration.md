@@ -6,11 +6,18 @@ layout: page
 show_sidebar: false
 hero_image: /img/heroes/hero-flipchart-hall.webp
 hero_darken: true
+reg_text: >
+  Choose between joining us in Berlin or participating virtually:
+
+  <div class="buttons is-centered mt-4">
+    <a href="https://elixir-events.eventscase.com/attendance/event/index/44813/EN" class="button is-size-5">Register interest (F2F)</a>
+    <a href="https://elixir-events.eventscase.com/attendance/event/index/45232/EN?step=login" class="button is-size-5">Register now (virtual)</a>
+  </div>
 ---
 
 ## Participant registration
 
-**Registration will be open from 30 June to 15 July.** 
+**Registration is open until 15 July.** 
 
 Everyone with an interest in joining in person needs to register their interest to attend during that time period. After that all expressions of interest will be reviewed and accepted in-person attendees will be notified by the end of July. Project co-leads are invited to confirm their registration prior to the end of June via a separate link. Virtual registration is open until right before the event.
 
