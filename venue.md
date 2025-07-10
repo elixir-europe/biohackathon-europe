@@ -34,7 +34,7 @@ Participants will be accommodated in modern, well-appointed single rooms. Each r
 Once allocated a place at the F2F event, your hotel accommodation will be automatically reserved. However, your reservation will only be confirmed once payment has been received in full. We will confirm further details regarding payment and confirmation in due course.
 
 ## Payment
-**Self-funded participants:** Accommodation costs must be settled prior to the event. The venue will provide payment instructions, including a secure link for credit card transactions. 
+**Self-funded participants:** Accommodation costs must be settled prior to the event. 
 **Funded participants:** ELIXIR will cover accommodation costs directly, so no payment is required. 
 
 ## Extra costs
