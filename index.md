@@ -7,7 +7,7 @@ show_sidebar: false
 hero_image: /img/heroes/hero-2025.webp
 hero_darken: true
 reg_text: >
-  Registration is still open for virtual participation. <br>
+  Registration is open for virtual participation. <br>
   Face-to-face places are currently full, but you can still opt to join us online. <br>
   A waiting list for in-person participation will open at the end of July.
 
