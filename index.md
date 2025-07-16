@@ -11,7 +11,6 @@ reg_text: >
   Choose between joining us in Berlin or participating virtually:
 
   <div class="buttons is-centered mt-4">
-    <a href="https://elixir-events.eventscase.com/attendance/event/index/44813/EN" class="button is-size-5">Register interest (F2F)</a>
     <a href="https://elixir-events.eventscase.com/attendance/event/index/45232/EN?step=login" class="button is-size-5">Register now (virtual)</a>
   </div>
 ---
