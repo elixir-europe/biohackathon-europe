@@ -8,7 +8,7 @@ show_sidebar: false
 hero_image: /img/heroes/hero-flipchart-hall.webp
 hero_darken: true
 reg_text: >
-  Registration is open for virtual participation.  
+  Registration is open for virtual participation.<br>  
   In-person spots are currently under review, with a waiting list opening at the end of July.
 
   <div class="buttons is-centered mt-4">
