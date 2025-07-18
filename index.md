@@ -1,15 +1,16 @@
 ---
 title: BioHackathon Europe
-subtitle: 3–7 November 2025<br>Berlin<br><a href="https://twitter.com/hashtag/BioHackEU25" class="is-size-6 ">#BioHackEU25</a></span>
-description: Find out about the 2025 BioHackathon Europe, where hackers get together to make life science research easier.
+subtitle: >
+  3–7 November 2025<br>Berlin<br><a href="https://twitter.com/hashtag/BioHackEU25" class="is-size-6">#BioHackEU25</a>
+description: >
+  Find out about the 2025 BioHackathon Europe, where hackers get together to make life science research easier.
 layout: page
 show_sidebar: false
 hero_image: /img/heroes/hero-2025.webp
 hero_darken: true
 reg_text: >
-
-Registration is open for virtual participation.
-In-person spots are under review, with a waiting list opening at the end of July.
+  Registration is open for virtual participation.  
+  In-person spots are under review, with a waiting list opening at the end of July.
 
   <div class="buttons is-centered mt-4">
     <a href="https://elixir-events.eventscase.com/attendance/event/index/45232/EN?step=login" class="button is-size-5">Register now (virtual)</a>
