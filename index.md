@@ -7,6 +7,7 @@ show_sidebar: false
 hero_image: /img/heroes/hero-2025.webp
 hero_darken: true
 reg_text: >
+
 Registration is open for virtual participation.
 In-person spots are under review, with a waiting list opening at the end of July.
 
