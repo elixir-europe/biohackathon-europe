@@ -10,7 +10,7 @@ hero_darken: true
 
 ## Programme (3-7 November)
 
-## Day 1: Monday, 3 November 2025
+# Day 1: Monday, 3 November 2025
 
 | Time (CET)     | Activity                                             | Room                                        |
 |----------------|------------------------------------------------------|---------------------------------------------|
@@ -24,7 +24,7 @@ hero_darken: true
 
 ---
 
-## Day 2: Tuesday, 4 November 2025
+# Day 2: Tuesday, 4 November 2025
 
 | Time (CET)     | Activity                                             | Room                                        |
 |----------------|------------------------------------------------------|---------------------------------------------|
@@ -43,7 +43,7 @@ hero_darken: true
 
 ---
 
-## Day 3: Wednesday, 5 November 2025
+# Day 3: Wednesday, 5 November 2025
 
 | Time (CET)     | Activity                                             | Room                                        |
 |----------------|------------------------------------------------------|---------------------------------------------|
@@ -59,7 +59,7 @@ hero_darken: true
 
 ---
 
-## Day 4: Thursday, 6 November 2025
+# Day 4: Thursday, 6 November 2025
 
 | Time (CET)     | Activity                                             | Room                                        |
 |----------------|------------------------------------------------------|---------------------------------------------|
@@ -77,7 +77,7 @@ hero_darken: true
 
 ---
 
-## Day 5: Friday, 7 November 2025
+# Day 5: Friday, 7 November 2025
 
 | Time (CET)     | Activity                                             | Room                                        |
 |----------------|------------------------------------------------------|---------------------------------------------|
