@@ -91,4 +91,4 @@ hero_darken: true
 ---
 
 **Note:** Details are subject to change.  
-📄 [Download the PDF version](https://docs.google.com/document/d/1ma_qmQST4zNC1XPjTRjvSrj-bFpG1lZAbJ-JbGewCiA/edit?tab=t.0)
+You can also view the <a href="/pdf/Biohackathon 2025 programme.pdf">agenda in pdf format here</a>.
