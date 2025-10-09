@@ -44,22 +44,41 @@ ELIXIR will cover meeting facilities, social activities, catering and beverages 
 Cancellations are permitted up until 1 October 2025. Please note, if you cancel after this date or do not show up at the event you will be responsible for payment in full, even if your participation is funded by ELIXIR. 
 
 ## Travel
+
 ### Address
 Seestraße 49, 15526 Bad Saarow, Germany
 
 ### From the airport
-The venue is approximately a 45-minute drive from Berlin Brandenburg Airport (BER)
+The venue is approximately a 45-minute drive from Berlin Brandenburg Airport (BER).
 
 ### By car
-Bad Saarow is about an hour's drive from central Berlin. Parking is available at the hotel
+Bad Saarow is about an hour’s drive from central Berlin. Parking is available at the hotel.
 
 ### By train
-From Berlin Hauptbahnhof (Central Station), take a regional train to Fürstenwalde (Spree) station. From there, Bad Saarow is accessible via local transport or taxi
+
+**Option 1: From Berlin Brandenburg Airport (BER) → Bad Saarow**  
+- **Transfers:** Two  
+- **Travel time:** ~1 h 50 min (hourly service)  
+- **Route:**  
+  1) **FEX** (to **Berlin Hbf**) → **Berlin Ostkreuz**  
+  2) **RE1** (to **Frankfurt (Oder)**) → **Fürstenwalde (Spree)**  
+  3) **RB35** → **Bad Saarow**
+
+**Option 2: From Berlin Hauptbahnhof (Hbf) → Bad Saarow**  
+- **Transfers:** One  
+- **Travel time:** ~1 h 30 min (hourly service)  
+- **Route:**  
+  1) **RE1** (to **Frankfurt (Oder)**) → **Fürstenwalde (Spree)**  
+  2) **RB35** → **Bad Saarow**  
+- **Final leg:** Walk ~**1.4 km** (~18 min, fully paved) to **[Hotel Esplanade Resort & Spa](https://www.esplanade-resort.de/)**
+
+**Fare guidance:** ~€7.50 single (regular fare). If needed, ask for *“Einzelfahrausweis Regeltarif”*.  
+**Plan/book:** **[DB Navigator](https://int.bahn.de/en/buchung/start?vbid=8c55c12e-e7a1-4fd6-a2bf-4c45f7919f5c)**
 
 ### Taxis
-While Uber, Bolt and FreeNow all operate in Berlin, the venue has provided the contact details of a few taxi companies.
-   * Taxi Krüger: +49 1747878080
-   * FW Taxi: +49 1377777
-   * Taxi Kleemann: +49 3361300800 
+While Uber, Bolt and FreeNow operate in Berlin, the venue has provided the contact details of a few taxi companies.
+- Taxi Krüger: +49 174 7878080  
+- FW Taxi: +49 13 77777  
+- Taxi Kleemann: +49 3361 300800
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2570.5545085927624!2d14.046963350682926!3d52.29175952773259!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47078a0258fe21a3%3A0xa6c15d8aff907ccb!2sHotel%20Esplanade%20Resort%20%26%20Spa!5e0!3m2!1sen!2suk!4v1740759371748!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
