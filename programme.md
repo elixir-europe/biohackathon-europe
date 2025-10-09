@@ -90,4 +90,4 @@ hero_darken: true
 
 ---
 
-**Note:** Details may be subject to change. You can also view the <a href="/pdf/Biohackathon 2025 programme.pdf">agenda in pdf format here</a>.
+**Note:** Last updated September 2025. Details may be subject to change. You can also view the <a href="/pdf/Biohackathon 2025 programme.pdf">agenda in pdf format here</a>.
