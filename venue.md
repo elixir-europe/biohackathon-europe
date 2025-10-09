@@ -57,16 +57,14 @@ Bad Saarow is about an hour’s drive from central Berlin. Parking is available 
 ### By train
 
 Option 1: From Berlin Brandenburg Airport (BER) to Bad Saarow  
-- Transfers: two  
-- Travel time: approximately 1 h 50 min (hourly service)  
+- Two transfers and approximately 1 h 50 min travel time (hourly service)  
 - Route:  
   1) FEX (final destination Berlin Hbf) to Berlin Ostkreuz  
   2) RE1 (final destination Frankfurt (Oder)) to Fürstenwalde (Spree)  
   3) RB35 to Bad Saarow
 
 Option 2: From Berlin Hauptbahnhof (Hbf) to Bad Saarow  
-- Transfers: one  
-- Travel time: approximately 1 h 30 min (hourly service)  
+- One transfers: one and approximately 1 h 30 min travel time (hourly service)  
 - Route:  
   1) RE1 (final destination Frankfurt (Oder)) to Fürstenwalde (Spree)  
   2) RB35 to Bad Saarow  
