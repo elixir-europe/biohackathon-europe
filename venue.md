@@ -57,7 +57,7 @@ Bad Saarow is about an hour’s drive from central Berlin. Parking is available 
 ### By train
 
 Option 1: From Berlin Brandenburg Airport (BER) to Bad Saarow  
-- Transfers: Two  
+- Transfers: two  
 - Travel time: approximately 1 h 50 min (hourly service)  
 - Route:  
   1) FEX (final destination Berlin Hbf) to Berlin Ostkreuz  
@@ -65,16 +65,15 @@ Option 1: From Berlin Brandenburg Airport (BER) to Bad Saarow
   3) RB35 to Bad Saarow
 
 Option 2: From Berlin Hauptbahnhof (Hbf) to Bad Saarow  
-- Transfers: One  
+- Transfers: one  
 - Travel time: approximately 1 h 30 min (hourly service)  
 - Route:  
   1) RE1 (final destination Frankfurt (Oder)) to Fürstenwalde (Spree)  
   2) RB35 to Bad Saarow  
-- Final leg: Walk about 1.4 km (around 18 minutes, fully paved) to Hotel Esplanade Resort & Spa  
-  Hotel website: https://www.esplanade-resort.de/
+- Final leg: walk about 1.4 km (around 18 minutes, fully paved) to [Hotel Esplanade Resort & Spa](https://www.esplanade-resort.de/)
 
 Fare guidance: approximately €7.50 for a single trip (regular fare). If needed, ask for “Einzelfahrausweis Regeltarif”.  
-Plan or book: DB Navigator — https://int.bahn.de/en/buchung/start?vbid=8c55c12e-e7a1-4fd6-a2bf-4c45f7919f5c
+Plan or book: [DB Navigator](https://int.bahn.de/en/buchung/start?vbid=8c55c12e-e7a1-4fd6-a2bf-4c45f7919f5c)
 
 ### Taxis
 While Uber, Bolt and FreeNow operate in Berlin, the venue has provided the contact details of a few taxi companies.
