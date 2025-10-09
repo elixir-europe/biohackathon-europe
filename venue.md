@@ -72,8 +72,7 @@ Option 2: From Berlin Hauptbahnhof (Hbf) to Bad Saarow
   2) RB35 to Bad Saarow  
 - Final leg: walk about 1.4 km (around 18 minutes, fully paved) to [Hotel Esplanade Resort & Spa](https://www.esplanade-resort.de/)
 
-Fare guidance: approximately €7.50 for a single trip (regular fare). If needed, ask for “Einzelfahrausweis Regeltarif”.  
-Plan or book: [DB Navigator](https://int.bahn.de/en/buchung/start?vbid=8c55c12e-e7a1-4fd6-a2bf-4c45f7919f5c)
+Fare guidance: approximately €7.50 for a single trip (regular fare). If needed, ask for “Einzelfahrausweis Regeltarif”. Use [DB Navigator](https://int.bahn.de/en/buchung/start?vbid=8c55c12e-e7a1-4fd6-a2bf-4c45f7919f5c) to plan or book.
 
 ### Taxis
 While Uber, Bolt and FreeNow operate in Berlin, the venue has provided the contact details of a few taxi companies.
