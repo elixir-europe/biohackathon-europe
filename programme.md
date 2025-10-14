@@ -267,4 +267,82 @@ hero_darken: true
     <tr>
       <td>15:30–16:00</td>
       <td>Coffee break</td>
-      <td>Pechhutte Restaurant / C
+      <td>Pechhutte Restaurant / Coffee Hub</td>
+    </tr>
+    <tr>
+      <td>16:00–17:30</td>
+      <td>Hacking</td>
+      <td>Berliner Saal &amp; breakout rooms</td>
+    </tr>
+    <tr>
+      <td>17:30–19:00</td>
+      <td>Leisure time</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>19:00–22:00</td>
+      <td>Dinner and drinks</td>
+      <td>Silberberg &amp; O'Vino Restaurants<br>Drunk Piano Bar</td>
+    </tr>
+    <tr>
+      <td>21:00 onwards</td>
+      <td>Social activity – table tennis and foosball</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+<h2>Day 5: Friday, 7 November 2025</h2>
+
+<table>
+  <colgroup>
+    <col style="width:20%">
+    <col style="width:55%">
+    <col style="width:25%">
+  </colgroup>
+  <thead>
+    <tr>
+      <th>Time (CET)</th>
+      <th>Activity</th>
+      <th>Room</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>07:00–09:00</td>
+      <td>Breakfast</td>
+      <td>Silberberg &amp; O'Vino Restaurants</td>
+    </tr>
+    <tr>
+      <td>09:00–10:30</td>
+      <td>Hacking – final presentation preparation</td>
+      <td>Berliner Saal &amp; breakout rooms</td>
+    </tr>
+    <tr>
+      <td>10:30–11:00</td>
+      <td>Coffee break</td>
+      <td>Pechhutte Restaurant / Coffee Hub</td>
+    </tr>
+    <tr>
+      <td>11:00–12:30</td>
+      <td>Final project presentations</td>
+      <td>Berliner Saal</td>
+    </tr>
+    <tr>
+      <td>12:30–14:00</td>
+      <td>Lunch</td>
+      <td>Silberberg &amp; O'Vino Restaurants</td>
+    </tr>
+    <tr>
+      <td>14:00 onwards</td>
+      <td>Departure</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+**Note:** Details of the programme are subject to change. Last updated October 2025. You can also view the <a href="/pdf/Biohackathon%202025%20programme.pdf">agenda in PDF format here</a>.
