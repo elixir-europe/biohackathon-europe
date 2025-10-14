@@ -10,84 +10,338 @@ hero_darken: true
 
 # Programme (3–7 November)
 
-## Day 1: Monday, 3 November 2025
+<h2>Day 1: Monday, 3 November 2025</h2>
 
-| Time (CET)     | Activity                                             | Room                                        |
-|----------------|------------------------------------------------------|---------------------------------------------|
-| 11:00–12:30    | Arrival and registration                             | Reception                                   |
-| 12:30–14:00    | Lunch                                                | Silberberg & O'Vino Restaurants             |
-| 14:00–15:30    | Opening and welcome – flash presentation             | Berliner Saal                               |
-| 15:30–16:00    | Coffee break *(Bedroom check-in available from 15:00)* | Pechhutte Restaurant / Coffee Hub         |
-| 16:00–17:30    | Hacking                                              | Berliner Saal & breakout rooms              |
-| 17:30–19:00    | Leisure time                                         |                                             |
-| 19:00–22:00    | Dinner and drinks                                    | Drunk Piano Bar & Lobby<br>Silberberg & O'Vino Restaurants<br>Winston Lounge Bar |
-
----
-
-## Day 2: Tuesday, 4 November 2025
-
-| Time (CET)     | Activity                                             | Room                                        |
-|----------------|------------------------------------------------------|---------------------------------------------|
-| 07:00–09:00    | Breakfast                                            | Silberberg & O'Vino Restaurants             |
-| 09:00–10:30    | Hacking                                              | Berliner Saal & breakout rooms              |
-| 10:30–11:00    | Coffee break                                         | Pechhutte Restaurant / Coffee Hub           |
-| 11:00–12:30    | Hacking                                              | Berliner Saal & breakout rooms              |
-| 12:30–14:00    | Lunch                                                | Silberberg & O'Vino Restaurants             |
-| 13:45–14:00    | Group photo                                          | TBC                                         |
-| 14:00–15:30    | Hacking                                              | Berliner Saal & breakout rooms              |
-| 15:30–16:00    | Coffee break                                         | Pechhutte Restaurant / Coffee Hub           |
-| 16:00–17:30    | Hacking                                              | Berliner Saal & breakout rooms              |
-| 17:30–19:00    | Leisure time                                         |                                             |
-| 19:00–22:00    | Dinner and drinks                                    | Drunk Piano Bar & Lobby<br>Silberberg & O'Vino Restaurants<br>Winston Lounge Bar |
-| 20:30–22:00    | Social activity                                      |                                             |
-
----
-
-## Day 3: Wednesday, 5 November 2025
-
-| Time (CET)     | Activity                                             | Room                                        |
-|----------------|------------------------------------------------------|---------------------------------------------|
-| 07:00–09:00    | Breakfast                                            | Silberberg & O'Vino Restaurants             |
-| 09:00–10:30    | Hacking                                              | Berliner Saal & breakout rooms              |
-| 10:30–11:00    | Coffee break                                         | Pechhutte Restaurant / Coffee Hub           |
-| 11:00–12:30    | Hacking                                              | Berliner Saal & breakout rooms              |
-| 12:30–13:55    | Lunch                                                | Silberberg & O'Vino Restaurants             |
-| 13:55–14:00    | Group photo                                          | Outside courtyard                           |
-| 14:00–15:00    | Hacking                                              | Berliner Saal & breakout rooms              |
-| 15:00–17:00    | Mid-week reporting poster session & coffee break     | Berliner Saal                               |
-| 17:00–19:00    | Leisure time                                         |                                             |
-| 19:00–22:30    | Dinner and drinks                                    | Silberberg & O'Vino Restaurants<br>Drunk Piano Bar & Winston Lounge Bar |
-
----
-
-## Day 4: Thursday, 6 November 2025
-
-| Time (CET)     | Activity                                             | Room                                        |
-|----------------|------------------------------------------------------|---------------------------------------------|
-| 07:00–09:00    | Breakfast                                            | Silberberg & O'Vino Restaurants             |
-| 09:00–10:30    | Hacking                                              | Berliner Saal & breakout rooms              |
-| 10:30–11:00    | Coffee break                                         | Pechhutte Restaurant / Coffee Hub           |
-| 11:00–12:30    | Hacking                                              | Berliner Saal & breakout rooms              |
-| 12:30–14:00    | Lunch                                                | Silberberg & O'Vino Restaurants             |
-| 14:00–15:30    | Hacking                                              | Berliner Saal & breakout rooms              |
-| 15:30–16:00    | Coffee break                                         | Pechhutte Restaurant / Coffee Hub           |
-| 16:00–17:30    | Hacking                                              | Berliner Saal & breakout rooms              |
-| 17:30–19:00    | Leisure time                                         |                                             |
-| 19:00–22:00    | Dinner and drinks                                    | Silberberg & O'Vino Restaurants<br>Drunk Piano Bar |
-| 21:00 onwards  | Social activity – table tennis and foosball          |                                             |
+<table>
+  <colgroup>
+    <col style="width:20%">
+    <col style="width:55%">
+    <col style="width:25%">
+  </colgroup>
+  <thead>
+    <tr>
+      <th>Time (CET)</th>
+      <th>Activity</th>
+      <th>Room</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>11:00–12:30</td>
+      <td>Arrival and registration</td>
+      <td>Reception</td>
+    </tr>
+    <tr>
+      <td>12:30–14:00</td>
+      <td>Lunch</td>
+      <td>Silberberg &amp; O'Vino Restaurants</td>
+    </tr>
+    <tr>
+      <td>14:00–15:30</td>
+      <td>Opening and welcome – flash presentation</td>
+      <td>Berliner Saal</td>
+    </tr>
+    <tr>
+      <td>15:30–16:00</td>
+      <td>Coffee break <em>(Bedroom check-in available from 15:00)</em></td>
+      <td>Pechhutte Restaurant / Coffee Hub</td>
+    </tr>
+    <tr>
+      <td>16:00–17:30</td>
+      <td>Hacking</td>
+      <td>Berliner Saal &amp; breakout rooms</td>
+    </tr>
+    <tr>
+      <td>17:30–19:00</td>
+      <td>Leisure time</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>19:00–22:00</td>
+      <td>Dinner and drinks</td>
+      <td>Drunk Piano Bar &amp; Lobby<br>Silberberg &amp; O'Vino Restaurants<br>Winston Lounge Bar</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-## Day 5: Friday, 7 November 2025
+<h2>Day 2: Tuesday, 4 November 2025</h2>
 
-| Time (CET)     | Activity                                             | Room                                        |
-|----------------|------------------------------------------------------|---------------------------------------------|
-| 07:00–09:00    | Breakfast                                            | Silberberg & O'Vino Restaurants             |
-| 09:00–10:30    | Hacking – final presentation preparation            | Berliner Saal & breakout rooms              |
-| 10:30–11:00    | Coffee break                                         | Pechhutte Restaurant / Coffee Hub           |
-| 11:00–12:30    | Final project presentations                          | Berliner Saal                               |
-| 12:30–14:00    | Lunch                                                | Silberberg & O'Vino Restaurants             |
-| 14:00 onwards  | Departure                                            |                                             |
+<table>
+  <colgroup>
+    <col style="width:20%">
+    <col style="width:55%">
+    <col style="width:25%">
+  </colgroup>
+  <thead>
+    <tr>
+      <th>Time (CET)</th>
+      <th>Activity</th>
+      <th>Room</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>07:00–09:00</td>
+      <td>Breakfast</td>
+      <td>Silberberg &amp; O'Vino Restaurants</td>
+    </tr>
+    <tr>
+      <td>09:00–10:30</td>
+      <td>Hacking</td>
+      <td>Berliner Saal &amp; breakout rooms</td>
+    </tr>
+    <tr>
+      <td>10:30–11:00</td>
+      <td>Coffee break</td>
+      <td>Pechhutte Restaurant / Coffee Hub</td>
+    </tr>
+    <tr>
+      <td>11:00–12:30</td>
+      <td>Hacking</td>
+      <td>Berliner Saal &amp; breakout rooms</td>
+    </tr>
+    <tr>
+      <td>12:30–14:00</td>
+      <td>Lunch</td>
+      <td>Silberberg &amp; O'Vino Restaurants</td>
+    </tr>
+    <tr>
+      <td>13:45–14:00</td>
+      <td>Group photo</td>
+      <td>TBC</td>
+    </tr>
+    <tr>
+      <td>14:00–15:30</td>
+      <td>Hacking</td>
+      <td>Berliner Saal &amp; breakout rooms</td>
+    </tr>
+    <tr>
+      <td>15:30–16:00</td>
+      <td>Coffee break</td>
+      <td>Pechhutte Restaurant / Coffee Hub</td>
+    </tr>
+    <tr>
+      <td>16:00–17:30</td>
+      <td>Hacking</td>
+      <td>Berliner Saal &amp; breakout rooms</td>
+    </tr>
+    <tr>
+      <td>17:30–19:00</td>
+      <td>Leisure time</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>19:00–22:00</td>
+      <td>Dinner and drinks</td>
+      <td>Drunk Piano Bar &amp; Lobby<br>Silberberg &amp; O'Vino Restaurants<br>Winston Lounge Bar</td>
+    </tr>
+    <tr>
+      <td>20:30–22:00</td>
+      <td>Social activity</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+<h2>Day 3: Wednesday, 5 November 2025</h2>
+
+<table>
+  <colgroup>
+    <col style="width:20%">
+    <col style="width:55%">
+    <col style="width:25%">
+  </colgroup>
+  <thead>
+    <tr>
+      <th>Time (CET)</th>
+      <th>Activity</th>
+      <th>Room</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>07:00–09:00</td>
+      <td>Breakfast</td>
+      <td>Silberberg &amp; O'Vino Restaurants</td>
+    </tr>
+    <tr>
+      <td>09:00–10:30</td>
+      <td>Hacking</td>
+      <td>Berliner Saal &amp; breakout rooms</td>
+    </tr>
+    <tr>
+      <td>10:30–11:00</td>
+      <td>Coffee break</td>
+      <td>Pechhutte Restaurant / Coffee Hub</td>
+    </tr>
+    <tr>
+      <td>11:00–12:30</td>
+      <td>Hacking</td>
+      <td>Berliner Saal &amp; breakout rooms</td>
+    </tr>
+    <tr>
+      <td>12:30–13:55</td>
+      <td>Lunch</td>
+      <td>Silberberg &amp; O'Vino Restaurants</td>
+    </tr>
+    <tr>
+      <td>13:55–14:00</td>
+      <td>Group photo</td>
+      <td>Outside courtyard</td>
+    </tr>
+    <tr>
+      <td>14:00–15:00</td>
+      <td>Hacking</td>
+      <td>Berliner Saal &amp; breakout rooms</td>
+    </tr>
+    <tr>
+      <td>15:00–17:00</td>
+      <td>Mid-week reporting poster session &amp; coffee break</td>
+      <td>Berliner Saal</td>
+    </tr>
+    <tr>
+      <td>17:00–19:00</td>
+      <td>Leisure time</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>19:00–22:30</td>
+      <td>Dinner and drinks</td>
+      <td>Silberberg &amp; O'Vino Restaurants<br>Drunk Piano Bar &amp; Winston Lounge Bar</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+<h2>Day 4: Thursday, 6 November 2025</h2>
+
+<table>
+  <colgroup>
+    <col style="width:20%">
+    <col style="width:55%">
+    <col style="width:25%">
+  </colgroup>
+  <thead>
+    <tr>
+      <th>Time (CET)</th>
+      <th>Activity</th>
+      <th>Room</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>07:00–09:00</td>
+      <td>Breakfast</td>
+      <td>Silberberg &amp; O'Vino Restaurants</td>
+    </tr>
+    <tr>
+      <td>09:00–10:30</td>
+      <td>Hacking</td>
+      <td>Berliner Saal &amp; breakout rooms</td>
+    </tr>
+    <tr>
+      <td>10:30–11:00</td>
+      <td>Coffee break</td>
+      <td>Pechhutte Restaurant / Coffee Hub</td>
+    </tr>
+    <tr>
+      <td>11:00–12:30</td>
+      <td>Hacking</td>
+      <td>Berliner Saal &amp; breakout rooms</td>
+    </tr>
+    <tr>
+      <td>12:30–14:00</td>
+      <td>Lunch</td>
+      <td>Silberberg &amp; O'Vino Restaurants</td>
+    </tr>
+    <tr>
+      <td>14:00–15:30</td>
+      <td>Hacking</td>
+      <td>Berliner Saal &amp; breakout rooms</td>
+    </tr>
+    <tr>
+      <td>15:30–16:00</td>
+      <td>Coffee break</td>
+      <td>Pechhutte Restaurant / Coffee Hub</td>
+    </tr>
+    <tr>
+      <td>16:00–17:30</td>
+      <td>Hacking</td>
+      <td>Berliner Saal &amp; breakout rooms</td>
+    </tr>
+    <tr>
+      <td>17:30–19:00</td>
+      <td>Leisure time</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>19:00–22:00</td>
+      <td>Dinner and drinks</td>
+      <td>Silberberg &amp; O'Vino Restaurants<br>Drunk Piano Bar</td>
+    </tr>
+    <tr>
+      <td>21:00 onwards</td>
+      <td>Social activity – table tennis and foosball</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+<h2>Day 5: Friday, 7 November 2025</h2>
+
+<table>
+  <colgroup>
+    <col style="width:20%">
+    <col style="width:55%">
+    <col style="width:25%">
+  </colgroup>
+  <thead>
+    <tr>
+      <th>Time (CET)</th>
+      <th>Activity</th>
+      <th>Room</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>07:00–09:00</td>
+      <td>Breakfast</td>
+      <td>Silberberg &amp; O'Vino Restaurants</td>
+    </tr>
+    <tr>
+      <td>09:00–10:30</td>
+      <td>Hacking – final presentation preparation</td>
+      <td>Berliner Saal &amp; breakout rooms</td>
+    </tr>
+    <tr>
+      <td>10:30–11:00</td>
+      <td>Coffee break</td>
+      <td>Pechhutte Restaurant / Coffee Hub</td>
+    </tr>
+    <tr>
+      <td>11:00–12:30</td>
+      <td>Final project presentations</td>
+      <td>Berliner Saal</td>
+    </tr>
+    <tr>
+      <td>12:30–14:00</td>
+      <td>Lunch</td>
+      <td>Silberberg &amp; O'Vino Restaurants</td>
+    </tr>
+    <tr>
+      <td>14:00 onwards</td>
+      <td>Departure</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
