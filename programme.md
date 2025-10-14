@@ -21,10 +21,10 @@ hero_darken: true
     <tr><td>12:30–14:00</td><td>Lunch</td><td>Silberberg &amp; O'Vino Restaurants</td></tr>
     <tr><td>14:00–15:30</td><td>Opening and welcome – flash presentation</td><td>Berliner Saal</td></tr>
     <tr><td>15:00 onwards</td><td>Bedroom check-in available</td><td>Reception</td></tr>
-    <tr><td>15:30–16:00</td><td>Coffee break</td><td>Pechhütte Restaurant // Coffee Hub</td></tr>
+    <tr><td>15:30–16:00</td><td>Coffee break</td><td>Pechhütte Restaurant / Coffee Hub</td></tr>
     <tr><td>16:00–17:30</td><td>Hacking</td><td>Berliner Saal &amp; breakout rooms</td></tr>
     <tr><td>17:30–18:30</td><td>Leisure time</td><td></td></tr>
-    <tr><td>19:00–22:00</td><td><strong>Dinner and drinks</strong></td><td>Silberberg &amp; O'Vino Restaurants; Drunk Piano Bar; Winston Lounge bar</td></tr>
+    <tr><td>19:00–22:00</td><td>Dinner and drinks</td><td>Silberberg &amp; O'Vino Restaurants; Drunk Piano Bar; Winston Lounge bar</td></tr>
   </tbody>
 </table>
 
@@ -39,14 +39,14 @@ hero_darken: true
   <tbody>
     <tr><td>07:00–09:00</td><td>Breakfast</td><td>Silberberg &amp; O'Vino Restaurants</td></tr>
     <tr><td>09:00–10:30</td><td>Hacking</td><td>Berliner Saal &amp; breakout rooms</td></tr>
-    <tr><td>10:30–11:00</td><td>Coffee break</td><td>Pechhütte Restaurant // Coffee Hub</td></tr>
+    <tr><td>10:30–11:00</td><td>Coffee break</td><td>Pechhütte Restaurant / Coffee Hub</td></tr>
     <tr><td>11:00–12:30</td><td>Hacking</td><td>Berliner Saal &amp; breakout rooms</td></tr>
     <tr><td>12:30–14:00</td><td>Lunch</td><td>Silberberg &amp; O'Vino Restaurants</td></tr>
     <tr><td>14:00–15:30</td><td>Hacking</td><td>Berliner Saal &amp; breakout rooms</td></tr>
-    <tr><td>15:30–16:00</td><td>Coffee break</td><td>Pechhütte Restaurant // Coffee Hub</td></tr>
+    <tr><td>15:30–16:00</td><td>Coffee break</td><td>Pechhütte Restaurant / Coffee Hub</td></tr>
     <tr><td>16:00–17:30</td><td>Hacking</td><td>Berliner Saal &amp; breakout rooms</td></tr>
     <tr><td>17:30–18:30</td><td>Leisure</td><td></td></tr>
-    <tr><td>19:00–22:00</td><td><strong>Dinner and drinks</strong></td><td>Silberberg &amp; O'Vino Restaurants; Drunk Piano Bar; Winston Lounge bar</td></tr>
+    <tr><td>19:00–22:00</td><td>Dinner and drinks</td><td>Silberberg &amp; O'Vino Restaurants; Drunk Piano Bar; Winston Lounge bar</td></tr>
     <tr><td>20:30–22:00</td><td>Social activity</td><td></td></tr>
   </tbody>
 </table>
@@ -62,13 +62,13 @@ hero_darken: true
   <tbody>
     <tr><td>07:00–09:00</td><td>Breakfast</td><td>Silberberg &amp; O'Vino Restaurants</td></tr>
     <tr><td>09:00–10:30</td><td>Hacking</td><td>Berliner Saal &amp; breakout rooms</td></tr>
-    <tr><td>10:30–11:00</td><td>Coffee break</td><td>Pechhütte Restaurant // Coffee Hub</td></tr>
+    <tr><td>10:30–11:00</td><td>Coffee break</td><td>Pechhütte Restaurant / Coffee Hub</td></tr>
     <tr><td>11:00–12:30</td><td>Hacking</td><td>Berliner Saal &amp; breakout rooms</td></tr>
     <tr><td>12:30–14:00</td><td>Lunch</td><td>Silberberg &amp; O'Vino Restaurants</td></tr>
     <tr><td>14:00–15:30</td><td>Hacking</td><td>Berliner Saal &amp; breakout rooms</td></tr>
     <tr><td>15:30–17:30</td><td>Coffee break / Mid-week reporting poster session</td><td>Berliner Saal</td></tr>
     <tr><td>17:30–19:00</td><td>Leisure time</td><td></td></tr>
-    <tr><td>19:30–22:00</td><td><strong>Dinner and drinks</strong></td><td>Silberberg &amp; O'Vino Restaurants; Drunk Piano Bar; Winston Lounge bar</td></tr>
+    <tr><td>19:30–22:00</td><td>Dinner and drinks</td><td>Silberberg &amp; O'Vino Restaurants; Drunk Piano Bar; Winston Lounge bar</td></tr>
   </tbody>
 </table>
 
@@ -87,11 +87,11 @@ hero_darken: true
     <tr><td>11:00–12:30</td><td>Hacking</td><td>Berliner Saal &amp; breakout rooms</td></tr>
     <tr><td>12:30–14:00</td><td>Lunch</td><td>Silberberg &amp; O'Vino Restaurants</td></tr>
     <tr><td>14:00–15:30</td><td>Hacking</td><td>Berliner Saal &amp; breakout rooms</td></tr>
-    <tr><td>15:30–16:00</td><td>Coffee break</td><td>Pechhütte Restaurant // Coffee Hub</td></tr>
+    <tr><td>15:30–16:00</td><td>Coffee break</td><td>Pechhütte Restaurant / Coffee Hub</td></tr>
     <tr><td>16:00–17:30</td><td>Hacking</td><td>Berliner Saal &amp; breakout rooms</td></tr>
     <tr><td>17:30 onwards</td><td>Partition walls removed</td><td></td></tr>
     <tr><td>17:30–19:00</td><td>Leisure</td><td></td></tr>
-    <tr><td>19:00–22:00</td><td><strong>Dinner and drinks</strong></td><td>Silberberg &amp; O'Vino Restaurants; Drunk Piano Bar; Winston Lounge bar</td></tr>
+    <tr><td>19:00–22:00</td><td>Dinner and drinks</td><td>Silberberg &amp; O'Vino Restaurants; Drunk Piano Bar; Winston Lounge bar</td></tr>
     <tr><td>21:00</td><td>Finals: table tennis &amp; football</td><td></td></tr>
   </tbody>
 </table>
@@ -107,7 +107,7 @@ hero_darken: true
   <tbody>
     <tr><td>07:00–09:00</td><td>Breakfast</td><td>Silberberg &amp; O'Vino Restaurants</td></tr>
     <tr><td>09:00–10:30</td><td>Final presentation preparation</td><td>Berliner Saal &amp; breakout rooms</td></tr>
-    <tr><td>10:30–11:00</td><td>Morning coffee break</td><td>Pechhütte Restaurant // Coffee Hub</td></tr>
+    <tr><td>10:30–11:00</td><td>Morning coffee break</td><td>Pechhütte Restaurant / Coffee Hub</td></tr>
     <tr><td>11:00–12:30</td><td>Final presentations</td><td>Berliner Saal</td></tr>
     <tr><td>12:30–14:00</td><td>Lunch</td><td>Silberberg &amp; O'Vino Restaurants</td></tr>
     <tr><td>14:00–15:30</td><td>DEPARTURE</td><td></td></tr>
