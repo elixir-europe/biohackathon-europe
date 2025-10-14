@@ -19,7 +19,7 @@ hero_darken: true
   <tbody>
     <tr><td>11:00–12:30</td><td>Arrival and registration</td><td>Reception</td></tr>
     <tr><td>12:30–14:00</td><td>Lunch</td><td>Silberberg &amp; O'Vino Restaurants</td></tr>
-    <tr><td>14:00–15:30</td><td>Opening and welcome – flash presentation</td><td>Berliner Saal</td></tr>
+    <tr><td>14:00–15:30</td><td>Opening and welcome – flash presentations</td><td>Berliner Saal</td></tr>
     <tr><td>15:00 onwards</td><td>Bedroom check-in available</td><td>Reception</td></tr>
     <tr><td>15:30–16:00</td><td>Coffee break</td><td>Pechhütte Restaurant / Coffee Hub</td></tr>
     <tr><td>16:00–17:30</td><td>Hacking</td><td>Berliner Saal &amp; breakout rooms</td></tr>
