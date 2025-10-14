@@ -24,10 +24,7 @@ hero_darken: true
     <tr><td>15:30–16:00</td><td>Coffee break</td><td>Pechhutte Restaurant // Coffee Hub</td></tr>
     <tr><td>16:00–17:30</td><td>Hacking</td><td>Berliner Saal &amp; breakout rooms</td></tr>
     <tr><td>17:30–18:30</td><td>Leisure time</td><td></td></tr>
-    <tr><td>18:30–19:00</td><td>Pre-dinner drinks</td><td>Drunk Piano Bar</td></tr>
-    <tr><td>19:00–20:30</td><td>Dinner</td><td>Silberberg &amp; O'Vino Restaurants</td></tr>
-    <tr><td>20:30–22:00</td><td>Post-dinner drinks</td><td>Drunk Piano Bar; Winston Lounge bar</td></tr>
-    <tr><td>22:00–00:00</td><td>Bar open (self-pay)</td><td>Drunk Piano Bar; Winston Lounge bar</td></tr>
+    <tr><td>19:00–22:00</td><td><strong>Dinner and drinks</strong></td><td>Silberberg &amp; O'Vino Restaurants; Drunk Piano Bar; Winston Lounge bar</td></tr>
   </tbody>
 </table>
 
@@ -49,11 +46,8 @@ hero_darken: true
     <tr><td>15:30–16:00</td><td>Coffee break</td><td>Pechhutte Restaurant // Coffee Hub</td></tr>
     <tr><td>16:00–17:30</td><td>Hacking</td><td>Berliner Saal &amp; breakout rooms</td></tr>
     <tr><td>17:30–18:30</td><td>Leisure</td><td></td></tr>
-    <tr><td>18:30–19:00</td><td>Pre-dinner drinks</td><td>Drunk Piano Bar</td></tr>
-    <tr><td>19:00–20:30</td><td>Dinner starts</td><td>Silberberg &amp; O'Vino Restaurants</td></tr>
-    <tr><td>20:30–22:00</td><td>Post-dinner drinks</td><td>Drunk Piano Bar; Winston Lounge bar</td></tr>
-    <tr><td>20:30–22:00</td><td>Social?</td><td></td></tr>
-    <tr><td>22:00–00:00</td><td>Bar open (self-pay)</td><td>Drunk Piano Bar; Winston Lounge bar</td></tr>
+    <tr><td>19:00–22:00</td><td><strong>Dinner and drinks</strong></td><td>Silberberg &amp; O'Vino Restaurants; Drunk Piano Bar; Winston Lounge bar</td></tr>
+    <tr><td>20:30–22:00</td><td>Social activity</td><td></td></tr>
   </tbody>
 </table>
 
@@ -74,10 +68,7 @@ hero_darken: true
     <tr><td>14:00–15:30</td><td>Hacking</td><td>Berliner Saal &amp; breakout rooms</td></tr>
     <tr><td>15:30–17:30</td><td>Coffee break / Mid-week reporting poster session</td><td>Berliner Saal</td></tr>
     <tr><td>17:30–19:00</td><td>Leisure time</td><td></td></tr>
-    <tr><td>19:00–19:30</td><td>Pre-dinner drinks</td><td>Drunk Piano Bar</td></tr>
-    <tr><td>19:30–21:00</td><td>Dinner starts</td><td>Silberberg &amp; O'Vino Restaurants</td></tr>
-    <tr><td>21:00–22:30</td><td>Post-dinner drinks</td><td>Drunk Piano Bar; Winston Lounge bar</td></tr>
-    <tr><td>22:30–00:00</td><td>Bar open (self-pay)</td><td>Drunk Piano Bar; Winston Lounge bar</td></tr>
+    <tr><td>19:30–22:00</td><td><strong>Dinner and drinks</strong></td><td>Silberberg &amp; O'Vino Restaurants; Drunk Piano Bar; Winston Lounge bar</td></tr>
   </tbody>
 </table>
 
@@ -100,11 +91,8 @@ hero_darken: true
     <tr><td>16:00–17:30</td><td>Hacking</td><td>Berliner Saal &amp; breakout rooms</td></tr>
     <tr><td>17:30 onwards</td><td>Partition walls removed</td><td></td></tr>
     <tr><td>17:30–19:00</td><td>Leisure</td><td></td></tr>
-    <tr><td>18:30–19:00</td><td>Pre-dinner drinks</td><td>Drunk Piano Bar</td></tr>
-    <tr><td>19:00–20:30</td><td>Dinner starts</td><td>Silberberg &amp; O'Vino Restaurants</td></tr>
-    <tr><td>20:30–22:00</td><td>Post-dinner drinks</td><td>Drunk Piano Bar; Winston Lounge bar</td></tr>
+    <tr><td>19:00–22:00</td><td><strong>Dinner and drinks</strong></td><td>Silberberg &amp; O'Vino Restaurants; Drunk Piano Bar; Winston Lounge bar</td></tr>
     <tr><td>21:00</td><td>Finals: table tennis &amp; football</td><td></td></tr>
-    <tr><td>22:00–00:00</td><td>Bar open (self-pay)</td><td>Drunk Piano Bar; Winston Lounge bar</td></tr>
   </tbody>
 </table>
 
