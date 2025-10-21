@@ -12,7 +12,7 @@ hero_darken: true
 
 <h2>Day 1: Monday, 3 November 2025</h2>
 <table>
-  <thead><tr><th>Time (CET)</th><th>Activity</th><th>Room / location</th></tr></thead>
+  <thead><tr><th>Time (CET)</th><th>Activity</th><th>Room/location</th></tr></thead>
   <tbody>
     <tr><td>11:00–12:30</td><td>Arrival and registration</td><td>Reception</td></tr>
     <tr><td>12:30–14:00</td><td>Lunch</td><td>Silberberg &amp; O'Vino Restaurants</td></tr>
@@ -113,4 +113,4 @@ hero_darken: true
 
 **Note:** Details of the programme are subject to change.  
 **Last updated 21 October 2025.**  
-You can also view the <a href="/pdf/Biohackathon%202025%20programme.pdf">agenda in PDF format here</a>.
+You can also view the <a href="/pdf/BH25%20programme%20plus%20agenda.pdf">agenda in PDF format here</a>.
