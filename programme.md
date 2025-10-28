@@ -10,17 +10,25 @@ hero_darken: true
 
 # Programme (3–7 November)
 
-
-<!-- Keep times on one line -->
 <style>
-  .programme-table th:first-child,
-  .programme-table td:first-child { white-space: nowrap; }
+  /* Consistent column widths per table */
+  .programme-table { table-layout: fixed; width: 100%; }
+  .programme-table th, .programme-table td { vertical-align: top; }
+  .programme-table .col-time   { width: 20%; white-space: nowrap; }
+  .programme-table .col-activity { width: 50%; }
+  .programme-table .col-room   { width: 30%; }
+  /* If you prefer equal thirds for a table, replace widths above with: width: 33.3333% on all three */
 </style>
 
 ---
 
 <h2>Day 1: Monday, 3 November 2025</h2>
 <table class="programme-table">
+  <colgroup>
+    <col class="col-time" />
+    <col class="col-activity" />
+    <col class="col-room" />
+  </colgroup>
   <thead><tr><th>Time (CET)</th><th>Activity</th><th>Room / location</th></tr></thead>
   <tbody>
     <tr><td>11:00–12:30</td><td>Arrival and registration</td><td>Reception</td></tr>
@@ -39,6 +47,11 @@ hero_darken: true
 
 <h2>Day 2: Tuesday, 4 November 2025</h2>
 <table class="programme-table">
+  <colgroup>
+    <col class="col-time" />
+    <col class="col-activity" />
+    <col class="col-room" />
+  </colgroup>
   <thead><tr><th>Time (CET)</th><th>Activity</th><th>Room / location</th></tr></thead>
   <tbody>
     <tr><td>07:00–09:00</td><td>Breakfast</td><td>Silberberg &amp; O'Vino Restaurants</td></tr>
@@ -63,6 +76,11 @@ hero_darken: true
 
 <h2>Day 3: Wednesday, 5 November 2025</h2>
 <table class="programme-table">
+  <colgroup>
+    <col class="col-time" />
+    <col class="col-activity" />
+    <col class="col-room" />
+  </colgroup>
   <thead><tr><th>Time (CET)</th><th>Activity</th><th>Room / location</th></tr></thead>
   <tbody>
     <tr><td>07:00–09:00</td><td>Breakfast</td><td>Silberberg &amp; O'Vino Restaurants</td></tr>
@@ -86,6 +104,11 @@ hero_darken: true
 
 <h2>Day 4: Thursday, 6 November 2025</h2>
 <table class="programme-table">
+  <colgroup>
+    <col class="col-time" />
+    <col class="col-activity" />
+    <col class="col-room" />
+  </colgroup>
   <thead><tr><th>Time (CET)</th><th>Activity</th><th>Room / location</th></tr></thead>
   <tbody>
     <tr><td>07:00–09:00</td><td>Breakfast</td><td>Silberberg &amp; O'Vino Restaurants</td></tr>
@@ -108,6 +131,11 @@ hero_darken: true
 
 <h2>Day 5: Friday, 7 November 2025</h2>
 <table class="programme-table">
+  <colgroup>
+    <col class="col-time" />
+    <col class="col-activity" />
+    <col class="col-room" />
+  </colgroup>
   <thead><tr><th>Time (CET)</th><th>Activity</th><th>Room / location</th></tr></thead>
   <tbody>
     <tr><td>07:00–09:00</td><td>Breakfast</td><td>Silberberg &amp; O'Vino Restaurants</td></tr>
@@ -118,6 +146,8 @@ hero_darken: true
     <tr><td>14:00 onwards</td><td>Departure</td><td></td></tr>
   </tbody>
 </table>
+
+---
 
 ---
 
