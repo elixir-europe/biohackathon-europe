@@ -10,6 +10,8 @@ hero_darken: true
 
 # Programme (3–7 November)
 
+**Note:** Details of the programme are subject to change. **Last updated 23 October 2025.** You can also view the <a href="/pdf/BH25%20programme_updated.pdf">agenda in PDF format here</a>.
+
 <style>
   /* Consistent column widths per table */
   .programme-table { table-layout: fixed; width: 100%; }
@@ -146,8 +148,6 @@ hero_darken: true
     <tr><td>14:00 onwards</td><td>Departure</td><td></td></tr>
   </tbody>
 </table>
-
----
 
 ---
 
