@@ -112,5 +112,5 @@ hero_darken: true
 ---
 
 **Note:** Details of the programme are subject to change.  
-**Last updated 21 October 2025.**  
-You can also view the <a href="/pdf/BH25%20programme%20plus%20agenda.pdf">agenda in PDF format here</a>.
+**Last updated 23 October 2025.**  
+You can also view the <a href="/pdf/BH25%20programme_updated.pdf">agenda in PDF format here</a>.
