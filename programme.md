@@ -91,7 +91,8 @@ hero_darken: true
     <tr><td>18:30–19:00</td><td>Pre-dinner mingling (drinks included)</td><td>Drunk Piano Bar, Harlekin Bar &amp; Lobby</td></tr>
     <tr><td>19:00–20:30</td><td>Dinner</td><td>Silberberg &amp; O'Vino Restaurants</td></tr>
     <tr><td>20:30–22:00</td><td>Post-dinner mingling (drinks included)</td><td>Drunk Piano Bar, Harlekin Bar, Winston Lounge Bar &amp; Lobby</td></tr>
-    <tr><td>21:00 onwards</td><td>Social activity – table tennis and foosball finals</td><td></td></tr>
+<tr><td>21:00 onwards</td><td>Social activity – table tennis and foosball</td><td></td></tr>
+
   </tbody>
 </table>
 
