@@ -10,8 +10,17 @@ hero_darken: true
 
 # Programme (3–7 November)
 
+
+<!-- Keep times on one line -->
+<style>
+  .programme-table th:first-child,
+  .programme-table td:first-child { white-space: nowrap; }
+</style>
+
+---
+
 <h2>Day 1: Monday, 3 November 2025</h2>
-<table>
+<table class="programme-table">
   <thead><tr><th>Time (CET)</th><th>Activity</th><th>Room / location</th></tr></thead>
   <tbody>
     <tr><td>11:00–12:30</td><td>Arrival and registration</td><td>Reception</td></tr>
@@ -29,7 +38,7 @@ hero_darken: true
 ---
 
 <h2>Day 2: Tuesday, 4 November 2025</h2>
-<table>
+<table class="programme-table">
   <thead><tr><th>Time (CET)</th><th>Activity</th><th>Room / location</th></tr></thead>
   <tbody>
     <tr><td>07:00–09:00</td><td>Breakfast</td><td>Silberberg &amp; O'Vino Restaurants</td></tr>
@@ -53,7 +62,7 @@ hero_darken: true
 ---
 
 <h2>Day 3: Wednesday, 5 November 2025</h2>
-<table>
+<table class="programme-table">
   <thead><tr><th>Time (CET)</th><th>Activity</th><th>Room / location</th></tr></thead>
   <tbody>
     <tr><td>07:00–09:00</td><td>Breakfast</td><td>Silberberg &amp; O'Vino Restaurants</td></tr>
@@ -76,7 +85,7 @@ hero_darken: true
 ---
 
 <h2>Day 4: Thursday, 6 November 2025</h2>
-<table>
+<table class="programme-table">
   <thead><tr><th>Time (CET)</th><th>Activity</th><th>Room / location</th></tr></thead>
   <tbody>
     <tr><td>07:00–09:00</td><td>Breakfast</td><td>Silberberg &amp; O'Vino Restaurants</td></tr>
@@ -91,15 +100,14 @@ hero_darken: true
     <tr><td>18:30–19:00</td><td>Pre-dinner mingling (drinks included)</td><td>Drunk Piano Bar, Harlekin Bar &amp; Lobby</td></tr>
     <tr><td>19:00–20:30</td><td>Dinner</td><td>Silberberg &amp; O'Vino Restaurants</td></tr>
     <tr><td>20:30–22:00</td><td>Post-dinner mingling (drinks included)</td><td>Drunk Piano Bar, Harlekin Bar, Winston Lounge Bar &amp; Lobby</td></tr>
-<tr><td>21:00 onwards</td><td>Social activity – table tennis and foosball</td><td></td></tr>
-
+    <tr><td>21:00 onwards</td><td>Social activity – table tennis and foosball</td><td></td></tr>
   </tbody>
 </table>
 
 ---
 
 <h2>Day 5: Friday, 7 November 2025</h2>
-<table>
+<table class="programme-table">
   <thead><tr><th>Time (CET)</th><th>Activity</th><th>Room / location</th></tr></thead>
   <tbody>
     <tr><td>07:00–09:00</td><td>Breakfast</td><td>Silberberg &amp; O'Vino Restaurants</td></tr>
@@ -110,6 +118,7 @@ hero_darken: true
     <tr><td>14:00 onwards</td><td>Departure</td><td></td></tr>
   </tbody>
 </table>
+
 ---
 
 **Note:** Details of the programme are subject to change.  
