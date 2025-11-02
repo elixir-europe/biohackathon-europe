@@ -8,14 +8,7 @@ layout: page
 show_sidebar: false
 hero_image: /img/heroes/hero-2025.webp
 hero_darken: true
-reg_text: >
-  Registration is open for virtual participation.<br>
-  Face-to-face registration is currently full, but you can join the waiting list.
 
-  <div class="buttons is-centered mt-4">
-    <a href="https://elixir-events.eventscase.com/attendance/event/index/45232/EN?step=login" class="button is-size-5">Register now (virtual)</a>
-    <a href="https://elixir-events.eventscase.com/attendance/event/index/45232/EN?step=login" class="button is-size-5 ml-3">Join the F2F waiting list</a>
-  </div>
 
 ---
 
