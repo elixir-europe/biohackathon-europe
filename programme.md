@@ -90,10 +90,10 @@ hero_darken: true
     <tr><td>09:00–10:30</td><td>Hacking</td><td>Berliner Saal &amp; breakout rooms</td></tr>
     <tr><td>10:30–11:00</td><td>Coffee break</td><td>Pechhütte Restaurant / Coffee Hub</td></tr>
     <tr><td>11:00–12:30</td><td>Hacking</td><td>Berliner Saal &amp; breakout rooms</td></tr>
-    <tr><td>12:30–13:55</td><td>Lunch</td><td>Silberberg &amp; O'Vino Restaurants</td></tr>
-    <tr><td>13:55–14:00</td><td>Group photo</td><td>Outside courtyard</td></tr>
+    <tr><td>12:30–14:00</td><td>Lunch</td><td>Silberberg &amp; O'Vino Restaurants</td></tr>
     <tr><td>14:00–15:00</td><td>Hacking</td><td>Berliner Saal &amp; breakout rooms</td></tr>
-    <tr><td>15:00–17:00</td><td>Mid-week reporting poster session &amp; coffee break</td><td>Berliner Saal</td></tr>
+    <tr><td>15:00–15:15</td><td>Group photo</td><td>Outside courtyard</td></tr>
+    <tr><td>15:30–17:00</td><td>Mid-week reporting poster session &amp; coffee break</td><td>Berliner Saal</td></tr>
     <tr><td>17:00–19:00</td><td>Leisure time</td><td></td></tr>
     <tr><td>18:30–19:00</td><td>Pre-dinner mingling (drinks included)</td><td>Drunk Piano Bar, Harlekin Bar &amp; Lobby</td></tr>
     <tr><td>19:00–20:30</td><td>Dinner</td><td>Silberberg &amp; O'Vino Restaurants</td></tr>
@@ -151,4 +151,5 @@ hero_darken: true
 
 ---
 
-**Note:** Details of the programme are subject to change. **Last updated 23 October 2025.** You can also view the <a href="/pdf/BH25%20programme_updated.pdf">agenda in PDF format here</a>.
+**Note:** Details of the programme are subject to change. **Last updated 3 November 2025.** You can also view the <a href="/pdf/BH25%20programme_updated.pdf">agenda in PDF format here</a>.
+
