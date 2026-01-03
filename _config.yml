@@ -39,6 +39,7 @@ livereload: true
 remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 footer_menu: footer_menu
 
