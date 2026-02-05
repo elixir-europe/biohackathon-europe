@@ -6,7 +6,7 @@ description: >
   Find out about the 2026 BioHackathon Europe, where hackers get together to make life science research easier.
 layout: page
 show_sidebar: false
-hero_image: /img/heroes/hero-2025.webp
+hero_image: /img/heroes/hero-2026.webp
 hero_darken: true
 ---
 
