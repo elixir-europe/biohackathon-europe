@@ -54,7 +54,11 @@ The key objective of BioHackathon Europe is to advance the development of an ope
 ## Industry engagement
 BioHackathon Europe welcomes participants from industry and encourages collaboration between academia and commercial partners. Companies interested in contributing to projects or proposing challenges can get in touch via ELIXIR’s Industry and Innovation office. For more information, contact the ELIXIR Outreach Officer, Flora Foltanyi (<flora.foltanyi@elixir-europe.org>).
 
-<a href="https://drive.google.com/file/d/1uyuHeZbtyAlmZQt0RjzplFkLNSh3VVUY/view?usp=sharing" class="button is-size-5 is-inline-block my-2">View the industry flyer</a>
+<!--
+<a href="https://drive.google.com/file/d/1uyuHeZbtyAlmZQt0RjzplFkLNSh3VVUY/view?usp=sharing" class="button is-size-5 is-inline-block my-2">
+  View the industry flyer
+</a>
+-->
 
 >'It was an amazing experience... Two teams embraced our challenge to demonstrate the validity of edge computing. We reached our goal of connecting with the bioinformatics community and creating awareness for a new technology. No doubt we will participate in the future.'
 >
