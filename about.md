@@ -14,16 +14,33 @@ The BioHackathon offers an intense week of hacking, with over 160 international 
 
 The first BioHackathon Europe was held in Paris in 2018, inspired by the long-standing BioHackathons organised in Japan by the National Bioscience Database Center [(NBDC)](https://biosciencedbc.jp/?lng=en) and the Database Center for Life Science [(DBCLS)](https://dbcls.rois.ac.jp/index-en.html) since 2008 (see their [BioHackathon website](http://www.biohackathon.org/) for more details).
 
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube.com/embed/JkpAnivMAxI?si=IBpI61S-cB3Zg3Iw"
-  title="YouTube video player"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  referrerpolicy="strict-origin-when-cross-origin"
-  allowfullscreen>
-</iframe>
+<style>
+.video-container {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
+  margin: 2rem 0;
+}
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+</style>
+
+<div class="video-container">
+  <iframe
+    src="https://www.youtube.com/embed/JkpAnivMAxI?si=IBpI61S-cB3Zg3Iw"
+    title="YouTube video player"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
 *Please note:* YouTube videos load cookies when you start playing them. If you prefer not to accept cookies, please avoid playing the video. For more information, refer to our website privacy statement.
 
