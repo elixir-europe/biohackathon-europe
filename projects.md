@@ -56,6 +56,7 @@ The titles of the projects selected by the Programme Committee for the 2025 edit
 ## Previous BioHackathons
 You can explore previous BioHackathons to get an idea of the types of projects developed. Each project has a GitHub repository with detailed descriptions, code and progress updates.
 
+*   **BH2025:** [Projects repo](https://github.com/elixir-europe/biohackathon-projects-2025) - [News story](https://elixir-europe.org/news/BH2025) - [Photos](https://www.flickr.com/photos/elixir-europe/albums/72177720330241026/)
 *   **BH2024:** [2024 Report](https://zenodo.org/records/17377311) - [Projects repo](https://github.com/elixir-europe/biohackathon-projects-2024) - [News story](https://elixir-europe.org/news/biohack2024) - [Photos](https://www.flickr.com/photos/elixir-europe/albums/72177720321912863/) 
 *   **BH2023:** [Website](https://2023.biohackathon-europe.org) - [Projects repo](https://github.com/elixir-europe/biohackathon-projects-2023) - [News story](https://elixir-europe.org/news/biohack2023) - [Photos](https://www.flickr.com/photos/elixir-europe/albums/72177720312705782)
 *   **BH2022:** [Website](https://2022.biohackathon-europe.org) - [Projects repo](https://github.com/elixir-europe/biohackathon-projects-2022) - [News story](https://elixir-europe.org/news/biohack2022) - [Photos](https://www.flickr.com/photos/elixir-europe/albums/72177720303911368)
