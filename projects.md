@@ -38,7 +38,7 @@ You can explore previous BioHackathons to get an idea of the types of projects d
 * **BH2019:** [Website](https://2019.biohackathon-europe.org/) – [Projects repo](https://github.com/elixir-europe/BioHackathon-projects-2019) – [News story](https://elixir-europe.org/news/hackers-meet-develop-life-science-resources) – [Photos](https://www.flickr.com/photos/elixir-europe/albums/72157712057713728)
 * **BH2018:** [Website](https://2018.biohackathon-europe.org/) – [Projects repo](https://github.com/elixir-europe/bh2018paris) – [Photos](https://www.flickr.com/photos/elixir-europe/albums/72157710113824772)
 
-{% raw %}
+{% comment %}
 =====================================================
 OLD PAGE CONTENT (2025 PROJECTS LIST)
 Hidden for now – retained for reference and reuse
@@ -92,4 +92,4 @@ The titles of the projects selected by the Programme Committee for the 2025 edit
 =====================================================
 END OLD CONTENT
 =====================================================
-{% endraw %}
+{% endcomment %}
