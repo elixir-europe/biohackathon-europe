@@ -18,7 +18,7 @@ All other participants may express interest in registering to attend the event i
 
 Participants accepted to attend in person will be notified before the end of July. Attendance will only be fully confirmed once accepted participants have paid the venue for their accommodation.
 
-## Virtual attendance
+### Virtual attendance
 
 Participants wishing to attend virtually may register at any time. At present, we do not expect virtual registration to close ahead of the BioHackathon.
 
