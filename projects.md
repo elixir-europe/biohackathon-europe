@@ -29,16 +29,16 @@ Each project must have three co-leads, and each co-lead can support only one pro
 
 You can explore previous BioHackathons to get an idea of the types of projects developed. Each project has a GitHub repository with detailed descriptions, code and progress updates, and we also publish an annual BioHackathon report summarising the projects, outcomes and key achievements from each event.
 
-*   **BH2025:** [Projects repo](https://github.com/elixir-europe/biohackathon-projects-2025) - [News story](https://elixir-europe.org/news/BH2025) - [Photos](https://www.flickr.com/photos/elixir-europe/albums/72177720330241026/)
-*   **BH2024:** [2024 Report](https://zenodo.org/records/17377311) - [Projects repo](https://github.com/elixir-europe/biohackathon-projects-2024) - [News story](https://elixir-europe.org/news/biohack2024) - [Photos](https://www.flickr.com/photos/elixir-europe/albums/72177720321912863/) 
-*   **BH2023:** [Website](https://2023.biohackathon-europe.org) - [Projects repo](https://github.com/elixir-europe/biohackathon-projects-2023) - [News story](https://elixir-europe.org/news/biohack2023) - [Photos](https://www.flickr.com/photos/elixir-europe/albums/72177720312705782)
-*   **BH2022:** [Website](https://2022.biohackathon-europe.org) - [Projects repo](https://github.com/elixir-europe/biohackathon-projects-2022) - [News story](https://elixir-europe.org/news/biohack2022) - [Photos](https://www.flickr.com/photos/elixir-europe/albums/72177720303911368)
-*   **BH2021:** [Website](https://2021.biohackathon-europe.org) - [Projects repo](https://github.com/elixir-europe/BioHackathon-projects-2021) - [News story](https://elixir-europe.org/news/hybrid-biohackathon) - [Photos](https://www.flickr.com/photos/elixir-europe/albums/72157720142412708)
-*   **BH2020:** [Website](https://2020.biohackathon-europe.org/) - [Projects repo](https://github.com/elixir-europe/BioHackathon-projects-2020) - [News story](https://elixir-europe.org/news/first-virtual-biohackathon-europe-success)
-*   **BH2019:** [Website](https://2019.biohackathon-europe.org/) - [Projects repo](https://github.com/elixir-europe/BioHackathon-projects-2019) - [News story](https://elixir-europe.org/news/hackers-meet-develop-life-science-resources) - [Photos](https://www.flickr.com/photos/elixir-europe/albums/72157712057713728)
-*   **BH2018:** [Website](https://2018.biohackathon-europe.org/) - [Projects repo](https://github.com/elixir-europe/bh2018paris) - [Photos](https://www.flickr.com/photos/elixir-europe/albums/72157710113824772)
+* **BH2025:** [Projects repo](https://github.com/elixir-europe/biohackathon-projects-2025) – [News story](https://elixir-europe.org/news/BH2025) – [Photos](https://www.flickr.com/photos/elixir-europe/albums/72177720330241026/)
+* **BH2024:** [2024 Report](https://zenodo.org/records/17377311) – [Projects repo](https://github.com/elixir-europe/biohackathon-projects-2024) – [News story](https://elixir-europe.org/news/biohack2024) – [Photos](https://www.flickr.com/photos/elixir-europe/albums/72177720321912863/)
+* **BH2023:** [Website](https://2023.biohackathon-europe.org) – [Projects repo](https://github.com/elixir-europe/biohackathon-projects-2023) – [News story](https://elixir-europe.org/news/biohack2023) – [Photos](https://www.flickr.com/photos/elixir-europe/albums/72177720312705782)
+* **BH2022:** [Website](https://2022.biohackathon-europe.org) – [Projects repo](https://github.com/elixir-europe/biohackathon-projects-2022) – [News story](https://elixir-europe.org/news/biohack2022) – [Photos](https://www.flickr.com/photos/elixir-europe/albums/72177720303911368)
+* **BH2021:** [Website](https://2021.biohackathon-europe.org) – [Projects repo](https://github.com/elixir-europe/BioHackathon-projects-2021) – [News story](https://elixir-europe.org/news/hybrid-biohackathon) – [Photos](https://www.flickr.com/photos/elixir-europe/albums/72157720142412708)
+* **BH2020:** [Website](https://2020.biohackathon-europe.org/) – [Projects repo](https://github.com/elixir-europe/BioHackathon-projects-2020) – [News story](https://elixir-europe.org/news/first-virtual-biohackathon-europe-success)
+* **BH2019:** [Website](https://2019.biohackathon-europe.org/) – [Projects repo](https://github.com/elixir-europe/BioHackathon-projects-2019) – [News story](https://elixir-europe.org/news/hackers-meet-develop-life-science-resources) – [Photos](https://www.flickr.com/photos/elixir-europe/albums/72157712057713728)
+* **BH2018:** [Website](https://2018.biohackathon-europe.org/) – [Projects repo](https://github.com/elixir-europe/bh2018paris) – [Photos](https://www.flickr.com/photos/elixir-europe/albums/72157710113824772)
 
-<!--
+{% raw %}
 =====================================================
 OLD PAGE CONTENT (2025 PROJECTS LIST)
 Hidden for now – retained for reference and reuse
@@ -91,4 +91,5 @@ The titles of the projects selected by the Programme Committee for the 2025 edit
 
 =====================================================
 END OLD CONTENT
-============================================
+=====================================================
+{% endraw %}
