@@ -12,7 +12,7 @@ Each November, ELIXIR Europe organises BioHackathon Europe, bringing together bi
 
 The BioHackathon offers an intense week of hacking, with over 160 international face-to-face participants who work on diverse and impactful bioinformatics projects. The week kicks off with a half-day symposium, introducing the projects and setting the stage for four days of dedicated hacking – all with one goal: developing solutions to key challenges in bioinformatics.
 
-The first BioHackathon Europe was held in Paris in 2018, inspired by the long-standing BioHackathons organised in Japan by the National Bioscience Database Center (NBDC) and the Database Center for Life Science (DBCLS) since 2008 (see their BioHackathon website for more details).
+The first BioHackathon Europe was held in Paris in 2018, inspired by the long-standing BioHackathons organised in Japan by the National Bioscience Database Center [(NBDC)](https://biosciencedbc.jp/?lng=en) and the Database Center for Life Science [(DBCLS)](https://dbcls.rois.ac.jp/index-en.html) since 2008 (see their [BioHackathon website](http://www.biohackathon.org/) for more details).
 
 <iframe
   width="560"
