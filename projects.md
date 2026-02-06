@@ -1,6 +1,6 @@
 ---
 title: Projects
-subtitle: Successful projects 2025
+subtitle: Submit projects from 16 March 2026
 description: BioHackathon Europe projects
 layout: page
 show_sidebar: false
