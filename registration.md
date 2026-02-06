@@ -1,3 +1,14 @@
+---
+title: Registration
+subtitle: ""
+description: >
+  When and how to register for BioHackathon Europe 2026
+layout: page
+show_sidebar: false
+hero_image: /img/heroes/hero-flipchart-hall.webp
+hero_darken: true
+---
+
 ## Participant expression of interest for in-person attendance
 
 Participants are welcome to join BioHackathon Europe, either on-site or online, regardless of project submission. Attendance is free, but in-person participants must cover their own travel and accommodation costs. For pricing details, visit the [Venue page](/venue/).
