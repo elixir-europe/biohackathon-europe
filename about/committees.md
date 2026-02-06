@@ -10,7 +10,7 @@ hero_darken: true
 
 ## Organising Committee
 
-The Organising Committee is based at the [ELIXIR Hub](https://elixir-europe.org/about-us/who-we-are), with Mihail Anton as Chair of the Committee.
+The Organising Committee is based at the [ELIXIR Hub](https://elixir-europe.org/about-us/who-we-are), with Mihail Anton and Chloè Llewellyn as Co-chairs of the Committee.
 
 {% include organising-committee.html %}
 
