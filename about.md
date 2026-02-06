@@ -12,15 +12,19 @@ Each November, ELIXIR Europe organises BioHackathon Europe, bringing together bi
 
 The BioHackathon offers an intense week of hacking, with over 160 international face-to-face participants who work on diverse and impactful bioinformatics projects. The week kicks off with a half-day symposium, introducing the projects and setting the stage for four days of dedicated hacking – all with one goal: developing solutions to key challenges in bioinformatics.
 
-The first BioHackathon Europe was held in Paris in 2018, inspired by the long-standing BioHackathons organised in Japan by the National Bioscience Database Center [(NBDC)](https://biosciencedbc.jp/?lng=en) and the Database Center for Life Science [(DBCLS)](https://dbcls.rois.ac.jp/index-en.html) since 2008 (see their [BioHackathon website](http://www.biohackathon.org/) for more details).
+The first BioHackathon Europe was held in Paris in 2018, inspired by the long-standing BioHackathons organised in Japan by the [National Bioscience Database Center](https://biosciencedbc.jp/?lng=en) (NBDC) and the [Database Center for Life Science](https://dbcls.rois.ac.jp/index-en.html) (DBCLS) since 2008 (see their [BioHackathon website](http://www.biohackathon.org/) for more details).
 
 <style>
+.video-box {
+  background: #f2f2f2;
+  padding: 1.5rem;
+  margin: 2rem 0;
+}
 .video-container {
   position: relative;
   width: 100%;
   padding-bottom: 56.25%; /* 16:9 */
   height: 0;
-  margin: 2rem 0;
 }
 .video-container iframe {
   position: absolute;
@@ -30,19 +34,27 @@ The first BioHackathon Europe was held in Paris in 2018, inspired by the long-st
   height: 100%;
   border: 0;
 }
+.video-note {
+  margin-top: 1rem;
+  font-size: 0.9rem;
+}
 </style>
 
-<div class="video-container">
-  <iframe
-    src="https://www.youtube.com/embed/JkpAnivMAxI?si=IBpI61S-cB3Zg3Iw"
-    title="YouTube video player"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen>
-  </iframe>
-</div>
+<div class="video-box">
+  <div class="video-container">
+    <iframe
+      src="https://www.youtube.com/embed/JkpAnivMAxI?si=IBpI61S-cB3Zg3Iw"
+      title="YouTube video player"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allowfullscreen>
+    </iframe>
+  </div>
 
-*Please note:* YouTube videos load cookies when you start playing them. If you prefer not to accept cookies, please avoid playing the video. For more information, refer to our website privacy statement.
+  <p class="video-note">
+    <strong>Please note:</strong> YouTube videos load cookies when you start playing them. If you prefer not to accept cookies, please avoid playing the video. For more information, refer to our website privacy statement.
+  </p>
+</div>
 
 ## Contact
 
