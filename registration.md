@@ -13,7 +13,7 @@ hero_darken: true
 
 Participants are welcome to join BioHackathon Europe, either on-site or online, regardless of project submission. Attendance is free, but in-person participants must cover their own travel and accommodation costs. For pricing details, visit the [Venue page](/venue/).
 
-The expression of interest period for **BioHackathon Europe 2026** will open at the end of June. Please note that all in-person participants are required to stay for the whole duration of the BioHackathon, at the event venue.
+The expression of interest period for BioHackathon Europe 2026 will open at the end of June. Please note that all in-person participants are required to stay for the whole duration of the BioHackathon, at the event venue.
 
 ## Who can register?
 
@@ -23,9 +23,7 @@ If you have any queries about this, please contact <biohackathon-europe@elixir-e
 
 ## Registration and attendance
 
-Project co-leads will be invited to register via direct email and will receive specific registration instructions.
-
-All other participants may express interest in registering to attend the event in person (face to face) between **26 June and 17 July**. All expressions of interest to attend in person will be reviewed, taking into account event and project needs, as well as ELIXIR’s commitment to gender balance and diversity.
+Project co-leads will be invited to register via direct email and will receive specific registration instructions. All other participants may express interest in registering to attend the event in person (face to face) between **26 June and 17 July**. All expressions of interest to attend in person will be reviewed, taking into account event and project needs, as well as ELIXIR’s commitment to gender balance and diversity.
 
 Participants accepted to attend in person will be notified before the end of July. Attendance will only be fully confirmed once accepted participants have paid the venue for their accommodation.
 
