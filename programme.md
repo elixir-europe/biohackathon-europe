@@ -10,9 +10,7 @@ hero_darken: true
 
 # Watch this space ...
 
-A detailed schedule for the event, including sessions and discussions, will be published closer to the event. The agenda, including the venue site map, will also be made available at that time.
-
-**Note:** Programme details are subject to change.
+A detailed schedule for the event, including sessions and discussions, will be published closer to the event. The agenda, including the venue site map, will also be made available at that time.  
 
 <!--
 =====================================================
