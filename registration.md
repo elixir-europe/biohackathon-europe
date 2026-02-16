@@ -25,7 +25,7 @@ If you have any queries about this, please contact <biohackathon-europe@elixir-e
 
 Project co-leads will be invited to register via direct email and will receive specific registration instructions. All other participants may express interest in registering to attend the event in person (face to face) between **26 June and 17 July**. All expressions of interest to attend in person will be reviewed, taking into account event and project needs, as well as ELIXIR’s commitment to gender balance and diversity.
 
-Participants accepted to attend in person will be notified before the end of July. Attendance will only be fully confirmed once accepted participants have paid the venue for their accommodation.
+We will notify the participants accepted to attend in person before the end of July. Attendance will only be fully confirmed once the accepted participants have paid the venue for their accommodation.
 
 ### Virtual attendance
 
