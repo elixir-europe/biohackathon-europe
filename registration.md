@@ -42,7 +42,7 @@ BioHackathon Europe is committed to open participation. Approved project proposa
 
 All meals at the venue, from lunch on Monday through to lunch on Friday, are covered for all in-person attendees.
 
-ELIXIR will also cover the following costs for funded project co-leads:
+ELIXIR will also cover the following costs for **funded project co-leads**:
 - **Accommodation:** Four nights at the venue (see the Venue page for details). ELIXIR will pay this directly, so funded participants do not need to arrange payment
 - **Transport to and from the venue:** Reimbursement of up to **€400 (including VAT)** on a claim basis for transport only (this includes flights, public transport and taxis). Please note that ELIXIR will not reimburse any amount over €400
 
