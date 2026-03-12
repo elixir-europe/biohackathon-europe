@@ -52,6 +52,17 @@ Funded co-leads will receive an email in early July with the deadline for submit
 
 **Important:** This funding is strictly for the BioHackathon event and cannot be transferred to another attendee or event.
 
+## Our commitment to gender balance and diversity
+
+ELIXIR is committed to fostering an inclusive environment where everyone can participate, collaborate and thrive. This commitment to equality, diversity and inclusion (EDI) is reflected in the design and organisation of the BioHackathon. 
+
+We actively promote gender-balanced and diverse representation across all roles involved in the event. This approach aligns with ELIXIR’s broader EDI efforts, including recommendations from the ELIXIR Scientific Advisory Board and Heads of Nodes, as well as the STEERS Gender Equality Plan Strategy and ELIXIR’s Leadership and Diversity Mentoring Programme (ELEAD). 
+
+Diversity and inclusion are considered from the earliest stages of the BioHackathon, beginning with the project proposal stage. We have therefore introduced the prerequisite for project proposals to demonstrate a balance of experience among the three project co-leads, with at least one BioHackathon veteran and one newcomer.
+
+As organisers, we will do our best to facilitate balanced and diverse onsite participation. To support the creation of new networks and collaboration across Nodes, we will carefully consider registration data, project interests and participant affiliations to shape balanced participation at the BioHackathon. This will foster new networks and collaboration across Nodes and communities. 
+We recognise that diverse teams drive better collaboration, more innovative thinking and stronger outcomes. Broadening participation strengthens the quality and impact of individual projects, expands the reach of the BioHackathon across communities, and contributes to building a sustainable and diverse talent pool in ELIXIR.
+
 ## Data privacy
 
 Please see our [Data Privacy document](https://drive.google.com/file/d/1Fk487FZ4I3QRuXV_HTIbiWX_XiGoDehz/view) for information on data privacy.
