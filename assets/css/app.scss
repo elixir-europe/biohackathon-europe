@@ -154,7 +154,7 @@ body {
 // New styles for the footer (the default footer include is overriden).
 .footer {
     flex-shrink: 0;
-    padding-top: 2rem;
+    padding: 2rem 0;
     li {
       display: inline-block;
       padding: 0 .5rem;
