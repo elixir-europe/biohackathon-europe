@@ -27,6 +27,8 @@ Projects will be evaluated based on:
 - Vision
 - Inclusivity strategy
 
+##### Inclusivity
+
 While not contributing to the overall scoring, the project inclusivity strategy may be taken into consideration in the event of a tie-break situation to select projects. As part of the submission, project leads are invited to briefly outline how they intend to foster inclusive participation within their team. We expect projects to demonstrate intentional outreach beyond established networks, balanced involvement across career stages, awareness of intersectional barriers, and equitable distribution of tasks, visibility and leadership opportunities. Inclusion should be embedded in team culture, communication and collaboration practices.
 
 An inclusive project team is one that:
