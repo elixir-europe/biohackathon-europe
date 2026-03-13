@@ -63,6 +63,10 @@ Diversity and inclusion are considered from the earliest stages of the BioHackat
 As organisers, we will do our best to facilitate balanced and diverse onsite participation. To support the creation of new networks and collaboration across Nodes, we will carefully consider registration data, project interests and participant affiliations to shape balanced participation at the BioHackathon. This will foster new networks and collaboration across Nodes and communities. 
 We recognise that diverse teams drive better collaboration, more innovative thinking and stronger outcomes. Broadening participation strengthens the quality and impact of individual projects, expands the reach of the BioHackathon across communities, and contributes to building a sustainable and diverse talent pool in ELIXIR.
 
+## Code of Conduct
+
+BioHackathon Europe follows the [ELIXIR Code of Conduct](https://elixir-europe.org/events/code-of-conduct) to ensure a respectful and inclusive environment for all participants. The Code of Conduct applies to both in-person and virtual interactions during the event.
+
 ## Data privacy
 
 Please see our [Data Privacy document](https://drive.google.com/file/d/1Fk487FZ4I3QRuXV_HTIbiWX_XiGoDehz/view) for information on data privacy.

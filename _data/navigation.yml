@@ -1,20 +1,23 @@
 - name: Projects
   link: /projects/
-- name: Registration
-  link: /registration/
-- name: Programme
-  link: /programme/
-- name: Venue
-  link: /venue/
+- name: Attend
+  link: 
+  dropdown:
+    - name: Registration
+      link: /attend/registration
+    - name: Programme
+      link: /attend/programme
+    - name: Venue
+      link: /attend/venue
 - name: About
   link: /about/
   dropdown:
     - name: Committees
-      link: /about/committees/
+      link: /about/committees
     - name: BioHackrXiv
-      link: /about/biohackrxiv/
+      link: /about/biohackrxiv
     - name: IP disclaimer
-      link: /about/ip-disclaimer/
+      link: /about/ip-disclaimer
     - name: Contact
-      link: /about/contact/
+      link: /about/contact
 
