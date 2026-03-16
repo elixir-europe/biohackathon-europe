@@ -6,6 +6,9 @@ layout: page
 show_sidebar: false
 hero_image: /img/heroes/hero-venue.webp
 hero_darken: true
+permalink: /attend/venue
+redirect_from:
+  - /venue
 ---
 
 ## Campus Belloch
