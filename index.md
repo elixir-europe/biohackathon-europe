@@ -9,7 +9,7 @@ show_sidebar: false
 hero_image: /img/heroes/hero-2026.webp
 hero_darken: true
 hero_link: /projects
-hero_link_text: Call for project proposals opens Monday, 16 March
+hero_link_text: Call for project proposals has opened
 ---
 
 [![ELIXIR logo](/img/elixir-logo.svg){: .is-pulled-right .ml-5 .mb-5 width="170"}](https://elixir-europe.org/)
