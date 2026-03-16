@@ -11,7 +11,7 @@ hero_darken: true
 ## Project selection criteria for BioHackathon Europe 2026
 
 **Call for projects opens:** 16 March 2026  
-**Deadline for project submission:** 15 April 2026  
+**Deadline for project submission:** 15 April 2026 at midnight (CEST) 
 
 Each project must have three co-leads, and each co-lead can support only one project. At least one of the three co-leads must attend the BioHackathon event in person. Please be aware that merging compatible projects after submission and evaluation will not be facilitated.
 
