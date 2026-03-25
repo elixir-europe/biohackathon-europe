@@ -16,7 +16,7 @@ hero_link_text: Discover how to submit a project proposal
 
 BioHackathon Europe is an annual event that brings together bioinformaticians and computational biologists from around the world. It’s organised by [ELIXIR Europe](https://elixir-europe.org/) and offers an intense week of hacking, with participants working on diverse and exciting projects. BioHackathon is a community-driven event, providing an opportunity for members of the life sciences community to meet and work together on topics of common interest. The goal is to create code that addresses challenges in bioinformatics research.
 
-The next BioHackathon will take place at Campus Belloch in Barcelona from 9 to 13 November 2026 (see the [Venue page](/attend/venue/)), with remote access available if you cannot attend in person. **Registration will open in June 2026 – the exact date will be confirmed closer to the time.**
+The next BioHackathon will take place at Campus Belloch in Barcelona from 9 to 13 November 2026 (see the [Venue page](/attend/venue/)), with remote access available if you cannot attend in person. BioHackathon Europe is primarily an in-person event, designed to foster collaboration, networking and focused work. While virtual participation is possible, projects are expected to include active on-site involvement. **Registration will open in June 2026 – the exact date will be confirmed closer to the time.**
 
 <!---
 Images below wrap in a <p> tag. To-do: include images or find another 
