@@ -1,5 +1,5 @@
 ---
-title: Attend BioHackathon Europe 2026
+title: Attend
 subtitle: "Everything you need to know about attending BioHackathon Europe 2026, including how to register, plan your visit and prepare for the event"
 description: >
   How to attend for BioHackathon Europe 2026
