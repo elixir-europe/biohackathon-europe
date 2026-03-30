@@ -1,7 +1,7 @@
 - name: Projects
   link: /projects/
 - name: Attend
-  link: /attend/
+  link: /biohackathon-europe/attend/
   dropdown:
     - name: Registration
       link: /attend/registration
