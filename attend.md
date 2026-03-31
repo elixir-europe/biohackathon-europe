@@ -29,13 +29,13 @@ See the [Registration page](/attend/registration/) for full details.
 
 BioHackathon Europe 2026 will take place at Campus Belloch, near Barcelona, Spain and accommodation is provided on-site. Participants are responsible for travel and accommodation costs (unless funded). ELIXIR covers catering and event activities.  
 
-To find out more, see the [Venue page](#) for full details.
+To find out more, see the [Venue page](/attend/venue) for full details.
 
 ## Programme
 
 The BioHackathon programme includes project presentations, intensive hacking sessions and collaborative activities throughout the week. The full programme will be published in September 2026.  
 
-For more, see the [Programme page](#).
+For more, see the [Programme page](/attend/programme/).
 
 ## Contact
 
