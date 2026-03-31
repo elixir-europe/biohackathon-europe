@@ -40,9 +40,3 @@ For more, see the [Programme page](#).
 ## Contact
 
 If you have any questions, please get in touch with the organising committee at [biohackathon-europe@elixir-europe.org](mailto:biohackathon-europe@elixir-europe.org)
-
----
-
-**Homepage text:**
-
-The next BioHackathon will take place at Campus Belloch in Barcelona from 9 to 13 November 2026 (see the [Venue page](#)). Remote participation is possible, but the event is primarily designed to be in person, and projects are expected to include active on-site involvement.
