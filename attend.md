@@ -23,7 +23,7 @@ hero_darken: true
 
 Participants are welcome to join BioHackathon Europe either in person or online. In-person attendance requires an expression of interest and selection process, but virtual participation is open to all.  
 
-See the [Registration page](#) for full details.
+See the [Registration page](/attend/registration/) for full details.
 
 ## Plan your visit
 
