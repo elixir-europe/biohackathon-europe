@@ -17,13 +17,13 @@ Explore the sections below to find out how to take part, plan your attendance an
 <h2>Key dates</h2>
 
 <ul>
-<li><strong>16 March 2026</strong> – Call for project proposals opens</li>
-<li><strong>15 April 2026 (midnight CEST)</strong> – Deadline for project proposals</li>
-<li><strong>Late April 2026</strong> – Project selection and notification</li>
-<li><strong>May 2026</strong> – Registration opens</li>
-<li><strong>26 June – 17 July 2026</strong> – Expression of interest for in-person participation</li>
-<li><strong>September 2026</strong> – Programme published</li>
-<li><strong>9–13 November 2026</strong> – BioHackathon Europe 2026</li>
+<li><strong>16 March 2026:</strong> Call for project proposals opens</li>
+<li><strong>15 April 2026 (midnight CEST):</strong> – Deadline for project proposals</li>
+<li><strong>Late April 2026:</strong> Project selection and notification</li>
+<li><strong>May 2026:</strong> Registration opens</li>
+<li><strong>26 June – 17 July 2026:</strong> Expression of interest for in-person participation</li>
+<li><strong>September 2026:</strong> Programme published</li>
+<li><strong>9–13 November 2026:</strong> BioHackathon Europe 2026</li>
 </ul>
 </div>
 
