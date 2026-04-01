@@ -9,8 +9,18 @@ hero_image: /img/heroes/hero-attending.webp
 hero_darken: true
 ---
 
+## Attend BioHackathon Europe 2026
+
+BioHackathon Europe is a unique opportunity to collaborate with an international community of bioinformaticians, developers and data experts working at the forefront of life science research.
+
+Participants contribute to focused, project-based work that advances open science, from developing tools and standards to improving interoperability and data integration. The event fosters a highly collaborative environment where ideas are rapidly turned into practical outcomes.
+
+Whether you are proposing a project or joining an existing team, BioHackathon offers a space to build, learn and connect with others tackling shared challenges in bioinformatics.
+
+Explore the sections below to find out how to take part, plan your attendance and make the most of the event.
+
 <div style="border:1px solid #ddd; border-radius:8px; padding:16px; background:#f9f9f9;">
-<h3>Key dates</h3>
+## Key dates
 
 <ul>
 <li><strong>16 March 2026</strong> – Call for project proposals opens</li>
