@@ -1,6 +1,6 @@
 ---
 title: Attend
-subtitle: "Everything you need to know about attending BioHackathon Europe 2026"
+subtitle: "Everything you need to know about joining BioHackathon Europe 2026"
 description: >
   How to attend for BioHackathon Europe 2026
 layout: page
