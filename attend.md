@@ -9,15 +9,19 @@ hero_image: /img/heroes/hero-attending.webp
 hero_darken: true
 ---
 
-## Key dates
+<div style="border:1px solid #ddd; border-radius:8px; padding:16px; background:#f9f9f9;">
+<h3>Key dates</h3>
 
-- **16 March 2026:** Call for project proposals opens  
-- **15 April 2026 (midnight CEST):** Deadline for project proposals  
-- **Late April 2026:** Project selection and notification  
-- **May 2026:** Registration opens  
-- **26 June – 17 July 2026:** Expression of interest for in-person participation  
-- **September 2026:** Programme published  
-- **9–13 November 2026:** BioHackathon Europe 2026  
+<ul>
+<li><strong>16 March 2026</strong> – Call for project proposals opens</li>
+<li><strong>15 April 2026 (midnight CEST)</strong> – Deadline for project proposals</li>
+<li><strong>Late April 2026</strong> – Project selection and notification</li>
+<li><strong>May 2026</strong> – Registration opens</li>
+<li><strong>26 June – 17 July 2026</strong> – Expression of interest for in-person participation</li>
+<li><strong>September 2026</strong> – Programme published</li>
+<li><strong>9–13 November 2026</strong> – BioHackathon Europe 2026</li>
+</ul>
+</div>
 
 ## Registration
 
