@@ -9,11 +9,7 @@ hero_image: /img/heroes/hero-attending.webp
 hero_darken: true
 ---
 
-BioHackathon Europe is a unique opportunity to collaborate with an international community of bioinformaticians, developers and data experts working at the forefront of life science research.
-
-Participants contribute to focused, project-based work that advances open science, from developing tools and standards to improving interoperability and data integration. The event fosters a highly collaborative environment where ideas are rapidly turned into practical outcomes.
-
-Whether you are proposing a project or joining an existing team, BioHackathon offers a space to build, learn and connect with others tackling shared challenges in bioinformatics.
+BioHackathon Europe is a unique opportunity to collaborate with an international community of bioinformaticians, developers and data experts working at the forefront of life science research. Participants contribute to focused, project-based work that advances open science, from developing tools and standards to improving interoperability and data integration. It's a highly collaborative environment where ideas are rapidly turned into practical outcomes. Whether you propose a project or join an existing team, BioHackathon offers a space to build, learn and connect with others tackling shared challenges in bioinformatics.
 
 Explore the sections below to find out how to take part, plan your attendance and make the most of the event.
 
