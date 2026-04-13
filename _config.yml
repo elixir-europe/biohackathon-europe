@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: BioHackathon Europe 2025
+title: BioHackathon Europe 2026
 email: biohackathon-europe@elixir-europe.org
 description: >- # this means to ignore newlines until "baseurl:"
   This year the BioHackathon will take place near Berlin, 3-7 November 2025.
