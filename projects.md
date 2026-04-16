@@ -1,6 +1,6 @@
 ---
 title: Projects
-subtitle: The call for projects is open
+subtitle: The call for projects is now closed
 description: BioHackathon Europe projects
 layout: page
 show_sidebar: false
