@@ -6,8 +6,6 @@ layout: page
 show_sidebar: false
 hero_image: /img/heroes/hero-2023-hall.webp
 hero_darken: true
-hero_link: https://app.oxfordabstracts.com/stages/81806/submitter
-hero_link_text: Submit a project proposal
 ---
 
 ## Project selection criteria for BioHackathon Europe 2026
