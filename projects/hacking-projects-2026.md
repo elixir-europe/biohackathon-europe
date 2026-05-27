@@ -18,64 +18,102 @@ The projects selected for BioHackathon Europe 2026 are listed alphabetically bel
 
 ### Project list
 
-1. [A shape-driven visual interface to integrate heterogeneous biomedical databases into knowledge graphs](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/1.md)
+<div class="columns is-multiline">
 
-2. [Advancing the ELIXIR Maturity Model for RDM providers with Node-level implementation guidance](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/2.md)
+  <div class="column is-half">
+    <div class="card">
+      <div class="card-content">
+        <p class="title is-5">
+          1. A shape-driven visual interface to integrate heterogeneous biomedical databases into knowledge graphs
+        </p>
 
-3. [Automatic workflow for benchmarking BUSCO genes for phylogenomics](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/3.md)
+        <div class="content">
+          <a href="https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/1.md">
+            View project details
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
 
-4. [Beyond beacons: Establishing genomic background in European and international biobanks](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/4.md)
+  <div class="column is-half">
+    <div class="card">
+      <div class="card-content">
+        <p class="title is-5">
+          2. Advancing the ELIXIR Maturity Model for RDM providers with Node-level implementation guidance
+        </p>
 
-5. [Bidirectional bridge: GitHub ⇄ Bio.tools](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/5.md)
+        <div class="content">
+          <a href="https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/2.md">
+            View project details
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
 
-6. [Defining the components of an ELIXIR ML ecosystem](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/6.md)
+  <div class="column is-half">
+    <div class="card">
+      <div class="card-content">
+        <p class="title is-5">
+          3. Automatic workflow for benchmarking BUSCO genes for phylogenomics
+        </p>
 
-7. [Embedding multimodal data into a vector database to make a blood atlas](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/7.md)
+        <div class="content">
+          <a href="https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/3.md">
+            View project details
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
 
-8. [Enriching metadata and broadening community inclusion in the ELIXIR Research Software Ecosystem](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/8.md)
+  <div class="column is-half">
+    <div class="card">
+      <div class="card-content">
+        <p class="title is-5">
+          4. Beyond beacons: Establishing genomic background in European and international biobanks
+        </p>
 
-9. [Evolving FAIR image analysis in Galaxy for cross-domain and AI-ready applications](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/9.md)
+        <div class="content">
+          <a href="https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/4.md">
+            View project details
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
 
-10. [Expanding the benchmarking landscape for long-read transcriptomics, including novel datasets and pipelines](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/10.md)
+  <div class="column is-half">
+    <div class="card">
+      <div class="card-content">
+        <p class="title is-5">
+          5. Bidirectional bridge: GitHub ⇄ Bio.tools
+        </p>
 
-11. [From sequence to citation](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/11.md)
+        <div class="content">
+          <a href="https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/5.md">
+            View project details
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
 
-12. [Gene recommendation system: Integrating gene features for enhanced research collaboration](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/12.md)
+  <div class="column is-half">
+    <div class="card">
+      <div class="card-content">
+        <p class="title is-5">
+          6. Defining the components of an ELIXIR ML ecosystem
+        </p>
 
-13. [Improving package annotation in metabolomics and proteomics via robust, ontology-driven LLM integration](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/13.md)
+        <div class="content">
+          <a href="https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/6.md">
+            View project details
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
 
-14. [Metabolomics and proteomics file format interoperability fest](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/14.md)
-
-15. [METRICS – Monitoring of key performance indicators for ELIXIR Services](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/15.md)
-
-16. [MiCoReCa (Microbiome Community Resource Catalogue): Towards centralised curation and integration](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/16.md)
-
-17. [Minimal information standardisation of phenomic experimental data in animals](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/17.md)
-
-18. [Mining the potential of knowledge graphs for metadata on training](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/18.md)
-
-19. [MolViewSpec: A presentation layer for structural molecular data](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/19.md)
-
-20. [New ELIXIR RIRs: Transparent and automated evaluation for a FAIRer future](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/20.md)
-
-21. [Opening the TMD: Making it more usable, visible and connected](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/21.md)
-
-22. [Scop3PTM Next: Interactive visualisation of PTM data across sequence, structure and interactions](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/22.md)
-
-23. [Streamlining FAIR metadata for biodiversity genome annotations](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/23.md)
-
-24. [Sustainable computing in Galaxy through reuse and energy-aware job scheduling](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/24.md)
-
-25. [The BioHackCloud](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/25.md)
-
-26. [Tools to develop constraint-based models in R: Adapting existing toolboxes](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/26.md)
-
-27. [Towards a more scalable, sustainable and integrated research data management ecosystem](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/27.md)
-
-28. [Towards a robust validation service for data and metadata in ARC RO-Crates](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/28.md)
-
-29. [Towards repository-scale quality control in proteomics](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/29.md)
-
-30. [Unpacking single-cell LLMs: A FAIR framework for scalable, shareable single-cell foundation models](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/30.md)
-
-31. [World DOMEination: Conquering ML metadata, one standard at a time](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/31.md)
+</div>
