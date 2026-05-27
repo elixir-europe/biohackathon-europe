@@ -16,7 +16,7 @@ Each BioHackathon project is proposed and led by a team of up to three co-leads,
 
 ### Project list
 
-The titles of the projects selected by the Programme Committee for the 2026 BioHackathon Europe are listed alphabetically below. Moving forward, links to the abstracts will be added, and co-leads are encouraged to submit pull requests to amend the project details.
+The titles of the projects selected for the 2026 BioHackathon Europe are listed alphabetically below. Links to the abstracts will be added shortly, and co-leads are encouraged to submit pull requests to amend the project details.
 
 | # | Project title |
 |:-:|:--------------|
