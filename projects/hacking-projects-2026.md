@@ -12,192 +12,192 @@ hero_darken: true
 
 The call for projects is now closed, and we are pleased to announce the selected projects for BioHackathon Europe 2026.
 
-Each BioHackathon initiative is proposed and led by a team of up to three co-leads, with in-person participation encouraged to support collaborative development during the event. This year’s projects cover topics including research data management, FAIR principles, training metadata, software interoperability, AI readiness and biodiversity data integration.
+Each BioHackathon initiative is proposed and led by a team of up to three co-leads, with in-person participation encouraged to support collaborative development during the event. This year’s projects cover topics including AI-readiness, interoperability, research data management, biodiversity, workflows, knowledge graphs, FAIR principles and software sustainability.
 
-The projects selected for BioHackathon Europe 2026 are listed alphabetically below. Links to project abstracts will be added shortly, and co-leads will be able to submit pull requests to update project information.
-
----
-
-### 1. A shape-driven visual interface to integrate heterogeneous biomedical databases into knowledge graphs
-
-[View project details](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/1.md)
+The projects selected for BioHackathon Europe 2026 are listed below. Links to project descriptions will continue to be updated, and co-leads will be able to submit pull requests to amend project information where needed.
 
 ---
 
-### 2. Advancing the ELIXIR Maturity Model for RDM providers with Node-level implementation guidance
+### 1. Bridging ELIXIR nodes for collaborative and scalable BYOC in Galaxy and TREs
 
-[View project details](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/2.md)
-
----
-
-### 3. Automatic workflow for benchmarking BUSCO genes for phylogenomics
-
-[View project details](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/3.md)
+[View project details](1.md)
 
 ---
 
-### 4. Beyond beacons: Establishing genomic background in European and international biobanks
+### 2. Enhancing AI-readiness of multi-modal data submission: a reference workflow
 
-[View project details](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/4.md)
-
----
-
-### 5. Bidirectional bridge: GitHub ⇄ Bio.tools
-
-[View project details](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/5.md)
+[View project details](2.md)
 
 ---
 
-### 6. Defining the components of an ELIXIR ML ecosystem
+### 3. Developing Open Standards for a Semantic Framework in Plant Specialized Metabolism
 
-[View project details](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/6.md)
-
----
-
-### 7. Embedding multimodal data into a vector database to make a blood atlas
-
-[View project details](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/7.md)
+[View project details](3.md)
 
 ---
 
-### 8. Enriching metadata and broadening community inclusion in the ELIXIR Research Software Ecosystem
+### 4. Establishing a Flexible Open-Source Modeling System for Population-Scale Biology
 
-[View project details](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/8.md)
-
----
-
-### 9. Evolving FAIR image analysis in Galaxy for cross-domain and AI-ready applications
-
-[View project details](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/9.md)
+[View project details](4.md)
 
 ---
 
-### 10. Expanding the benchmarking landscape for long-read transcriptomics, including novel datasets and pipelines
+### 5. A submission and visualisation interface for sharing community interoperability practices
 
-[View project details](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/10.md)
-
----
-
-### 11. From sequence to citation
-
-[View project details](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/11.md)
+[View project details](5.md)
 
 ---
 
-### 12. Gene recommendation system: Integrating gene features for enhanced research collaboration
+### 6. Implementing Credit and Recognition for Research Outputs Beyond Publications in ELIXIR
 
-[View project details](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/12.md)
-
----
-
-### 13. Improving package annotation in metabolomics and proteomics via robust, ontology-driven LLM integration
-
-[View project details](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/13.md)
+[View project details](6.md)
 
 ---
 
-### 14. Metabolomics and proteomics file format interoperability fest
+### 7. PhyloAI: Extending a Machine Learning-Based Quartet Topology Classifier for Phylogenomic-Scale Tree Reconstruction
 
-[View project details](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/14.md)
-
----
-
-### 15. METRICS – Monitoring of key performance indicators for ELIXIR Services
-
-[View project details](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/15.md)
+[View project details](7.md)
 
 ---
 
-### 16. MiCoReCa (Microbiome Community Resource Catalogue): Towards centralised curation and integration
+### 8. Advancing Research Software Quality across ELIXIR: Sustainable, Reproducible, and Interoperable Life-Science Software
 
-[View project details](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/16.md)
-
----
-
-### 17. Minimal information standardisation of phenomic experimental data in animals
-
-[View project details](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/17.md)
+[View project details](8.md)
 
 ---
 
-### 18. Mining the potential of knowledge graphs for metadata on training
+### 9. From alignment to insight: synchronized MSA and 3D structure visualization
 
-[View project details](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/18.md)
-
----
-
-### 19. MolViewSpec: A presentation layer for structural molecular data
-
-[View project details](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/19.md)
+[View project details](9.md)
 
 ---
 
-### 20. New ELIXIR RIRs: Transparent and automated evaluation for a FAIRer future
+### 10. Enabling workflows and EDAM annotations to display in community website deployments
 
-[View project details](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/20.md)
-
----
-
-### 21. Opening the TMD: Making it more usable, visible and connected
-
-[View project details](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/21.md)
+[View project details](10.md)
 
 ---
 
-### 22. Scop3PTM Next: Interactive visualisation of PTM data across sequence, structure and interactions
+### 11. VERDANT: Vocabulary Enrichment & Resolution of Diversity Annotations via Neural Technology
 
-[View project details](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/22.md)
-
----
-
-### 23. Streamlining FAIR metadata for biodiversity genome annotations
-
-[View project details](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/23.md)
+[View project details](11.md)
 
 ---
 
-### 24. Sustainable computing in Galaxy through reuse and energy-aware job scheduling
+### 12. SampleSift: spatial querying and selection of geolocation-tagged biological samples
 
-[View project details](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/24.md)
-
----
-
-### 25. The BioHackCloud
-
-[View project details](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/25.md)
+[View project details](12.md)
 
 ---
 
-### 26. Tools to develop constraint-based models in R: Adapting existing toolboxes
+### 13. ELIXIR AI Ecosystem Integration: Bridging DOME, BioAIrepo and Galaxy
 
-[View project details](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/26.md)
-
----
-
-### 27. Towards a more scalable, sustainable and integrated research data management ecosystem
-
-[View project details](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/27.md)
+[View project details](13.md)
 
 ---
 
-### 28. Towards a robust validation service for data and metadata in ARC RO-Crates
+### 14. Unlocking Animal Data for Reproducible Research with ARC RO–Crate
 
-[View project details](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/28.md)
-
----
-
-### 29. Towards repository-scale quality control in proteomics
-
-[View project details](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/29.md)
+[View project details](14.md)
 
 ---
 
-### 30. Unpacking single-cell LLMs: A FAIR framework for scalable, shareable single-cell foundation models
+### 15. From dream to reality: a knowledge graph of learning resources in practice
 
-[View project details](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/30.md)
+[View project details](15.md)
 
 ---
 
-### 31. World DOMEination: Conquering ML metadata, one standard at a time
+### 16. MiCoKnowGraph: Designing a Microbiome Collaborative Knowledge Graph linking complex, multi-domain data
 
-[View project details](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/31.md)
+[View project details](16.md)
+
+---
+
+### 17. Bridging Literature and Practice: Tool Co-citation Networks from Publications and Registered Workflows
+
+[View project details](17.md)
+
+---
+
+### 18. Condeessi: a Conda-EESSI transpiler for increased software stack portability, performance and resilience
+
+[View project details](18.md)
+
+---
+
+### 19. Towards a semantic artefact catalogue for exposome ontology cross-mapping
+
+[View project details](19.md)
+
+---
+
+### 20. Automated Software Maturity Assessment and Tool Disambiguation in bio.tools
+
+[View project details](20.md)
+
+---
+
+### 21. Supporting ELIXIR Nodes in maturing RDM services through the Data Stewardship Handbook
+
+[View project details](21.md)
+
+---
+
+### 22. Open Pathway Maps: Scalable and FAIR Visualization of Metabolic Networks
+
+[View project details](22.md)
+
+---
+
+### 23. Single-cell dataset integration across repositories and species for cell type homology analyses
+
+[View project details](23.md)
+
+---
+
+### 24. Evaluating and Securing AI-Assisted Workflows for Sensitive Data
+
+[View project details](24.md)
+
+---
+
+### 25. DBTLHUB Interoperability Contracts: Standardised Phase Transitions for Engineering Biology
+
+[View project details](25.md)
+
+---
+
+### 26. Who does what in ELIXIR? Building an agent-driven, low-maintenance “ELIXIR Atlas”
+
+[View project details](26.md)
+
+---
+
+### 27. Expanding the ELIXIR TES Network with Life-Science Services
+
+[View project details](27.md)
+
+---
+
+### 28. WeatherXBiodiversity: Exploring Harmonization of Cross-Domain Data into FAIR Digital Objects
+
+[View project details](28.md)
+
+---
+
+### 29. A gender-informed bibliometric index to amplify underrepresented voices in ELIXIR publications
+
+[View project details](29.md)
+
+---
+
+### 30. BiCoReCa (Biodiversity Community Resource Catalogue): Towards Centralized Curation and Integration
+
+[View project details](30.md)
+
+---
+
+### 31. Nextflow to Galaxy Workflow Portability and FAIRness via Modular LLM Agent Skills
+
+[View project details](31.md)
