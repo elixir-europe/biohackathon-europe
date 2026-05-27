@@ -1,3 +1,13 @@
+---
+title: Project selection criteria 
+subtitle: Learn how BioHackathon Europe 2026 projects were evaluated
+description: BioHackathon Europe 2026 project selection criteria
+layout: page
+show_sidebar: false
+hero_image: /img/heroes/hero-2023-hall.webp
+hero_darken: true
+---
+
 ## Project selection criteria for BioHackathon Europe 2026
 
 Each project must have three co-leads, and each co-lead can support only one project. At least two of the three co-leads must attend the BioHackathon event in person. Please be aware that merging compatible projects after submission and evaluation will not be facilitated.
