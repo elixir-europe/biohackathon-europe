@@ -23,3 +23,16 @@ Projects will be evaluated based on:
 - Feasibility
 - Vision
 - Inclusivity strategy
+
+##### Inclusivity
+
+While not contributing to the overall scoring, the project inclusivity strategy may be taken into consideration in the event of a tie-break situation to select projects. As part of the submission, project leads are invited to briefly outline how they intend to foster inclusive participation within their team. We expect projects to demonstrate intentional outreach beyond established networks, balanced involvement across career stages, awareness of intersectional barriers, and equitable distribution of tasks, visibility and leadership opportunities. Inclusion should be embedded in team culture, communication and collaboration practices.
+
+An inclusive project team is one that:
+- Actively broadens participation, including outreach beyond immediate networks and consideration of participants from groups traditionally underrepresented in life sciences and research infrastructures.
+- Recognises intersectionality, acknowledging that participants may experience barriers related to multiple aspects of identity (e.g., gender, race, ethnicity, disability, geography, career stage, caregiving responsibilities, language, or socioeconomic background).
+- Creates space for different experience levels, ensuring that newcomers, early-career researchers and those new to the BioHackathon have meaningful opportunities to contribute and learn.
+- Promotes equitable participation, with clear communication, transparent decision-making and attention to how tasks, visibility and leadership opportunities are distributed.
+- Considers accessibility, including clarity of documentation, openness of communication channels, time-zone awareness (where relevant), and practical considerations that enable participation.
+
+We do not expect project teams to solve structural inequalities within the scope of a single BioHackathon. However, we do expect proposals to show awareness of these issues and to outline realistic steps that support respectful, inclusive collaboration.
