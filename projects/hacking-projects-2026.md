@@ -1,5 +1,5 @@
 ---
-title: BioHackathon Europe 2026 projects
+title: BioHackathon Europe 2026 Projects
 subtitle: Explore the selected projects and project teams for BioHackathon Europe 2026
 description: BioHackathon Europe 2026 projects
 layout: page
@@ -18,188 +18,76 @@ The selected projects are listed below. Select a project title to view its full 
 
 <div class="columns is-multiline">
 
-<div class="column is-half">
-<div class="box">
+<div class="column is-half is-flex">
+<div class="box" style="height: 100%; min-height: 140px; display: flex; align-items: center;">
 1. <a href="https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/1.md">Bridging ELIXIR nodes for collaborative and scalable BYOC in Galaxy and TREs</a>
 </div>
 </div>
 
-<div class="column is-half">
-<div class="box">
+<div class="column is-half is-flex">
+<div class="box" style="height: 100%; min-height: 140px; display: flex; align-items: center;">
 2. <a href="https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/2.md">Enhancing AI-readiness of multi-modal data submission: a reference workflow</a>
 </div>
 </div>
 
-<div class="column is-half">
-<div class="box">
+<div class="column is-half is-flex">
+<div class="box" style="height: 100%; min-height: 140px; display: flex; align-items: center;">
 3. <a href="https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/3.md">Developing Open Standards for a Semantic Framework in Plant Specialized Metabolism</a>
 </div>
 </div>
 
-<div class="column is-half">
-<div class="box">
+<div class="column is-half is-flex">
+<div class="box" style="height: 100%; min-height: 140px; display: flex; align-items: center;">
 4. <a href="https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/4.md">Establishing a Flexible Open-Source Modeling System for Population-Scale Biology</a>
 </div>
 </div>
 
-<div class="column is-half">
-<div class="box">
+<div class="column is-half is-flex">
+<div class="box" style="height: 100%; min-height: 140px; display: flex; align-items: center;">
 5. <a href="https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/5.md">A submission and visualisation interface for sharing community interoperability practices</a>
 </div>
 </div>
 
-<div class="column is-half">
-<div class="box">
+<div class="column is-half is-flex">
+<div class="box" style="height: 100%; min-height: 140px; display: flex; align-items: center;">
 6. <a href="https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/6.md">Implementing Credit and Recognition for Research Outputs Beyond Publications in ELIXIR</a>
 </div>
 </div>
 
-<div class="column is-half">
-<div class="box">
+<div class="column is-half is-flex">
+<div class="box" style="height: 100%; min-height: 140px; display: flex; align-items: center;">
 7. <a href="https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/7.md">PhyloAI: Extending a Machine Learning-Based Quartet Topology Classifier for Phylogenomic-Scale Tree Reconstruction</a>
 </div>
 </div>
 
-<div class="column is-half">
-<div class="box">
+<div class="column is-half is-flex">
+<div class="box" style="height: 100%; min-height: 140px; display: flex; align-items: center;">
 8. <a href="https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/8.md">Advancing Research Software Quality across ELIXIR: Sustainable, Reproducible, and Interoperable Life-Science Software</a>
 </div>
 </div>
 
-<div class="column is-half">
-<div class="box">
+<div class="column is-half is-flex">
+<div class="box" style="height: 100%; min-height: 140px; display: flex; align-items: center;">
 9. <a href="https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/9.md">From alignment to insight: synchronized MSA and 3D structure visualisation</a>
 </div>
 </div>
 
-<div class="column is-half">
-<div class="box">
+<div class="column is-half is-flex">
+<div class="box" style="height: 100%; min-height: 140px; display: flex; align-items: center;">
 10. <a href="https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/10.md">Enabling workflows and EDAM annotations to display in community website deployments</a>
 </div>
 </div>
 
-<div class="column is-half">
-<div class="box">
+<div class="column is-half is-flex">
+<div class="box" style="height: 100%; min-height: 140px; display: flex; align-items: center;">
 11. <a href="https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/11.md">VERDANT: Vocabulary Enrichment & Resolution of Diversity Annotations via Neural Technology</a>
 </div>
 </div>
 
-<div class="column is-half">
-<div class="box">
+<div class="column is-half is-flex">
+<div class="box" style="height: 100%; min-height: 140px; display: flex; align-items: center;">
 12. <a href="https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/12.md">SampleSift: spatial querying and selection of geolocation-tagged biological samples</a>
 </div>
 </div>
 
-<div class="column is-half">
-<div class="box">
-13. <a href="https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/13.md">ELIXIR AI Ecosystem Integration: Bridging DOME, BioAIrepo and Galaxy</a>
-</div>
-</div>
-
-<div class="column is-half">
-<div class="box">
-14. <a href="https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/14.md">Unlocking Animal Data for Reproducible Research with ARC RO–Crate</a>
-</div>
-</div>
-
-<div class="column is-half">
-<div class="box">
-15. <a href="https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/15.md">From dream to reality: a knowledge graph of learning resources in practice</a>
-</div>
-</div>
-
-<div class="column is-half">
-<div class="box">
-16. <a href="https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/16.md">MiCoKnowGraph: Designing a Microbiome Collaborative Knowledge Graph linking complex, multi-domain data</a>
-</div>
-</div>
-
-<div class="column is-half">
-<div class="box">
-17. <a href="https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/17.md">Bridging Literature and Practice: Tool Co-citation Networks from Publications and Registered Workflows</a>
-</div>
-</div>
-
-<div class="column is-half">
-<div class="box">
-18. <a href="https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/18.md">Condeessi: a Conda-EESSI transpiler for increased software stack portability, performance and resilience</a>
-</div>
-</div>
-
-<div class="column is-half">
-<div class="box">
-19. <a href="https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/19.md">Towards a semantic artefact catalogue for exposome ontology cross-mapping</a>
-</div>
-</div>
-
-<div class="column is-half">
-<div class="box">
-20. <a href="https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/20.md">Automated Software Maturity Assessment and Tool Disambiguation in bio.tools</a>
-</div>
-</div>
-
-<div class="column is-half">
-<div class="box">
-21. <a href="https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/21.md">Supporting ELIXIR Nodes in maturing RDM services through the Data Stewardship Handbook</a>
-</div>
-</div>
-
-<div class="column is-half">
-<div class="box">
-22. <a href="https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/22.md">Open Pathway Maps: Scalable and FAIR Visualisation of Metabolic Networks</a>
-</div>
-</div>
-
-<div class="column is-half">
-<div class="box">
-23. <a href="https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/23.md">Single-cell dataset integration across repositories and species for cell type homology analyses</a>
-</div>
-</div>
-
-<div class="column is-half">
-<div class="box">
-24. <a href="https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/24.md">Evaluating and Securing AI-Assisted Workflows for Sensitive Data</a>
-</div>
-</div>
-
-<div class="column is-half">
-<div class="box">
-25. <a href="https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/25.md">DBTLHUB Interoperability Contracts: Standardised Phase Transitions for Engineering Biology</a>
-</div>
-</div>
-
-<div class="column is-half">
-<div class="box">
-26. <a href="https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/26.md">Who does what in ELIXIR? Building an agent-driven, low-maintenance "ELIXIR Atlas."</a>
-</div>
-</div>
-
-<div class="column is-half">
-<div class="box">
-27. <a href="https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/27.md">Expanding the ELIXIR TES Network with Life-Science Services</a>
-</div>
-</div>
-
-<div class="column is-half">
-<div class="box">
-28. <a href="https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/28.md">WeatherXBiodiversity: Exploring Harmonisation of Cross-Domain Data into FAIR Digital Objects</a>
-</div>
-</div>
-
-<div class="column is-half">
-<div class="box">
-29. <a href="https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/29.md">A gender-informed bibliometric index to amplify underrepresented voices in ELIXIR publications</a>
-</div>
-</div>
-
-<div class="column is-half">
-<div class="box">
-30. <a href="https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/30.md">BiCoReCa (Biodiversity Community Resource Catalogue): Towards Centralised Curation and Integration</a>
-</div>
-</div>
-
-<div class="column is-half">
-<div class="box">
-31. <a href="https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/31.md">Nextflow to Galaxy Workflow Portability and FAIRness via Modular LLM Agent Skills</a>
-</div>
 </div>
