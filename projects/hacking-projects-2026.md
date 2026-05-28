@@ -1,5 +1,5 @@
 ---
-title: BioHackathon Europe 2026 Projects
+title: BioHackathon Europe 2026 projects
 subtitle: Explore the selected projects and project teams for BioHackathon Europe 2026
 description: BioHackathon Europe 2026 projects
 layout: page
