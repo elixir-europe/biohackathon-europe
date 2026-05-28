@@ -1,6 +1,6 @@
 ---
 title: Previous BioHackathons
-subtitle: Explore past BioHackathon Europe projects and outcomes
+subtitle: BioHackathon Europe projects and outcomes
 description: Previous BioHackathon Europe projects, reports and resources
 layout: page
 show_sidebar: false
@@ -10,7 +10,7 @@ hero_darken: true
 
 ## Previous BioHackathons
 
-Explore previous BioHackathon Europe events to learn more about the projects, collaborations and outcomes developed by participants. Each BioHackathon includes project repositories, reports, news stories and additional resources documenting the work carried out during the event.
+Find out more about previous BioHackathon Europe events to learn more about the projects, collaborations and outcomes developed by participants. Each BioHackathon includes project repositories, reports, news stories and additional resources documenting the work carried out during the event.
 
 * **BH2025:** [Projects repo](https://github.com/elixir-europe/biohackathon-projects-2025) – [News story](https://elixir-europe.org/news/BH2025) – [Photos](https://www.flickr.com/photos/elixir-europe/albums/72177720330241026/)
 * **BH2024:** [2024 Report](https://zenodo.org/records/17377311) – [Projects repo](https://github.com/elixir-europe/biohackathon-projects-2024) – [News story](https://elixir-europe.org/news/biohack2024) – [Photos](https://www.flickr.com/photos/elixir-europe/albums/72177720321912863/)
