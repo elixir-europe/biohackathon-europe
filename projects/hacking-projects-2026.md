@@ -20,7 +20,7 @@ The selected projects are listed below. Select a project title to view its full 
 
 <div class="column is-half">
 <div class="box">
-1. <a href="1.md">Bridging ELIXIR nodes for collaborative and scalable BYOC in Galaxy and TREs</a>
+1. <a href="<a href="https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/1.md">">Bridging ELIXIR nodes for collaborative and scalable BYOC in Galaxy and TREs</a>
 </div>
 </div>
 
