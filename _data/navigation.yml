@@ -1,5 +1,5 @@
 - name: Projects
-    dropdown:
+  dropdown:
     - name: Project selection
       link: /projects/project-selection
     - name: 2026 Projects 
