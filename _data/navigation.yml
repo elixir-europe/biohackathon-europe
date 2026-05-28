@@ -3,9 +3,9 @@
     - name: Project selection
       link: /projects/project-selection
     - name: 2026 Projects 
-      link: /projects/2026/
+      link: /projects/2026
     - name: Previous BioHackathons
-      link: /projects/previous–biohackathons
+      link: /projects/previous-biohackathons
 - name: Attend
   dropdown:
     - name: Registration
