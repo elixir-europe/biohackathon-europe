@@ -1,3 +1,5 @@
+<img src="./assets/logos/bheu-logo.png" width="67px">
+
 This repo contains the code for the [BioHackathon Europe website](https://biohackathon-europe.org).
 
 ## BioHackathon Europe
