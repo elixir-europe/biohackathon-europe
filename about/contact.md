@@ -4,7 +4,7 @@ subtitle:
 description: Get in touch with the people behind BioHackathon Europe
 layout: page
 show_sidebar: false
-hero_image: /img/heroes/hero-online-people.webp
+hero_image: /assets/img/heroes/hero-online-people.webp
 hero_darken: true
 ---
 

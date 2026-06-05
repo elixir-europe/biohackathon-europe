@@ -4,7 +4,7 @@ subtitle:
 description: The privacy statement of the BioHackathon Europe website.
 layout: page
 show_sidebar: false
-hero_image: /img/heroes/hero-discussion.webp
+hero_image: /assets/img/heroes/hero-discussion.webp
 hero_darken: true
 ---
 

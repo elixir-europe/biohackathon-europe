@@ -4,7 +4,7 @@ subtitle: BioHackathon Europe projects and outcomes
 description: Previous BioHackathon Europe projects, reports and resources
 layout: page
 show_sidebar: false
-hero_image: /img/heroes/hero-2023-hall.webp
+hero_image: /assets/img/heroes/hero-2023-hall.webp
 hero_darken: true
 ---
 

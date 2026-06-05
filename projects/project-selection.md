@@ -4,7 +4,7 @@ subtitle: Learn how BioHackathon Europe 2026 projects were evaluated
 description: BioHackathon Europe 2026 project selection criteria
 layout: page
 show_sidebar: false
-hero_image: /img/heroes/hero-2023-hall.webp
+hero_image: /assets/img/heroes/hero-2023-hall.webp
 hero_darken: true
 ---
 

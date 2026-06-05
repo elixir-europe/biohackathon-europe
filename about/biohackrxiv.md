@@ -4,11 +4,11 @@ subtitle:
 description: How participants of BioHackathon Europe can publish the hackathon outputs at BioHackrXiv.
 layout: page
 show_sidebar: false
-hero_image: /img/heroes/hero-2021-crowd.webp
+hero_image: /assets/img/heroes/hero-2021-crowd.webp
 hero_darken: true
 ---
 
-[![BioHackrXiv logo](/img/biohackrxiv-logo.png){: .is-pulled-right .ml-5 .mb-5}](http://biohackrxiv.org/)
+[![BioHackrXiv logo](/assets/logos/biohackrxiv-logo.png){: .is-pulled-right .ml-5 .mb-5}](http://biohackrxiv.org/)
 
 [BioHackrXiv](http://biohackrxiv.org/) is a preprint server powered by [OSF](https://osf.io/preprints/) and sponsored by the [Database Center for Life Science (DBCLS)](https://dbcls.rois.ac.jp/index-en.html) in Japan. It was created with the aim of reporting on the work done during BioHackathons, CodeFests, Sprints or similar events related to the Life Sciences and Health Care. It currently supports selected events such as the NBDC/DBCLS BioHackathon, BioHackathon Europe and SWAT4(HC)LS hackathon.
 

@@ -5,7 +5,7 @@ description: >
   When and how to register for BioHackathon Europe 2026
 layout: page
 show_sidebar: false
-hero_image: /img/heroes/hero-flipchart-hall.webp
+hero_image: /assets/img/heroes/hero-flipchart-hall.webp
 hero_darken: true
 ---
 

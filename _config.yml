@@ -28,7 +28,7 @@ twitter_username: https://twitter.com/hashtag/BioHackEU24
 github_username:  https://github.com/elixir-europe/biohackathon-europe
 
 permalink: pretty
-favicon: /img/favicon/favicon-32x32.png
+favicon: /assets/logos/favicon-32x32.png
 hide_share_buttons: true
 theme_color: '#405839'
 fixed_navbar: top

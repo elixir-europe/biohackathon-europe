@@ -4,5 +4,3 @@ _site
 .jekyll-metadata
 vendor
 .DS_Store
-img/.DS_Store
-img/heroes/.DS_Store

@@ -4,7 +4,7 @@ subtitle: Campus Belloch, Barcelona
 description: The 2026 BioHackathon Europe will be held at Campus Belloch, near Barcelona.
 layout: page
 show_sidebar: false
-hero_image: /img/heroes/hero-venue.webp
+hero_image: /assets/img/heroes/hero-venue.webp
 hero_darken: true
 permalink: /attend/venue
 redirect_from:
@@ -19,9 +19,9 @@ Surrounded by forests and forest nurseries, and framed by mountains and sea, env
 
 We look forward to welcoming participants to Campus Belloch for a week of productive work, networking and informal social activities.
 
-![A lounge in Campus Belloch](/img/venue-lounge.webp){: .column .is-one-third}
-![A meeting room at Campus Belloch](/img/venue-meeting-room.webp){: .column .is-one-third}
-![Dishes of food at Campus Belloch](/img/venue-dinner.webp){: .column .is-one-third}
+![A lounge in Campus Belloch](/assets/img/venue-lounge.webp){: .column .is-one-third}
+![A meeting room at Campus Belloch](/assets/img/venue-meeting-room.webp){: .column .is-one-third}
+![Dishes of food at Campus Belloch](/assets/img/venue-dinner.webp){: .column .is-one-third}
 {: .columns .mt-4}
 
 ## Amenities and activities

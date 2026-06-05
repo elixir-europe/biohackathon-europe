@@ -6,11 +6,11 @@ description: >
   Find out about the 2026 BioHackathon Europe, where hackers get together to make life science research easier.
 layout: page
 show_sidebar: false
-hero_image: /img/heroes/hero-2026.webp
+hero_image: /assets/img/heroes/hero-2026.webp
 hero_darken: true
 ---
 
-[![ELIXIR logo](/img/elixir-logo.svg){: .is-pulled-right .ml-5 .mb-5 width="170"}](https://elixir-europe.org/)
+[![ELIXIR logo](/assets/logos/elixir-logo.svg){: .is-pulled-right .ml-5 .mb-5 width="170"}](https://elixir-europe.org/)
 
 BioHackathon Europe is an annual event that brings together bioinformaticians and computational biologists from around the world. It’s organised by [ELIXIR Europe](https://elixir-europe.org/) and offers an intense week of hacking, with participants working on diverse and exciting projects. BioHackathon is a community-driven event, providing an opportunity for members of the life sciences community to meet and work together on topics of common interest. The goal is to create code that addresses challenges in bioinformatics research.
 
@@ -23,9 +23,9 @@ The 'markdown="1"' attribute on a <div> doesn't seem to work here.
 Maybe just include them (but less intuitive to edit that way).
 -->
 
-![A group discussing the Bioschemas project](/img/square-tile-meeting-herve.webp){: .column .is-one-third .my-4}
-![Three people discussing at a table](/img/square-tile-chat-toshiaki.webp){: .column .is-one-third .my-4}
-![A group playing table football](/img/square-tile-table-football.webp){: .column .is-one-third .my-4}
+![A group discussing the Bioschemas project](/assets/img/square-tile-meeting-herve.webp){: .column .is-one-third .my-4}
+![Three people discussing at a table](/assets/img/square-tile-chat-toshiaki.webp){: .column .is-one-third .my-4}
+![A group playing table football](/assets/img/square-tile-table-football.webp){: .column .is-one-third .my-4}
 {: .columns .stripe .my-6}
 
 ## Scope
@@ -34,9 +34,9 @@ The BioHackathon provides space for collaboration and innovation in computationa
 ## Goals
 The key objective of BioHackathon Europe is to advance the development of an open-source service infrastructure to accelerate scientific innovation. We focus on areas that support the work of ELIXIR Platforms, Communities and Focus Groups, including FAIR principles, identifiers, metadata standards, ontologies and metadata catalogues. This is achieved by engaging technical experts from across the bioinformatics community, both within and beyond ELIXIR, to collaborate on topics of shared interest aligned with ELIXIR activities.
   
-![Three people chatting in front of a laptop](/img/square-tile-table-chat.webp){: .column .is-one-third .my-4}
-![Tables of hackers in the main hall](/img/square-tile-barcelona-hall.webp){: .column .is-one-third .my-4}
-![Six hackers discussing their project](/img/square-tile-table-working.webp){: .column .is-one-third .my-4}
+![Three people chatting in front of a laptop](/assets/img/square-tile-table-chat.webp){: .column .is-one-third .my-4}
+![Tables of hackers in the main hall](/assets/img/square-tile-barcelona-hall.webp){: .column .is-one-third .my-4}
+![Six hackers discussing their project](/assets/img/square-tile-table-working.webp){: .column .is-one-third .my-4}
 {: .columns .stripe .my-6}
 
 ## Benefits
@@ -54,7 +54,7 @@ The key objective of BioHackathon Europe is to advance the development of an ope
 ## Industry engagement
 BioHackathon Europe welcomes participants from industry and encourages collaboration between academia and commercial partners. Companies interested in contributing to projects or proposing challenges can get in touch via ELIXIR’s Industry and Innovation office. For more information, contact the ELIXIR Outreach Officer, Flora Foltanyi (<flora.foltanyi@elixir-europe.org>).
 
-  **View the [industry flyer](/pdf/BioHackEU26flyer.pdf).**
+  **View the [industry flyer](/assets/pdf/BioHackEU26flyer.pdf).**
 
 
 >'It was an amazing experience... Two teams embraced our challenge to demonstrate the validity of edge computing. We reached our goal of connecting with the bioinformatics community and creating awareness for a new technology. No doubt we will participate in the future.'
