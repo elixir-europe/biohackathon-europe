@@ -5,8 +5,8 @@ This repo contains the code for the [BioHackathon Europe website](https://biohac
 ## BioHackathon Europe
 BioHackathon Europe brings people together from around the world to work on coding projects within life science. The event offers an intense week of hacking, with over 160 participants who work on diverse and exciting projects. The week starts with a half-day symposium to introduce these projects, and is followed by five days of hacking with one sole aim: coding to address problems in bioinformatics. 
 
-## The 2025 BioHackathon
-This year's event will take place 3 - 7 November at Hotel Esplanade near Berlin. 
+## The 2026 BioHackathon
+This year's event will take place 9 - 13 November at Campus Belloch near Barcelona. 
 
 ## Previous BioHackathons
 For details of the past BioHackathons and their projects see the [ELIXIR Europe website](https://elixir-europe.org/events/biohackathon-europe).
