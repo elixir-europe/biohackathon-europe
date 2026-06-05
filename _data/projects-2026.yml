@@ -1,0 +1,93 @@
+- number: 1
+  title: "Bridging ELIXIR nodes for collaborative and scalable BYOC in Galaxy and TREs"
+  url: "https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/1.md"
+- number: 2
+  title: "Enhancing AI-readiness of multi-modal data submission: a reference workflow"
+  url: "https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/2.md"
+- number: 3
+  title: "Developing Open Standards for a Semantic Framework in Plant Specialized Metabolism"
+  url: "https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/3.md"
+- number: 4
+  title: "Establishing a Flexible Open-Source Modeling System for Population-Scale Biology"
+  url: "https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/4.md"
+- number: 5
+  title: "A submission and visualisation interface for sharing community interoperability practices"
+  url: "https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/5.md"
+- number: 6
+  title: "Implementing Credit and Recognition for Research Outputs Beyond Publications in ELIXIR"
+  url: "https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/6.md"
+- number: 7
+  title: "PhyloAI: Extending a Machine Learning-Based Quartet Topology Classifier for Phylogenomic-Scale Tree Reconstruction"
+  url: "https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/7.md"
+- number: 8
+  title: "Advancing Research Software Quality across ELIXIR: Sustainable, Reproducible, and Interoperable Life-Science Software"
+  url: "https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/8.md"
+- number: 9
+  title: "From alignment to insight: synchronized MSA and 3D structure visualisation"
+  url: "https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/9.md"
+- number: 10
+  title: "Enabling workflows and EDAM annotations to display in community website deployments"
+  url: "https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/10.md"
+- number: 11
+  title: "VERDANT: Vocabulary Enrichment & Resolution of Diversity Annotations via Neural Technology"
+  url: "https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/11.md"
+- number: 12
+  title: "SampleSift: spatial querying and selection of geolocation-tagged biological samples"
+  url: "https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/12.md"
+- number: 13
+  title: "ELIXIR AI Ecosystem Integration: Bridging DOME, BioAIrepo and Galaxy"
+  url: "https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/13.md"
+- number: 14
+  title: "Unlocking Animal Data for Reproducible Research with ARC RO–Crate"
+  url: "https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/14.md"
+- number: 15
+  title: "From dream to reality: a knowledge graph of learning resources in practice"
+  url: "https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/15.md"
+- number: 16
+  title: "MiCoKnowGraph: Designing a Microbiome Collaborative Knowledge Graph linking complex, multi-domain data"
+  url: "https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/16.md"
+- number: 17
+  title: "Bridging Literature and Practice: Tool Co-citation Networks from Publications and Registered Workflows"
+  url: "https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/17.md"
+- number: 18
+  title: "Condeessi: a Conda-EESSI transpiler for increased software stack portability, performance and resilience"
+  url: "https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/18.md"
+- number: 19
+  title: "Towards a semantic artefact catalogue for exposome ontology cross-mapping"
+  url: "https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/19.md"
+- number: 20
+  title: "Automated Software Maturity Assessment and Tool Disambiguation in bio.tools"
+  url: "https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/20.md"
+- number: 21
+  title: "Supporting ELIXIR Nodes in maturing RDM services through the Data Stewardship Handbook"
+  url: "https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/21.md"
+- number: 22
+  title: "Open Pathway Maps: Scalable and FAIR Visualisation of Metabolic Networks"
+  url: "https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/22.md"
+- number: 23
+  title: "Single-cell dataset integration across repositories and species for cell type homology analyses"
+  url: "https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/23.md"
+- number: 24
+  title: "Evaluating and Securing AI-Assisted Workflows for Sensitive Data"
+  url: "https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/24.md"
+- number: 25
+  title: "DBTLHUB Interoperability Contracts: Standardised Phase Transitions for Engineering Biology"
+  url: "https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/25.md"
+- number: 26
+  title: "Who does what in ELIXIR? Building an agent-driven, low-maintenance \"ELIXIR Atlas.\""
+  url: "https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/26.md"
+- number: 27
+  title: "Expanding the ELIXIR TES Network with Life-Science Services"
+  url: "https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/27.md"
+- number: 28
+  title: "WeatherXBiodiversity: Exploring Harmonisation of Cross-Domain Data into FAIR Digital Objects"
+  url: "https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/28.md"
+- number: 29
+  title: "A gender-informed bibliometric index to amplify underrepresented voices in ELIXIR publications"
+  url: "https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/29.md"
+- number: 30
+  title: "BiCoReCa (Biodiversity Community Resource Catalogue): Towards Centralised Curation and Integration"
+  url: "https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/30.md"
+- number: 31
+  title: "Nextflow to Galaxy Workflow Portability and FAIRness via Modular LLM Agent Skills"
+  url: "https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/31.md"
