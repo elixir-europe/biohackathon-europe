@@ -2,7 +2,7 @@
 title: Attend
 subtitle: "Everything you need to know about joining BioHackathon Europe"
 description: >
-  How to attend for BioHackathon Europe 2026
+  How to attend BioHackathon Europe 2026
 layout: page
 show_sidebar: false
 hero_image: /assets/img/heroes/hero-attending.webp
