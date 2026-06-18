@@ -16,6 +16,19 @@ BioHackathon Europe is an annual event that brings together bioinformaticians an
 
 The next BioHackathon will take place at Campus Belloch in Barcelona from 9 to 13 November 2026 (see the [Venue page](/attend/venue/)). Remote participation is possible, but the event is primarily designed to be in person, and projects are required to include active on-site involvement. 
 
+<div style="border:1px solid #ddd; border-radius:8px; padding:16px; background:#f9f9f9;">
+<h2>Key dates</h2>
+
+<ul>
+<li><strong>16 March 2026:</strong> Call for project proposals opens</li>
+<li><strong>15 April 2026 (midnight CEST):</strong> Deadline for project proposals</li>
+<li><strong>Late May 2026:</strong> Project selection and notification</li>
+<li><strong>28 June – 20 July 2026:</strong> Expression of interest for in-person participation</li>
+<li><strong>September 2026:</strong> Programme published</li>
+<li><strong>9–13 November 2026:</strong> BioHackathon Europe 2026</li>
+</ul>
+</div>
+
 <!---
 Images below wrap in a <p> tag. To-do: include images or find another 
 workaround to avoid this, whilst still keeping the file easy to edit.
