@@ -7,14 +7,16 @@ layout: page
 show_sidebar: false
 hero_image: /assets/img/heroes/hero-flipchart-hall.webp
 hero_darken: true
-hero_links:
-  - title: Express interest in attending in person
-    url: https://elixir-events.eventscase.com/attendance/event/index/45837/EN
-    style: primary
-  - title: Register for virtual attendance
-    url: https://elixir-events.eventscase.com/attendance/event/index/45836/EN
-    style: secondary
 ---
+
+<div class="buttons">
+  <a class="button is-primary" href="https://elixir-events.eventscase.com/attendance/event/index/45837/EN">
+    Express interest in attending in person
+  </a>
+  <a class="button is-light" href="https://elixir-events.eventscase.com/attendance/event/index/45836/EN">
+    Register for virtual attendance
+  </a>
+</div>
 
 ## Participant expression of interest for in-person attendance
 
@@ -41,6 +43,7 @@ Participants wishing to attend virtually may register at any time. At present, w
 ## Funding
 
 BioHackathon Europe is committed to open participation. Approved project proposal co-leads may designate up to three participants for on-site attendance, regardless of affiliation. This allocation will be determined during project proposal submission. Since these reserved seats reduce availability for open registration, the following guidelines apply:
+
 - A maximum of three on-site participants per project can be reserved
 - ELIXIR may fund up to two of these participants, provided they belong to an ELIXIR Node
 - ELIXIR will not provide any additional funding beyond this
@@ -50,6 +53,7 @@ BioHackathon Europe is committed to open participation. Approved project proposa
 All meals at the venue, from lunch on Monday through to lunch on Friday, are covered for all in-person attendees.
 
 ELIXIR will also cover the following costs for **funded project co-leads**:
+
 - **Accommodation:** Four nights at the venue (see the [Venue page](/attend/venue/) for details). ELIXIR will pay this directly, so funded participants do not need to arrange payment
 - **Transport to and from the venue:** Reimbursement of up to **€400 (including VAT)** on a claim basis for transport only (this includes flights, public transport and taxis). Please note that ELIXIR will not reimburse any amount over €400
 
@@ -61,13 +65,14 @@ Funded co-leads will receive an email in early July with the deadline for submit
 
 ## Our commitment to gender balance and diversity
 
-ELIXIR is committed to fostering an inclusive environment where everyone can participate, collaborate and thrive. This commitment to equality, diversity and inclusion (EDI) is reflected in the design and organisation of the BioHackathon. 
+ELIXIR is committed to fostering an inclusive environment where everyone can participate, collaborate and thrive. This commitment to equality, diversity and inclusion (EDI) is reflected in the design and organisation of the BioHackathon.
 
-We actively promote gender-balanced and diverse representation across all roles involved in the event. This approach aligns with ELIXIR’s broader EDI efforts, including recommendations from the ELIXIR Scientific Advisory Board and Heads of Nodes, as well as the STEERS Gender Equality Plan Strategy and ELIXIR’s Leadership and Diversity Mentoring Programme (ELEAD). 
+We actively promote gender-balanced and diverse representation across all roles involved in the event. This approach aligns with ELIXIR’s broader EDI efforts, including recommendations from the ELIXIR Scientific Advisory Board and Heads of Nodes, as well as the STEERS Gender Equality Plan Strategy and ELIXIR’s Leadership and Diversity Mentoring Programme (ELEAD).
 
 Diversity and inclusion are considered from the earliest stages of the BioHackathon, beginning with the project proposal stage. We have therefore introduced the prerequisite for project proposals to demonstrate a balance of experience among the three project co-leads, with at least one BioHackathon veteran and one newcomer.
 
-As organisers, we will do our best to facilitate balanced and diverse onsite participation. To support the creation of new networks and collaboration across Nodes, we will carefully consider registration data, project interests and participant affiliations to shape balanced participation at the BioHackathon. This will foster new networks and collaboration across Nodes and communities. 
+As organisers, we will do our best to facilitate balanced and diverse onsite participation. To support the creation of new networks and collaboration across Nodes, we will carefully consider registration data, project interests and participant affiliations to shape balanced participation at the BioHackathon.
+
 We recognise that diverse teams drive better collaboration, more innovative thinking and stronger outcomes. Broadening participation strengthens the quality and impact of individual projects, expands the reach of the BioHackathon across communities, and contributes to building a sustainable and diverse talent pool in ELIXIR.
 
 ## Code of Conduct
