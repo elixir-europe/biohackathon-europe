@@ -16,10 +16,10 @@ Participants are welcome to join BioHackathon Europe, either on-site or online, 
 The expression of interest period for BioHackathon Europe 2026 has now opened. Please note that all in-person participants are required to stay for the whole duration of the BioHackathon, at the event venue.
 
 <div class="buttons">
-  <a class="button is-primary" href="https://elixir-events.eventscase.com/attendance/event/index/45837/EN">
+  <a class="button is-size-5" href="https://elixir-events.eventscase.com/attendance/event/index/45837/EN">
     Express interest in attending in person
   </a>
-  <a class="button is-light" href="https://elixir-events.eventscase.com/attendance/event/index/45836/EN">
+  <a class="button is-primary is-size-5" href="https://elixir-events.eventscase.com/attendance/event/index/45836/EN">
     Register for virtual attendance
   </a>
 </div>
