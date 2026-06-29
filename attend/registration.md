@@ -9,6 +9,12 @@ hero_image: /assets/img/heroes/hero-flipchart-hall.webp
 hero_darken: true
 ---
 
+## Participant expression of interest for in-person attendance
+
+Participants are welcome to join BioHackathon Europe, either on-site or online, regardless of project submission. Attendance is free, but in-person participants must cover their own travel and accommodation costs. For pricing details, visit the [Venue page](/attend/venue/).
+
+The expression of interest period for BioHackathon Europe 2026 has now opened. Please note that all in-person participants are required to stay for the whole duration of the BioHackathon, at the event venue.
+
 <div class="buttons">
   <a class="button is-primary" href="https://elixir-events.eventscase.com/attendance/event/index/45837/EN">
     Express interest in attending in person
@@ -17,12 +23,6 @@ hero_darken: true
     Register for virtual attendance
   </a>
 </div>
-
-## Participant expression of interest for in-person attendance
-
-Participants are welcome to join BioHackathon Europe, either on-site or online, regardless of project submission. Attendance is free, but in-person participants must cover their own travel and accommodation costs. For pricing details, visit the [Venue page](/attend/venue/).
-
-The expression of interest period for BioHackathon Europe 2026 will open at the end of June. Please note that all in-person participants are required to stay for the whole duration of the BioHackathon, at the event venue.
 
 ## Who can register?
 
