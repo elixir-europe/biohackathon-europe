@@ -17,7 +17,7 @@ The expression of interest period for BioHackathon Europe 2026 has now opened. P
 
 <div class="buttons">
   <a class="button is-size-5" href="https://elixir-events.eventscase.com/attendance/event/index/45837/EN">
-    Express interest to attend in person
+    Express interest in attending in person
   </a>
   <a class="button is-primary is-size-5" href="https://elixir-events.eventscase.com/attendance/event/index/45836/EN">
     Register for virtual attendance
