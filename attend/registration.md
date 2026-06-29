@@ -7,6 +7,13 @@ layout: page
 show_sidebar: false
 hero_image: /assets/img/heroes/hero-flipchart-hall.webp
 hero_darken: true
+hero_links:
+  - title: Express interest in attending in person
+    url: https://elixir-events.eventscase.com/attendance/event/index/45837/EN
+    style: primary
+  - title: Register for virtual attendance
+    url: https://elixir-events.eventscase.com/attendance/event/index/45836/EN
+    style: secondary
 ---
 
 ## Participant expression of interest for in-person attendance
