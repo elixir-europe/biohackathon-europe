@@ -11,7 +11,7 @@ hero_darken: true
 
 ## Participant expression of interest for in-person attendance
 
-Participants are welcome to join BioHackathon Europe, either on-site or online, regardless of project submission. Attendance is free, but in-person participants must cover their own travel and accommodation costs. For pricing details, visit the [Venue page](/attend/venue/).
+Participants are welcome to join BioHackathon Europe, either on-site or online, regardless of project submission. Attendance is free, but in-person participants must cover their own travel and accommodation costs. For pricing details, visit the [Venue page](https://biohackathon-europe.org/attend/venue).
 
 The expression of interest period for BioHackathon Europe 2026 has now opened. Please note that all in-person participants are required to stay for the whole duration of the BioHackathon, at the event venue.
 
@@ -54,7 +54,7 @@ All meals at the venue, from lunch on Monday through to lunch on Friday, are cov
 
 ELIXIR will also cover the following costs for **funded project co-leads**:
 
-- **Accommodation:** Four nights at the venue (see the [Venue page](/attend/venue/) for details). ELIXIR will pay this directly, so funded participants do not need to arrange payment
+- **Accommodation:** Four nights at the venue (see the [Venue page](https://biohackathon-europe.org/attend/venue) for details). ELIXIR will pay this directly, so funded participants do not need to arrange payment
 - **Transport to and from the venue:** Reimbursement of up to **€400 (including VAT)** on a claim basis for transport only (this includes flights, public transport and taxis). Please note that ELIXIR will not reimburse any amount over €400
 
 Please note that no food or drink expenses will be reimbursed by ELIXIR. This includes any food or drink purchased while travelling to and from the venue, and during the event.
