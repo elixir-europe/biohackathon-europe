@@ -62,7 +62,7 @@ The key objective of BioHackathon Europe is to advance the development of an ope
 ![Six hackers discussing their project](/assets/img/square-tile-table-working.webp){: .column .is-one-third .my-4}
 {: .columns .stripe .my-6}
 
-## Benefits
+# Benefits
 ### New developments
   * Advancing new ideas and prototypes into fully functional tools and resources
   * Enhancing existing bioinformatics resources and testing new features
@@ -79,8 +79,19 @@ BioHackathon Europe welcomes participants from industry and encourages collabora
 
   **View the [industry flyer](/assets/pdf/BioHackEU26flyer.pdf).**
 
+## What participants say
 
->'It was an amazing experience... Two teams embraced our challenge to demonstrate the validity of edge computing. We reached our goal of connecting with the bioinformatics community and creating awareness for a new technology. No doubt we will participate in the future.'
+> "The BioHackathon was one of the best work events I have attended, with a great balance of actively learning from others, contributing your own expertise and networking within an incredibly welcoming and collaborative community."
 >
->_Natalia Jimenez (Atos)_
+> _BioHackathon Europe participant_
+{: .mb-5}
+
+> "Attending the BioHackathon gave me the chance to work on my ambitious, high-risk project with the help of experts in the field. As an early-career researcher, the opportunity to lead a group has given me valuable experience and a career boost."
+>
+> _Early-career researcher_
+{: .mb-5}
+
+> "It was an amazing experience... Two teams embraced our challenge to demonstrate the validity of edge computing. We reached our goal of connecting with the bioinformatics community and creating awareness for a new technology. No doubt we will participate in the future."
+>
+> _Natalia Jimenez, Atos_
 {: .mb-6}
