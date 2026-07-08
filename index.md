@@ -81,17 +81,17 @@ BioHackathon Europe welcomes participants from industry and encourages collabora
 
 ## What participants say
 
-> "The BioHackathon was one of the best work events I have attended, with a great balance of actively learning from others, contributing your own expertise and networking within an incredibly welcoming and collaborative community."
+> 'The BioHackathon was one of the best work events I have attended, with a great balance of actively learning from others, contributing your own expertise and networking within an incredibly welcoming and collaborative community.'
 >
 > _BioHackathon Europe participant_
 {: .mb-5}
 
-> "Attending the BioHackathon gave me the chance to work on my ambitious, high-risk project with the help of experts in the field. As an early-career researcher, the opportunity to lead a group has given me valuable experience and a career boost."
+> 'Attending the BioHackathon gave me the chance to work on my ambitious, high-risk project with the help of experts in the field. As an early-career researcher, the opportunity to lead a group has given me valuable experience and a career boost.'
 >
 > _Early-career researcher_
 {: .mb-5}
 
-> "It was an amazing experience... Two teams embraced our challenge to demonstrate the validity of edge computing. We reached our goal of connecting with the bioinformatics community and creating awareness for a new technology. No doubt we will participate in the future."
+> 'It was an amazing experience... Two teams embraced our challenge to demonstrate the validity of edge computing. We reached our goal of connecting with the bioinformatics community and creating awareness for a new technology. No doubt we will participate in the future.'
 >
 > _Natalia Jimenez, Atos_
 {: .mb-6}
