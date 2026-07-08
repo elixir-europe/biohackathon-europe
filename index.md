@@ -91,7 +91,7 @@ BioHackathon Europe welcomes participants from industry and encourages collabora
 > _Early-career researcher_
 {: .mb-5}
 
-> 'It was an amazing experience... Two teams embraced our challenge to demonstrate the validity of edge computing. We reached our goal of connecting with the bioinformatics community and creating awareness for a new technology. No doubt we will participate in the future.'
+> 'It was an amazing experience ... Two teams embraced our challenge to demonstrate the validity of edge computing. We reached our goal of connecting with the bioinformatics community and creating awareness for a new technology. No doubt we will participate in the future.'
 >
 > _Natalia Jimenez, Atos_
 {: .mb-6}
