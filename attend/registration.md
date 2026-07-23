@@ -39,9 +39,9 @@ Participants wishing to attend virtually may register at any time. At present, w
 
 ## Funding
 
-BioHackathon Europe is committed to open participation. Approved project proposal co-leads may designate up to three participants for on-site attendance, regardless of affiliation. This allocation will be determined during project proposal submission. Since these reserved seats reduce availability for open registration, the following guidelines apply:
+BioHackathon Europe is committed to open participation. This allocation will be determined during project proposal submission. Since these reserved seats reduce availability for open registration, the following guidelines apply:
 
-- A maximum of three on-site participants per project can be reserved
+- A maximum of three on-site participants per project can be reserved - for the co-leads
 - ELIXIR may fund up to two of these participants, provided they belong to an ELIXIR Node
 - ELIXIR will not provide any additional funding beyond this
 
