@@ -9,10 +9,13 @@ show_sidebar: false
 hero_image: /assets/img/heroes/hero-2026.webp
 hero_darken: true
 reg_text: >
-  Registration is now open for virtual participation
+  You can currently register for virtual attendance or join the waiting list for an in-person place.
   <div class="buttons is-centered mt-4">
+    <a href="https://elixir-events.eventscase.com/attendance/event/index/45837/EN" class="button ml-3">
+      Join the waiting list
+    </a>
     <a href="https://elixir-events.eventscase.com/attendance/event/index/45836/EN" class="button is-size-5 ml-3">
-      Register for virtual attendance
+      Register virtually
     </a>
   </div>
 ---
