@@ -9,15 +9,15 @@ show_sidebar: false
 hero_image: /assets/img/heroes/hero-2026.webp
 hero_darken: true
 reg_text: >
-  Register to attend virtually or join the waiting list for an in-person place
-<div class="buttons is-centered mt-4">
-  <a href="https://elixir-events.eventscase.com/attendance/event/index/45837/EN" class="button is-size-5 ml-3">
-    Join the waiting list
-  </a>
-  <a href="https://elixir-events.eventscase.com/attendance/event/index/45836/EN" class="button is-size-5 ml-3">
-    Register for virtual attendance
-  </a>
-</div>
+  Register to attend online or join the waiting list for an in-person place.
+  <div class="buttons is-centered mt-4">
+    <a href="https://elixir-events.eventscase.com/attendance/event/index/45837/EN" class="button is-size-5 ml-3">
+      Join the waiting list
+    </a>
+    <a href="https://elixir-events.eventscase.com/attendance/event/index/45836/EN" class="button is-size-5 ml-3">
+      Register for virtual attendance
+    </a>
+  </div>
 ---
 
 [![ELIXIR logo](/assets/logos/elixir-logo.svg){: .is-pulled-right .ml-5 .mb-5 width="170"}](https://elixir-europe.org/)
