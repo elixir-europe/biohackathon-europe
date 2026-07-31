@@ -20,6 +20,7 @@ reg_text: >
   </div>
 ---
 
+
 [![ELIXIR logo](/assets/logos/elixir-logo.svg){: .is-pulled-right .ml-5 .mb-5 width="170"}](https://elixir-europe.org/)
 
 BioHackathon Europe is an annual event that brings together bioinformaticians and computational biologists from around the world. It’s organised by [ELIXIR Europe](https://elixir-europe.org/) and offers an intense week of hacking, with participants working on diverse and exciting projects. BioHackathon is a community-driven event, providing an opportunity for members of the life sciences community to meet and work together on topics of common interest. The goal is to create code that addresses challenges in bioinformatics research.
