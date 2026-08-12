@@ -40,6 +40,18 @@ The next BioHackathon will take place at Campus Belloch in Barcelona from 9 to 1
 </ul>
 </div>
 
+<div class="notification is-light my-5">
+  <h2>BioHackathon Europe 2025 report</h2>
+
+  <p>Explore the projects, collaborations and outcomes from BioHackathon Europe 2025.</p>
+
+  <p>
+    <strong>
+      <a href="https://doi.org/10.5281/zenodo.20446860">Read the BioHackathon Europe 2025 Report</a>
+    </strong>
+  </p>
+</div>
+
 <!---
 Images below wrap in a <p> tag. To-do: include images or find another 
 workaround to avoid this, whilst still keeping the file easy to edit.
