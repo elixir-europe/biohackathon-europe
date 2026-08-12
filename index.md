@@ -40,16 +40,25 @@ The next BioHackathon will take place at Campus Belloch in Barcelona from 9 to 1
 </ul>
 </div>
 
-<div class="notification is-light my-5">
-  <h2>BioHackathon Europe 2025 report</h2>
+<div class="columns is-vcentered my-6" style="border-left:6px solid #ef7b45; border-radius:8px; padding:24px; background:linear-gradient(135deg, #f3f0f8 0%, #ffffff 100%); box-shadow:0 3px 12px rgba(0,0,0,0.08);">
+  <div class="column">
+    <p style="margin-bottom:8px; color:#555; font-size:0.875rem; font-weight:700; letter-spacing:0.04em; text-transform:uppercase;">
+      Newly published
+    </p>
 
-  <p>Explore the projects, collaborations and outcomes from BioHackathon Europe 2025.</p>
+    <h2 style="margin-top:0;">Discover what we achieved in 2025</h2>
 
-  <p>
-    <strong>
-      <a href="https://doi.org/10.5281/zenodo.20446860">Read the BioHackathon Europe 2025 Report</a>
-    </strong>
-  </p>
+    <p>
+      Explore the projects, collaborations and outcomes from BioHackathon Europe 2025 and see what participants created during an intensive week of innovation.
+    </p>
+  </div>
+
+  <div class="column is-narrow">
+    <a class="button is-primary is-medium"
+       href="https://doi.org/10.5281/zenodo.20446860">
+      Read the 2025 report
+    </a>
+  </div>
 </div>
 
 <!---
