@@ -50,13 +50,13 @@ The next BioHackathon will take place at Campus Belloch in Barcelona from 9 to 1
   </h2>
 
   <p style="margin-bottom:12px;">
-    Explore the projects, collaborations and outcomes from BioHackathon Europe 2025.
+    Explore the projects, collaborations and outcomes from the last BioHackathon Europe event.
   </p>
 
   <p style="margin-bottom:0;">
     <strong>
       <a href="https://doi.org/10.5281/zenodo.20446860">
-        Read the BioHackathon Europe 2025 report →
+        Read the BioHackathon Europe 2025 Report →
       </a>
     </strong>
   </p>
