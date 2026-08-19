@@ -11,8 +11,7 @@ hero_darken: true
 <p>
   View the BioHackathon Europe 2026 programme below or
   <a href="{{ '/assets/pdf/BHEU26Programme.pdf' | relative_url }}" target="_blank">
-    download the programme as a PDF
-  </a>.
+    download the programme as a PDF</a>.
 </p>
 
 <div class="programme-pdf">
