@@ -8,9 +8,43 @@ hero_image: /assets/img/heroes/hero-discussion.webp
 hero_darken: true
 ---
 
-# Watch this space ...
+<p>
+  View the BioHackathon Europe 2026 programme below or
+  <a href="{{ '/assets/pdf/BHEU26Programme.pdf' | relative_url }}" target="_blank">
+    download the programme as a PDF
+  </a>.
+</p>
 
-A detailed schedule for the event, including sessions and discussions, will be published closer to the event. The agenda, including the venue site map, will also be made available at that time.  
+<div class="programme-pdf">
+  <iframe
+    src="{{ '/assets/pdf/BHEU26Programme.pdf' | relative_url }}"
+    title="BioHackathon Europe 2026 programme"
+    width="100%"
+    height="900">
+  </iframe>
+</div>
+
+<style>
+  .programme-pdf {
+    width: 100%;
+    margin-top: 1.5rem;
+  }
+
+  .programme-pdf iframe {
+    display: block;
+    width: 100%;
+    min-height: 900px;
+    border: 1px solid #ddd;
+  }
+
+  @media screen and (max-width: 768px) {
+    .programme-pdf iframe {
+      min-height: 600px;
+    }
+  }
+</style>
+
+<p><em>Details of the programme are subject to change.</em></p>
 
 <!--
 =====================================================
@@ -22,9 +56,9 @@ Hidden for now – retained for reference and reuse
   /* Consistent column widths per table */
   .programme-table { table-layout: fixed; width: 100%; }
   .programme-table th, .programme-table td { vertical-align: top; }
-  .programme-table .col-time   { width: 20%; white-space: nowrap; }
+  .programme-table .col-time { width: 20%; white-space: nowrap; }
   .programme-table .col-activity { width: 50%; }
-  .programme-table .col-room   { width: 30%; }
+  .programme-table .col-room { width: 30%; }
 </style>
 
 ---
@@ -171,3 +205,4 @@ Note: Details of the programme are subject to change. Last updated 3 November 20
 END OF HIDDEN CONTENT
 =====================================================
 -->
+
