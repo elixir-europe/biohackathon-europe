@@ -10,13 +10,15 @@ hero_darken: true
 
 <p>
   View the BioHackathon Europe 2026 programme below or
-  <a href="{{ '/assets/pdf/BHEU26Programme.pdf' | relative_url }}" target="_blank">
-    download the programme as a PDF</a>.
+  <a href="https://drive.google.com/file/d/197SsbihukAaXmorzKa-TwjHLAGBAoa4h/view"
+     target="_blank"
+     rel="noopener noreferrer">
+    open the programme in a new tab</a>.
 </p>
 
 <div class="programme-pdf">
   <iframe
-    src="{{ '/assets/pdf/BHEU26Programme.pdf' | relative_url }}"
+    src="https://drive.google.com/file/d/197SsbihukAaXmorzKa-TwjHLAGBAoa4h/preview"
     title="BioHackathon Europe 2026 programme"
     width="100%"
     height="900">
@@ -32,13 +34,13 @@ hero_darken: true
   .programme-pdf iframe {
     display: block;
     width: 100%;
-    min-height: 900px;
+    height: 900px;
     border: 1px solid #ddd;
   }
 
   @media screen and (max-width: 768px) {
     .programme-pdf iframe {
-      min-height: 600px;
+      height: 600px;
     }
   }
 </style>
@@ -204,4 +206,3 @@ Note: Details of the programme are subject to change. Last updated 3 November 20
 END OF HIDDEN CONTENT
 =====================================================
 -->
-
