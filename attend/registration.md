@@ -27,11 +27,7 @@ If you have any queries about this, please contact <biohackathon-europe@elixir-e
 
 ## Registration and attendance
 
-Project co-leads have been invited to register directly and have received specific registration instructions.
-
-The review process for in-person attendance has now been completed and applicants have been notified of the outcome. A waiting list is now open for anyone who would still like to attend in person. If places become available, additional participants will be invited from the waiting list.
-
-Attendance will only be fully confirmed once accepted participants have paid the venue for their accommodation.
+Project co-leads were invited to register directly with specific registration instructions. The review process for in-person attendance has now ended and all applicants have been notified of the outcome. Attendance will only be fully confirmed once accepted participants have paid the venue for their accommodation.
 
 ### Virtual attendance
 
