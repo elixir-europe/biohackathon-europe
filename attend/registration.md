@@ -11,11 +11,7 @@ hero_darken: true
 
 ## In-person and virtual registration
 
-Participants are welcome to join BioHackathon Europe, either on-site or online, regardless of project submission. Attendance is free, but in-person participants must cover their own travel and accommodation costs. For pricing details, visit the [Venue page](https://biohackathon-europe.org/attend/venue).
-
-The review process for in-person participation has now been completed. If you were not offered a place, or would still like to attend in person, you can join the waiting list. Should places become available, additional participants will be invited from the waiting list.
-
-Please note that all in-person participants are required to stay for the whole duration of the BioHackathon, at the event venue.
+Participants are welcome to join BioHackathon Europe, either on-site or online, regardless of project submission. Attendance is free, but in-person participants must cover their own travel and accommodation costs. For pricing details, visit the [Venue page](https://biohackathon-europe.org/attend/venue). The review process for in-person participation has now ended. Please note that all in-person participants are required to stay for the whole duration of the BioHackathon, at the event venue.
 
 <div class="buttons">
   <a class="button is-primary is-size-5" href="https://elixir-events.eventscase.com/attendance/event/index/45836/EN">
