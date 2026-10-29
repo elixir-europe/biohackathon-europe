@@ -18,9 +18,6 @@ The review process for in-person participation has now been completed. If you we
 Please note that all in-person participants are required to stay for the whole duration of the BioHackathon, at the event venue.
 
 <div class="buttons">
-  <a class="button is-size-5" href="https://elixir-events.eventscase.com/attendance/event/index/45837/EN">
-    Join the waiting list
-  </a>
   <a class="button is-primary is-size-5" href="https://elixir-events.eventscase.com/attendance/event/index/45836/EN">
     Register for virtual attendance
   </a>
